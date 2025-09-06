@@ -1,0 +1,1139 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MakerMeCrazy//Solano Confirmation Y1//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:solano-y1-1@makermecrazy.local
+DTSTAMP:20250906T233915Z
+SUMMARY:Enrichment #1 (includes Mass)
+LOCATION:Church (Sanctuary) — Solano Catholic Church\, Rancho Santa Margarita\, CA
+DESCRIPTION:Must attend 15 Enrichments. Located in the Church. Includes Mass. Time: 4:00–6:00 PM.
+DTSTART;TZID=America/Los_Angeles:20250928T160000
+DTEND;TZID=America/Los_Angeles:20250928T180000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT30M
+END:VALARM
+ATTACH;FMTTYPE=application/pdf:https://raw.githubusercontent.com/makermecrazy/calendar_files/main/solano_schedule.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:solano-y1-2@makermecrazy.local
+DTSTAMP:20250906T233915Z
+SUMMARY:Enrichment #2 (includes Mass)
+LOCATION:Church (Sanctuary) — Solano Catholic Church\, Rancho Santa Margarita\, CA
+DESCRIPTION:Must attend 15 Enrichments. Located in the Church. Includes Mass. Time: 4:00–6:00 PM.
+DTSTART;TZID=America/Los_Angeles:20251005T160000
+DTEND;TZID=America/Los_Angeles:20251005T180000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT30M
+END:VALARM
+ATTACH;FMTTYPE=application/pdf:https://raw.githubusercontent.com/makermecrazy/calendar_files/main/solano_schedule.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:solano-y1-3@makermecrazy.local
+DTSTAMP:20250906T233915Z
+SUMMARY:Enrichment #3 (includes Mass)
+LOCATION:Church (Sanctuary) — Solano Catholic Church\, Rancho Santa Margarita\, CA
+DESCRIPTION:Must attend 15 Enrichments. Located in the Church. Includes Mass. Time: 4:00–6:00 PM.
+DTSTART;TZID=America/Los_Angeles:20251012T160000
+DTEND;TZID=America/Los_Angeles:20251012T180000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT30M
+END:VALARM
+ATTACH;FMTTYPE=application/pdf:https://raw.githubusercontent.com/makermecrazy/calendar_files/main/solano_schedule.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:solano-y1-4@makermecrazy.local
+DTSTAMP:20250906T233915Z
+SUMMARY:Enrichment #4 (includes Mass)
+LOCATION:Church (Sanctuary) — Solano Catholic Church\, Rancho Santa Margarita\, CA
+DESCRIPTION:Must attend 15 Enrichments. Located in the Church. Includes Mass. Time: 4:00–6:00 PM.
+DTSTART;TZID=America/Los_Angeles:20251019T160000
+DTEND;TZID=America/Los_Angeles:20251019T180000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT30M
+END:VALARM
+ATTACH;FMTTYPE=application/pdf:https://raw.githubusercontent.com/makermecrazy/calendar_files/main/solano_schedule.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:solano-y1-5@makermecrazy.local
+DTSTAMP:20250906T233915Z
+SUMMARY:Enrichment #5 (includes Mass)
+LOCATION:Church (Sanctuary) — Solano Catholic Church\, Rancho Santa Margarita\, CA
+DESCRIPTION:Must attend 15 Enrichments. Located in the Church. Includes Mass. Time: 4:00–6:00 PM.
+DTSTART;TZID=America/Los_Angeles:20251102T160000
+DTEND;TZID=America/Los_Angeles:20251102T180000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT30M
+END:VALARM
+ATTACH;FMTTYPE=application/pdf:https://raw.githubusercontent.com/makermecrazy/calendar_files/main/solano_schedule.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:solano-y1-6@makermecrazy.local
+DTSTAMP:20250906T233915Z
+SUMMARY:Enrichment #6 (includes Mass)
+LOCATION:Church (Sanctuary) — Solano Catholic Church\, Rancho Santa Margarita\, CA
+DESCRIPTION:Must attend 15 Enrichments. Located in the Church. Includes Mass. Time: 4:00–6:00 PM.
+DTSTART;TZID=America/Los_Angeles:20251109T160000
+DTEND;TZID=America/Los_Angeles:20251109T180000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT30M
+END:VALARM
+ATTACH;FMTTYPE=application/pdf:https://raw.githubusercontent.com/makermecrazy/calendar_files/main/solano_schedule.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:solano-y1-7@makermecrazy.local
+DTSTAMP:20250906T233915Z
+SUMMARY:Enrichment #7 (includes Mass)
+LOCATION:Church (Sanctuary) — Solano Catholic Church\, Rancho Santa Margarita\, CA
+DESCRIPTION:Must attend 15 Enrichments. Located in the Church. Includes Mass. Time: 4:00–6:00 PM.
+DTSTART;TZID=America/Los_Angeles:20251123T160000
+DTEND;TZID=America/Los_Angeles:20251123T180000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT30M
+END:VALARM
+ATTACH;FMTTYPE=application/pdf:https://raw.githubusercontent.com/makermecrazy/calendar_files/main/solano_schedule.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:solano-y1-8@makermecrazy.local
+DTSTAMP:20250906T233915Z
+SUMMARY:Enrichment #8 (includes Mass)
+LOCATION:Church (Sanctuary) — Solano Catholic Church\, Rancho Santa Margarita\, CA
+DESCRIPTION:Must attend 15 Enrichments. Located in the Church. Includes Mass. Time: 4:00–6:00 PM.
+DTSTART;TZID=America/Los_Angeles:20251207T160000
+DTEND;TZID=America/Los_Angeles:20251207T180000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT30M
+END:VALARM
+ATTACH;FMTTYPE=application/pdf:https://raw.githubusercontent.com/makermecrazy/calendar_files/main/solano_schedule.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:solano-y1-9@makermecrazy.local
+DTSTAMP:20250906T233915Z
+SUMMARY:Enrichment #9 (includes Mass)
+LOCATION:Church (Sanctuary) — Solano Catholic Church\, Rancho Santa Margarita\, CA
+DESCRIPTION:Must attend 15 Enrichments. Located in the Church. Includes Mass. Time: 4:00–6:00 PM.
+DTSTART;TZID=America/Los_Angeles:20251214T160000
+DTEND;TZID=America/Los_Angeles:20251214T180000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT30M
+END:VALARM
+ATTACH;FMTTYPE=application/pdf:https://raw.githubusercontent.com/makermecrazy/calendar_files/main/solano_schedule.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:solano-y1-10@makermecrazy.local
+DTSTAMP:20250906T233915Z
+SUMMARY:Enrichment #10 (includes Mass)
+LOCATION:Church (Sanctuary) — Solano Catholic Church\, Rancho Santa Margarita\, CA
+DESCRIPTION:Must attend 15 Enrichments. Located in the Church. Includes Mass. Time: 4:00–6:00 PM.
+DTSTART;TZID=America/Los_Angeles:20260111T160000
+DTEND;TZID=America/Los_Angeles:20260111T180000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT30M
+END:VALARM
+ATTACH;FMTTYPE=application/pdf:https://raw.githubusercontent.com/makermecrazy/calendar_files/main/solano_schedule.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:solano-y1-11@makermecrazy.local
+DTSTAMP:20250906T233915Z
+SUMMARY:Enrichment #11 (includes Mass)
+LOCATION:Church (Sanctuary) — Solano Catholic Church\, Rancho Santa Margarita\, CA
+DESCRIPTION:Must attend 15 Enrichments. Located in the Church. Includes Mass. Time: 4:00–6:00 PM.
+DTSTART;TZID=America/Los_Angeles:20260118T160000
+DTEND;TZID=America/Los_Angeles:20260118T180000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT30M
+END:VALARM
+ATTACH;FMTTYPE=application/pdf:https://raw.githubusercontent.com/makermecrazy/calendar_files/main/solano_schedule.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:solano-y1-12@makermecrazy.local
+DTSTAMP:20250906T233915Z
+SUMMARY:Enrichment #12 (includes Mass)
+LOCATION:Church (Sanctuary) — Solano Catholic Church\, Rancho Santa Margarita\, CA
+DESCRIPTION:Must attend 15 Enrichments. Located in the Church. Includes Mass. Time: 4:00–6:00 PM.
+DTSTART;TZID=America/Los_Angeles:20260125T160000
+DTEND;TZID=America/Los_Angeles:20260125T180000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT30M
+END:VALARM
+ATTACH;FMTTYPE=application/pdf:https://raw.githubusercontent.com/makermecrazy/calendar_files/main/solano_schedule.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:solano-y1-13@makermecrazy.local
+DTSTAMP:20250906T233915Z
+SUMMARY:Enrichment #13 (includes Mass)
+LOCATION:Church (Sanctuary) — Solano Catholic Church\, Rancho Santa Margarita\, CA
+DESCRIPTION:Must attend 15 Enrichments. Located in the Church. Includes Mass. Time: 4:00–6:00 PM.
+DTSTART;TZID=America/Los_Angeles:20260215T160000
+DTEND;TZID=America/Los_Angeles:20260215T180000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT30M
+END:VALARM
+ATTACH;FMTTYPE=application/pdf:https://raw.githubusercontent.com/makermecrazy/calendar_files/main/solano_schedule.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:solano-y1-14@makermecrazy.local
+DTSTAMP:20250906T233915Z
+SUMMARY:Enrichment #14 (includes Mass)
+LOCATION:Church (Sanctuary) — Solano Catholic Church\, Rancho Santa Margarita\, CA
+DESCRIPTION:Must attend 15 Enrichments. Located in the Church. Includes Mass. Time: 4:00–6:00 PM.
+DTSTART;TZID=America/Los_Angeles:20260222T160000
+DTEND;TZID=America/Los_Angeles:20260222T180000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT30M
+END:VALARM
+ATTACH;FMTTYPE=application/pdf:https://raw.githubusercontent.com/makermecrazy/calendar_files/main/solano_schedule.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:solano-y1-15@makermecrazy.local
+DTSTAMP:20250906T233915Z
+SUMMARY:Enrichment #15 (includes Mass)
+LOCATION:Church (Sanctuary) — Solano Catholic Church\, Rancho Santa Margarita\, CA
+DESCRIPTION:Must attend 15 Enrichments. Located in the Church. Includes Mass. Time: 4:00–6:00 PM.
+DTSTART;TZID=America/Los_Angeles:20260308T160000
+DTEND;TZID=America/Los_Angeles:20260308T180000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT30M
+END:VALARM
+ATTACH;FMTTYPE=application/pdf:https://raw.githubusercontent.com/makermecrazy/calendar_files/main/solano_schedule.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:solano-y1-16@makermecrazy.local
+DTSTAMP:20250906T233915Z
+SUMMARY:Enrichment #16 (includes Mass)
+LOCATION:Church (Sanctuary) — Solano Catholic Church\, Rancho Santa Margarita\, CA
+DESCRIPTION:Must attend 15 Enrichments. Located in the Church. Includes Mass. Time: 4:00–6:00 PM.
+DTSTART;TZID=America/Los_Angeles:20260322T160000
+DTEND;TZID=America/Los_Angeles:20260322T180000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT30M
+END:VALARM
+ATTACH;FMTTYPE=application/pdf:https://raw.githubusercontent.com/makermecrazy/calendar_files/main/solano_schedule.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:solano-y1-17@makermecrazy.local
+DTSTAMP:20250906T233915Z
+SUMMARY:Enrichment #17 (includes Mass)
+LOCATION:Church (Sanctuary) — Solano Catholic Church\, Rancho Santa Margarita\, CA
+DESCRIPTION:Must attend 15 Enrichments. Located in the Church. Includes Mass. Time: 4:00–6:00 PM.
+DTSTART;TZID=America/Los_Angeles:20260329T160000
+DTEND;TZID=America/Los_Angeles:20260329T180000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT30M
+END:VALARM
+ATTACH;FMTTYPE=application/pdf:https://raw.githubusercontent.com/makermecrazy/calendar_files/main/solano_schedule.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:solano-y1-18@makermecrazy.local
+DTSTAMP:20250906T233915Z
+SUMMARY:Enrichment #18 (includes Mass)
+LOCATION:Church (Sanctuary) — Solano Catholic Church\, Rancho Santa Margarita\, CA
+DESCRIPTION:Must attend 15 Enrichments. Located in the Church. Includes Mass. Time: 4:00–6:00 PM.
+DTSTART;TZID=America/Los_Angeles:20260412T160000
+DTEND;TZID=America/Los_Angeles:20260412T180000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT30M
+END:VALARM
+ATTACH;FMTTYPE=application/pdf:https://raw.githubusercontent.com/makermecrazy/calendar_files/main/solano_schedule.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:solano-y1-19@makermecrazy.local
+DTSTAMP:20250906T233915Z
+SUMMARY:Summit Youth Group
+LOCATION:Youth Room — Solano Catholic Church\, Rancho Santa Margarita\, CA
+DESCRIPTION:Located in the Youth Room. Dinner is provided. Time: 6:00–8:30 PM.
+DTSTART;TZID=America/Los_Angeles:20250824T180000
+DTEND;TZID=America/Los_Angeles:20250824T203000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT30M
+END:VALARM
+ATTACH;FMTTYPE=application/pdf:https://raw.githubusercontent.com/makermecrazy/calendar_files/main/solano_schedule.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:solano-y1-20@makermecrazy.local
+DTSTAMP:20250906T233915Z
+SUMMARY:Summit Youth Group
+LOCATION:Youth Room — Solano Catholic Church\, Rancho Santa Margarita\, CA
+DESCRIPTION:Located in the Youth Room. Dinner is provided. Time: 6:00–8:30 PM.
+DTSTART;TZID=America/Los_Angeles:20250831T180000
+DTEND;TZID=America/Los_Angeles:20250831T203000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT30M
+END:VALARM
+ATTACH;FMTTYPE=application/pdf:https://raw.githubusercontent.com/makermecrazy/calendar_files/main/solano_schedule.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:solano-y1-21@makermecrazy.local
+DTSTAMP:20250906T233915Z
+SUMMARY:Summit Youth Group
+LOCATION:Youth Room — Solano Catholic Church\, Rancho Santa Margarita\, CA
+DESCRIPTION:Located in the Youth Room. Dinner is provided. Time: 6:00–8:30 PM.
+DTSTART;TZID=America/Los_Angeles:20250907T180000
+DTEND;TZID=America/Los_Angeles:20250907T203000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT30M
+END:VALARM
+ATTACH;FMTTYPE=application/pdf:https://raw.githubusercontent.com/makermecrazy/calendar_files/main/solano_schedule.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:solano-y1-22@makermecrazy.local
+DTSTAMP:20250906T233915Z
+SUMMARY:Summit Youth Group
+LOCATION:Youth Room — Solano Catholic Church\, Rancho Santa Margarita\, CA
+DESCRIPTION:Located in the Youth Room. Dinner is provided. Time: 6:00–8:30 PM.
+DTSTART;TZID=America/Los_Angeles:20250914T180000
+DTEND;TZID=America/Los_Angeles:20250914T203000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT30M
+END:VALARM
+ATTACH;FMTTYPE=application/pdf:https://raw.githubusercontent.com/makermecrazy/calendar_files/main/solano_schedule.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:solano-y1-23@makermecrazy.local
+DTSTAMP:20250906T233915Z
+SUMMARY:Summit Youth Group
+LOCATION:Youth Room — Solano Catholic Church\, Rancho Santa Margarita\, CA
+DESCRIPTION:Located in the Youth Room. Dinner is provided. Time: 6:00–8:30 PM.
+DTSTART;TZID=America/Los_Angeles:20250921T180000
+DTEND;TZID=America/Los_Angeles:20250921T203000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT30M
+END:VALARM
+ATTACH;FMTTYPE=application/pdf:https://raw.githubusercontent.com/makermecrazy/calendar_files/main/solano_schedule.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:solano-y1-24@makermecrazy.local
+DTSTAMP:20250906T233915Z
+SUMMARY:Summit Youth Group
+LOCATION:Youth Room — Solano Catholic Church\, Rancho Santa Margarita\, CA
+DESCRIPTION:Located in the Youth Room. Dinner is provided. Time: 6:00–8:30 PM.
+DTSTART;TZID=America/Los_Angeles:20250928T180000
+DTEND;TZID=America/Los_Angeles:20250928T203000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT30M
+END:VALARM
+ATTACH;FMTTYPE=application/pdf:https://raw.githubusercontent.com/makermecrazy/calendar_files/main/solano_schedule.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:solano-y1-25@makermecrazy.local
+DTSTAMP:20250906T233915Z
+SUMMARY:Summit Youth Group
+LOCATION:Youth Room — Solano Catholic Church\, Rancho Santa Margarita\, CA
+DESCRIPTION:Located in the Youth Room. Dinner is provided. Time: 6:00–8:30 PM.
+DTSTART;TZID=America/Los_Angeles:20251005T180000
+DTEND;TZID=America/Los_Angeles:20251005T203000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT30M
+END:VALARM
+ATTACH;FMTTYPE=application/pdf:https://raw.githubusercontent.com/makermecrazy/calendar_files/main/solano_schedule.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:solano-y1-26@makermecrazy.local
+DTSTAMP:20250906T233915Z
+SUMMARY:Summit Youth Group
+LOCATION:Youth Room — Solano Catholic Church\, Rancho Santa Margarita\, CA
+DESCRIPTION:Located in the Youth Room. Dinner is provided. Time: 6:00–8:30 PM.
+DTSTART;TZID=America/Los_Angeles:20251012T180000
+DTEND;TZID=America/Los_Angeles:20251012T203000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT30M
+END:VALARM
+ATTACH;FMTTYPE=application/pdf:https://raw.githubusercontent.com/makermecrazy/calendar_files/main/solano_schedule.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:solano-y1-27@makermecrazy.local
+DTSTAMP:20250906T233915Z
+SUMMARY:Summit Youth Group
+LOCATION:Youth Room — Solano Catholic Church\, Rancho Santa Margarita\, CA
+DESCRIPTION:Located in the Youth Room. Dinner is provided. Time: 6:00–8:30 PM.
+DTSTART;TZID=America/Los_Angeles:20251019T180000
+DTEND;TZID=America/Los_Angeles:20251019T203000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT30M
+END:VALARM
+ATTACH;FMTTYPE=application/pdf:https://raw.githubusercontent.com/makermecrazy/calendar_files/main/solano_schedule.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:solano-y1-28@makermecrazy.local
+DTSTAMP:20250906T233915Z
+SUMMARY:Summit Youth Group
+LOCATION:Youth Room — Solano Catholic Church\, Rancho Santa Margarita\, CA
+DESCRIPTION:Located in the Youth Room. Dinner is provided. Time: 6:00–8:30 PM.
+DTSTART;TZID=America/Los_Angeles:20251026T180000
+DTEND;TZID=America/Los_Angeles:20251026T203000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT30M
+END:VALARM
+ATTACH;FMTTYPE=application/pdf:https://raw.githubusercontent.com/makermecrazy/calendar_files/main/solano_schedule.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:solano-y1-29@makermecrazy.local
+DTSTAMP:20250906T233915Z
+SUMMARY:Summit Youth Group
+LOCATION:Youth Room — Solano Catholic Church\, Rancho Santa Margarita\, CA
+DESCRIPTION:Located in the Youth Room. Dinner is provided. Time: 6:00–8:30 PM.
+DTSTART;TZID=America/Los_Angeles:20251102T180000
+DTEND;TZID=America/Los_Angeles:20251102T203000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT30M
+END:VALARM
+ATTACH;FMTTYPE=application/pdf:https://raw.githubusercontent.com/makermecrazy/calendar_files/main/solano_schedule.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:solano-y1-30@makermecrazy.local
+DTSTAMP:20250906T233915Z
+SUMMARY:Summit Youth Group
+LOCATION:Youth Room — Solano Catholic Church\, Rancho Santa Margarita\, CA
+DESCRIPTION:Located in the Youth Room. Dinner is provided. Time: 6:00–8:30 PM.
+DTSTART;TZID=America/Los_Angeles:20251109T180000
+DTEND;TZID=America/Los_Angeles:20251109T203000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT30M
+END:VALARM
+ATTACH;FMTTYPE=application/pdf:https://raw.githubusercontent.com/makermecrazy/calendar_files/main/solano_schedule.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:solano-y1-31@makermecrazy.local
+DTSTAMP:20250906T233915Z
+SUMMARY:Summit Youth Group
+LOCATION:Youth Room — Solano Catholic Church\, Rancho Santa Margarita\, CA
+DESCRIPTION:Located in the Youth Room. Dinner is provided. Time: 6:00–8:30 PM.
+DTSTART;TZID=America/Los_Angeles:20251123T180000
+DTEND;TZID=America/Los_Angeles:20251123T203000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT30M
+END:VALARM
+ATTACH;FMTTYPE=application/pdf:https://raw.githubusercontent.com/makermecrazy/calendar_files/main/solano_schedule.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:solano-y1-32@makermecrazy.local
+DTSTAMP:20250906T233915Z
+SUMMARY:Summit Youth Group
+LOCATION:Youth Room — Solano Catholic Church\, Rancho Santa Margarita\, CA
+DESCRIPTION:Located in the Youth Room. Dinner is provided. Time: 6:00–8:30 PM.
+DTSTART;TZID=America/Los_Angeles:20251130T180000
+DTEND;TZID=America/Los_Angeles:20251130T203000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT30M
+END:VALARM
+ATTACH;FMTTYPE=application/pdf:https://raw.githubusercontent.com/makermecrazy/calendar_files/main/solano_schedule.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:solano-y1-33@makermecrazy.local
+DTSTAMP:20250906T233915Z
+SUMMARY:Summit Youth Group
+LOCATION:Youth Room — Solano Catholic Church\, Rancho Santa Margarita\, CA
+DESCRIPTION:Located in the Youth Room. Dinner is provided. Time: 6:00–8:30 PM.
+DTSTART;TZID=America/Los_Angeles:20251207T180000
+DTEND;TZID=America/Los_Angeles:20251207T203000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT30M
+END:VALARM
+ATTACH;FMTTYPE=application/pdf:https://raw.githubusercontent.com/makermecrazy/calendar_files/main/solano_schedule.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:solano-y1-34@makermecrazy.local
+DTSTAMP:20250906T233915Z
+SUMMARY:Summit Youth Group
+LOCATION:Youth Room — Solano Catholic Church\, Rancho Santa Margarita\, CA
+DESCRIPTION:Located in the Youth Room. Dinner is provided. Time: 6:00–8:30 PM.
+DTSTART;TZID=America/Los_Angeles:20251214T180000
+DTEND;TZID=America/Los_Angeles:20251214T203000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT30M
+END:VALARM
+ATTACH;FMTTYPE=application/pdf:https://raw.githubusercontent.com/makermecrazy/calendar_files/main/solano_schedule.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:solano-y1-35@makermecrazy.local
+DTSTAMP:20250906T233915Z
+SUMMARY:Summit Youth Group
+LOCATION:Youth Room — Solano Catholic Church\, Rancho Santa Margarita\, CA
+DESCRIPTION:Located in the Youth Room. Dinner is provided. Time: 6:00–8:30 PM.
+DTSTART;TZID=America/Los_Angeles:20251221T180000
+DTEND;TZID=America/Los_Angeles:20251221T203000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT30M
+END:VALARM
+ATTACH;FMTTYPE=application/pdf:https://raw.githubusercontent.com/makermecrazy/calendar_files/main/solano_schedule.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:solano-y1-36@makermecrazy.local
+DTSTAMP:20250906T233915Z
+SUMMARY:Summit Youth Group
+LOCATION:Youth Room — Solano Catholic Church\, Rancho Santa Margarita\, CA
+DESCRIPTION:Located in the Youth Room. Dinner is provided. Time: 6:00–8:30 PM.
+DTSTART;TZID=America/Los_Angeles:20260111T180000
+DTEND;TZID=America/Los_Angeles:20260111T203000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT30M
+END:VALARM
+ATTACH;FMTTYPE=application/pdf:https://raw.githubusercontent.com/makermecrazy/calendar_files/main/solano_schedule.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:solano-y1-37@makermecrazy.local
+DTSTAMP:20250906T233915Z
+SUMMARY:Summit Youth Group
+LOCATION:Youth Room — Solano Catholic Church\, Rancho Santa Margarita\, CA
+DESCRIPTION:Located in the Youth Room. Dinner is provided. Time: 6:00–8:30 PM.
+DTSTART;TZID=America/Los_Angeles:20260118T180000
+DTEND;TZID=America/Los_Angeles:20260118T203000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT30M
+END:VALARM
+ATTACH;FMTTYPE=application/pdf:https://raw.githubusercontent.com/makermecrazy/calendar_files/main/solano_schedule.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:solano-y1-38@makermecrazy.local
+DTSTAMP:20250906T233915Z
+SUMMARY:Summit Youth Group
+LOCATION:Youth Room — Solano Catholic Church\, Rancho Santa Margarita\, CA
+DESCRIPTION:Located in the Youth Room. Dinner is provided. Time: 6:00–8:30 PM.
+DTSTART;TZID=America/Los_Angeles:20260125T180000
+DTEND;TZID=America/Los_Angeles:20260125T203000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT30M
+END:VALARM
+ATTACH;FMTTYPE=application/pdf:https://raw.githubusercontent.com/makermecrazy/calendar_files/main/solano_schedule.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:solano-y1-39@makermecrazy.local
+DTSTAMP:20250906T233915Z
+SUMMARY:Summit Youth Group
+LOCATION:Youth Room — Solano Catholic Church\, Rancho Santa Margarita\, CA
+DESCRIPTION:Located in the Youth Room. Dinner is provided. Time: 6:00–8:30 PM.
+DTSTART;TZID=America/Los_Angeles:20260215T180000
+DTEND;TZID=America/Los_Angeles:20260215T203000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT30M
+END:VALARM
+ATTACH;FMTTYPE=application/pdf:https://raw.githubusercontent.com/makermecrazy/calendar_files/main/solano_schedule.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:solano-y1-40@makermecrazy.local
+DTSTAMP:20250906T233915Z
+SUMMARY:Summit Youth Group
+LOCATION:Youth Room — Solano Catholic Church\, Rancho Santa Margarita\, CA
+DESCRIPTION:Located in the Youth Room. Dinner is provided. Time: 6:00–8:30 PM.
+DTSTART;TZID=America/Los_Angeles:20260222T180000
+DTEND;TZID=America/Los_Angeles:20260222T203000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT30M
+END:VALARM
+ATTACH;FMTTYPE=application/pdf:https://raw.githubusercontent.com/makermecrazy/calendar_files/main/solano_schedule.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:solano-y1-41@makermecrazy.local
+DTSTAMP:20250906T233915Z
+SUMMARY:Summit Youth Group
+LOCATION:Youth Room — Solano Catholic Church\, Rancho Santa Margarita\, CA
+DESCRIPTION:Located in the Youth Room. Dinner is provided. Time: 6:00–8:30 PM.
+DTSTART;TZID=America/Los_Angeles:20260301T180000
+DTEND;TZID=America/Los_Angeles:20260301T203000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT30M
+END:VALARM
+ATTACH;FMTTYPE=application/pdf:https://raw.githubusercontent.com/makermecrazy/calendar_files/main/solano_schedule.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:solano-y1-42@makermecrazy.local
+DTSTAMP:20250906T233915Z
+SUMMARY:Summit Youth Group
+LOCATION:Youth Room — Solano Catholic Church\, Rancho Santa Margarita\, CA
+DESCRIPTION:Located in the Youth Room. Dinner is provided. Time: 6:00–8:30 PM.
+DTSTART;TZID=America/Los_Angeles:20260308T180000
+DTEND;TZID=America/Los_Angeles:20260308T203000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT30M
+END:VALARM
+ATTACH;FMTTYPE=application/pdf:https://raw.githubusercontent.com/makermecrazy/calendar_files/main/solano_schedule.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:solano-y1-43@makermecrazy.local
+DTSTAMP:20250906T233915Z
+SUMMARY:Summit Youth Group
+LOCATION:Youth Room — Solano Catholic Church\, Rancho Santa Margarita\, CA
+DESCRIPTION:Located in the Youth Room. Dinner is provided. Time: 6:00–8:30 PM.
+DTSTART;TZID=America/Los_Angeles:20260322T180000
+DTEND;TZID=America/Los_Angeles:20260322T203000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT30M
+END:VALARM
+ATTACH;FMTTYPE=application/pdf:https://raw.githubusercontent.com/makermecrazy/calendar_files/main/solano_schedule.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:solano-y1-44@makermecrazy.local
+DTSTAMP:20250906T233915Z
+SUMMARY:Summit Youth Group
+LOCATION:Youth Room — Solano Catholic Church\, Rancho Santa Margarita\, CA
+DESCRIPTION:Located in the Youth Room. Dinner is provided. Time: 6:00–8:30 PM.
+DTSTART;TZID=America/Los_Angeles:20260329T180000
+DTEND;TZID=America/Los_Angeles:20260329T203000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT30M
+END:VALARM
+ATTACH;FMTTYPE=application/pdf:https://raw.githubusercontent.com/makermecrazy/calendar_files/main/solano_schedule.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:solano-y1-45@makermecrazy.local
+DTSTAMP:20250906T233915Z
+SUMMARY:Summit Youth Group
+LOCATION:Youth Room — Solano Catholic Church\, Rancho Santa Margarita\, CA
+DESCRIPTION:Located in the Youth Room. Dinner is provided. Time: 6:00–8:30 PM.
+DTSTART;TZID=America/Los_Angeles:20260412T180000
+DTEND;TZID=America/Los_Angeles:20260412T203000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT30M
+END:VALARM
+ATTACH;FMTTYPE=application/pdf:https://raw.githubusercontent.com/makermecrazy/calendar_files/main/solano_schedule.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:solano-y1-46@makermecrazy.local
+DTSTAMP:20250906T233915Z
+SUMMARY:Summit Youth Group
+LOCATION:Youth Room — Solano Catholic Church\, Rancho Santa Margarita\, CA
+DESCRIPTION:Located in the Youth Room. Dinner is provided. Time: 6:00–8:30 PM.
+DTSTART;TZID=America/Los_Angeles:20260419T180000
+DTEND;TZID=America/Los_Angeles:20260419T203000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT30M
+END:VALARM
+ATTACH;FMTTYPE=application/pdf:https://raw.githubusercontent.com/makermecrazy/calendar_files/main/solano_schedule.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:solano-y1-47@makermecrazy.local
+DTSTAMP:20250906T233915Z
+SUMMARY:Summit Youth Group
+LOCATION:Youth Room — Solano Catholic Church\, Rancho Santa Margarita\, CA
+DESCRIPTION:Located in the Youth Room. Dinner is provided. Time: 6:00–8:30 PM.
+DTSTART;TZID=America/Los_Angeles:20260426T180000
+DTEND;TZID=America/Los_Angeles:20260426T203000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT30M
+END:VALARM
+ATTACH;FMTTYPE=application/pdf:https://raw.githubusercontent.com/makermecrazy/calendar_files/main/solano_schedule.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:solano-y1-48@makermecrazy.local
+DTSTAMP:20250906T233915Z
+SUMMARY:Summit Youth Group
+LOCATION:Youth Room — Solano Catholic Church\, Rancho Santa Margarita\, CA
+DESCRIPTION:Located in the Youth Room. Dinner is provided. Time: 6:00–8:30 PM.
+DTSTART;TZID=America/Los_Angeles:20260503T180000
+DTEND;TZID=America/Los_Angeles:20260503T203000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT30M
+END:VALARM
+ATTACH;FMTTYPE=application/pdf:https://raw.githubusercontent.com/makermecrazy/calendar_files/main/solano_schedule.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:solano-y1-49@makermecrazy.local
+DTSTAMP:20250906T233915Z
+SUMMARY:Summit Youth Group
+LOCATION:Youth Room — Solano Catholic Church\, Rancho Santa Margarita\, CA
+DESCRIPTION:Located in the Youth Room. Dinner is provided. Time: 6:00–8:30 PM.
+DTSTART;TZID=America/Los_Angeles:20260517T180000
+DTEND;TZID=America/Los_Angeles:20260517T203000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT30M
+END:VALARM
+ATTACH;FMTTYPE=application/pdf:https://raw.githubusercontent.com/makermecrazy/calendar_files/main/solano_schedule.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:solano-y1-50@makermecrazy.local
+DTSTAMP:20250906T233915Z
+SUMMARY:Summit Youth Group
+LOCATION:Youth Room — Solano Catholic Church\, Rancho Santa Margarita\, CA
+DESCRIPTION:Located in the Youth Room. Dinner is provided. Time: 6:00–8:30 PM.
+DTSTART;TZID=America/Los_Angeles:20260524T180000
+DTEND;TZID=America/Los_Angeles:20260524T203000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT30M
+END:VALARM
+ATTACH;FMTTYPE=application/pdf:https://raw.githubusercontent.com/makermecrazy/calendar_files/main/solano_schedule.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:solano-y1-51@makermecrazy.local
+DTSTAMP:20250906T233915Z
+SUMMARY:Summit Youth Group
+LOCATION:Youth Room — Solano Catholic Church\, Rancho Santa Margarita\, CA
+DESCRIPTION:Located in the Youth Room. Dinner is provided. Time: 6:00–8:30 PM.
+DTSTART;TZID=America/Los_Angeles:20260531T180000
+DTEND;TZID=America/Los_Angeles:20260531T203000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT30M
+END:VALARM
+ATTACH;FMTTYPE=application/pdf:https://raw.githubusercontent.com/makermecrazy/calendar_files/main/solano_schedule.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:solano-y1-52@makermecrazy.local
+DTSTAMP:20250906T233915Z
+SUMMARY:Parent/Student Meeting (Choose one)
+LOCATION:Parish Hall — Solano Catholic Church\, Rancho Santa Margarita\, CA
+DESCRIPTION:Parent/Student Meeting option A: Sun Sept 14\, 11:30 AM–1:00 PM.
+DTSTART;TZID=America/Los_Angeles:20250914T113000
+DTEND;TZID=America/Los_Angeles:20250914T130000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:solano-y1-53@makermecrazy.local
+DTSTAMP:20250906T233915Z
+SUMMARY:Parent/Student Meeting (Choose one)
+LOCATION:Parish Hall — Solano Catholic Church\, Rancho Santa Margarita\, CA
+DESCRIPTION:Parent/Student Meeting option B: Mon Sept 15\, 7:00–8:30 PM.
+DTSTART;TZID=America/Los_Angeles:20250915T190000
+DTEND;TZID=America/Los_Angeles:20250915T203000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:solano-y1-54@makermecrazy.local
+DTSTAMP:20250906T233915Z
+SUMMARY:YEAR 1 Retreat
+LOCATION:Retreat Location (TBD) — Solano Catholic Church\, Rancho Santa Margarita\, CA
+DESCRIPTION:Year 1 Retreat (Fri 5:30 PM – Sun 11:30 AM).
+DTSTART;TZID=America/Los_Angeles:20251114T173000
+DTEND;TZID=America/Los_Angeles:20251116T113000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:solano-y1-55@makermecrazy.local
+DTSTAMP:20250906T233915Z
+SUMMARY:Parent + Student Day
+LOCATION:Parish Hall — Solano Catholic Church\, Rancho Santa Margarita\, CA
+DESCRIPTION:Parent + Student Day (2:00–5:00 PM).
+DTSTART;TZID=America/Los_Angeles:20251026T140000
+DTEND;TZID=America/Los_Angeles:20251026T170000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:solano-y1-56@makermecrazy.local
+DTSTAMP:20250906T233915Z
+SUMMARY:Parent + Student Day
+LOCATION:Parish Hall — Solano Catholic Church\, Rancho Santa Margarita\, CA
+DESCRIPTION:Parent + Student Day (2:00–5:00 PM).
+DTSTART;TZID=America/Los_Angeles:20260301T140000
+DTEND;TZID=America/Los_Angeles:20260301T170000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:solano-y1-57@makermecrazy.local
+DTSTAMP:20250906T233915Z
+SUMMARY:Confirmation Requirements Due
+DESCRIPTION:Service Project Form (10 hrs)\, Enrichment Sessions (15)\, Parent + Student Day (1)\, Year 1 Retreat\, Root Journal\, Sponsor Form.
+DTSTART;TZID=America/Los_Angeles:20260501T090000
+DTEND;TZID=America/Los_Angeles:20260501T100000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT2H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+END:VCALENDAR
