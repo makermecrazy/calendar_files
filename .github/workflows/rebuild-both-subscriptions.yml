@@ -1,0 +1,100 @@
+name: Rebuild both Solano subscriptions
+
+on:
+  push:
+    paths:
+      - '.github/workflows/rebuild-both-subscriptions.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  rebuild:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Build Year 1 and Year 2 subscription calendars
+        shell: python
+        run: |
+          from datetime import datetime
+          from pathlib import Path
+
+          ROOT='https://raw.githubusercontent.com/makermecrazy/calendar_files/main/'
+          CHURCH='San Francisco Solano Catholic Church, 22082 Antonio Pkwy, Rancho Santa Margarita, CA 92688'
+          HALL='Solano Hall - '+CHURCH
+          YOUTH='Youth Room - '+CHURCH
+          SIGNUP='https://m.signupgenius.com/#!/showSignUp/10C0A45A9A92BA2F85-63825727-meals?useFullSite=false'
+          CONF='https://www.solanocatholic.org/confirmation'
+          YOUTHWEB='https://www.solanocatholic.org/solanoyouth'
+          CONTACT='Matt Franklin - Youth Ministry Coordinator\n949-589-1709 x2138\nmfranklin@solanocatholic.org\nsolanoyouth@solanocatholic.org'
+          enrich=['20260927','20261004','20261018','20261025','20261108','20261122','20261206','20261213','20261220','20270110','20270124','20270131','20270221','20270307','20270321','20270404','20270411','20270418']
+          summit=['20260823','20260830','20260906','20260913','20260920','20260927','20261004','20261011','20261018','20261025','20261101','20261108','20261122','20261129','20261206','20261213','20261220','20270110','20270117','20270124','20270131','20270221','20270228','20270307','20270321','20270404','20270411','20270418','20270425','20270502','20270516','20270523','20270530']
+
+          def esc(s):
+              return s.replace('\\','\\\\').replace(';','\\;').replace(',','\\,').replace('\n','\\n')
+          def fold(line):
+              b=line.encode('utf-8'); out=[]
+              while len(b)>73:
+                  cut=73
+                  while cut>0 and (b[cut]&0xC0)==0x80: cut-=1
+                  out.append(b[:cut].decode()); b=b[cut:]
+              out.append(b.decode())
+              return '\r\n '.join(out)
+          def prop(name,val): return fold(name+':'+val)+'\r\n'
+          def alarm(trigger,label):
+              return 'BEGIN:VALARM\r\nACTION:DISPLAY\r\n'+prop('TRIGGER',trigger)+prop('DESCRIPTION',esc(label))+'END:VALARM\r\n'
+          def header(name,prod):
+              return ('BEGIN:VCALENDAR\r\nVERSION:2.0\r\n'+prop('PRODID',prod)+'CALSCALE:GREGORIAN\r\nMETHOD:PUBLISH\r\n'+prop('X-WR-CALNAME',name)+'X-WR-TIMEZONE:America/Los_Angeles\r\nREFRESH-INTERVAL;VALUE=DURATION:PT6H\r\nX-PUBLISHED-TTL:PT6H\r\nBEGIN:VTIMEZONE\r\nTZID:America/Los_Angeles\r\nBEGIN:DAYLIGHT\r\nTZOFFSETFROM:-0800\r\nTZOFFSETTO:-0700\r\nTZNAME:PDT\r\nDTSTART:19700308T020000\r\nRRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU\r\nEND:DAYLIGHT\r\nBEGIN:STANDARD\r\nTZOFFSETFROM:-0700\r\nTZOFFSETTO:-0800\r\nTZNAME:PST\r\nDTSTART:19701101T020000\r\nRRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU\r\nEND:STANDARD\r\nEND:VTIMEZONE\r\n')
+          def docs(year,forms=False):
+              p=ROOT+f'Solano_Youth_Confirmation_Year_{year}_Packet_2026-2027.pdf'
+              c=ROOT+f'Solano_Year_{year}_Calendar_2026-2027.pdf'
+              lines=['DOCUMENTS',f'Complete Year {year} Packet:',p,'',f'Year {year} Calendar:',c]
+              if forms:
+                  lines += ['', 'Service Project Form:', ROOT+'Solano_Service_Project_Form.pdf','', 'Sponsorship Instructions + Form:', ROOT+'Solano_Confirmation_Sponsorship_Instructions_and_Form.pdf']
+              lines += ['', 'SOLANO LINKS', 'Solano Youth:',YOUTHWEB,'','Confirmation:',CONF,'','Summit Meal and Service Signup:',SIGNUP,'','CONTACT',CONTACT]
+              return '\n'.join(lines), [p,c]+(([ROOT+'Solano_Service_Project_Form.pdf',ROOT+'Solano_Confirmation_Sponsorship_Instructions_and_Form.pdf']) if forms else [])
+          def event(uid,start,end,summary,location,intro,year,forms=False,alerts=('PT2H','PT30M')):
+              d,atts=docs(year,forms)
+              s='BEGIN:VEVENT\r\n'+prop('UID',uid)+prop('DTSTAMP','20260914T000000Z')+prop('LAST-MODIFIED','20260914T000000Z')+prop('SEQUENCE','2')
+              s+=prop('DTSTART;TZID=America/Los_Angeles',start)+prop('DTEND;TZID=America/Los_Angeles',end)+prop('SUMMARY',esc(summary))
+              if location: s+=prop('LOCATION',esc(location))
+              s+=prop('DESCRIPTION',esc(intro+'\n\n'+d))+prop('URL',CONF)
+              for a in atts: s+=prop('ATTACH;VALUE=URI;FMTTYPE=application/pdf',a)
+              for a in alerts: s+=alarm('-'+a,'Solano event reminder')
+              return s+'END:VEVENT\r\n'
+          def build(year):
+              out=header(f'Solano Confirmation Year {year} + Summit 2026-2027',f'-//MakerMeCrazy//Solano Year {year} Subscription//EN')
+              for i,d in enumerate(enrich,1):
+                  out+=event(f'solano-y{year}-enrichment-{i}-{d}@makermecrazy',d+'T160000',d+'T180000',f'Solano Year {year} Enrichment #{i}',HALL,f'Enrichment #{i}. 4:00-6:00 PM. Includes Mass. Must attend 15 Enrichments.',year)
+              for d in summit:
+                  out+=event(f'solano-y{year}-summit-{d}@makermecrazy',d+'T180000',d+'T203000',f'Solano Summit - {datetime.strptime(d,"%Y%m%d").strftime("%b %-d")}',YOUTH,'Summit Youth Group. 6:00-8:30 PM. Dinner is provided. Bring a meal to Summit or participate in Garden + Garage for service hours. Students preparing, serving, cleaning up, and staying for the entire Summit receive 5 service hours per meal.',year)
+              out+=event(f'solano-y{year}-parent-student-meeting-20260913@makermecrazy','20260913T113000','20260913T130000',f'Solano Year {year} Parent + Student Meeting - CHOOSE ONE - Sunday Option',CHURCH,'Choose ONE Parent + Student Meeting option. Both student and parent attend together. Sunday option: September 13, 11:30 AM-1:00 PM.',year)
+              out+=event(f'solano-y{year}-parent-student-meeting-20260914@makermecrazy','20260914T190000','20260914T203000',f'Solano Year {year} Parent + Student Meeting - CHOOSE ONE - Monday Option',CHURCH,'Choose ONE Parent + Student Meeting option. Both student and parent attend together. Monday option: September 14, 7:00-8:30 PM.',year)
+              for d in ['20261101','20270228']:
+                  out+=event(f'solano-y{year}-parent-student-day-{d}@makermecrazy',d+'T140000',d+'T170000',f'Solano Year {year} Parent + Student Day Retreat',CHURCH,'Parent + Student Day Retreat. 2:00-5:00 PM.',year)
+              if year==1:
+                  out+=event('solano-y1-retreat-20261113@makermecrazy','20261113T173000','20261115T113000','Solano Year 1 Retreat','', 'Year 1 Retreat. Friday November 13 at 5:30 PM through Sunday November 15 at 11:30 AM. Location is not listed in the source packet and will be added when confirmed.',1,False,('P1D','PT2H'))
+                  intro='REQUIREMENTS DUE MAY 10, 2027\n\nService Project Form - 10 Hrs\nEnrichment Sessions - 15\nParent + Student Day - 1\nYear 1 Retreat\nRoot Journal\nSponsor Form'
+                  out+=event('solano-y1-requirements-due-20270510@makermecrazy','20270510T090000','20270510T091500','Solano Year 1 Requirements Due',CHURCH,intro,1,True,())
+              else:
+                  out+=event('solano-y2-retreat-20270312@makermecrazy','20270312T173000','20270314T113000','Solano Year 2 Retreat','Santiago Retreat Center, 27912 Baker Canyon Rd, Silverado, CA 92676','Year 2 Retreat. Friday March 12 at 5:30 PM through Sunday March 14 at 11:30 AM. Santiago Retreat Center. 714-649-9800. info@santiagoretreatcenter.org. https://www.santiagoretreatcenter.org/',2,False,('P1D','PT2H'))
+                  intro='REQUIREMENTS DUE APRIL 4, 2027\n\nService Project Form - 10 Hrs\nEnrichment Sessions - 15\nParent + Student Day - 1\nYear 2 Retreat\nLetter to the Bishop'
+                  out+=event('solano-y2-requirements-due-20270404@makermecrazy','20270404T090000','20270404T091500','Solano Year 2 Requirements Due',CHURCH,intro,2,True,())
+              return out+'END:VCALENDAR\r\n'
+
+          for y in (1,2):
+              text=build(y)
+              Path(f'Solano_Year_{y}_SUBSCRIPTION_2026-2027.ics').write_bytes(text.encode('utf-8'))
+              assert text.count('BEGIN:VEVENT')==57
+              assert text.count('END:VEVENT')==57
+              assert text.count('BEGIN:VALARM')==112
+              assert 'DOCUMENTS\\n' in text
+              assert 'Service Project Form:' in text
+              print('Year',y,'events',text.count('BEGIN:VEVENT'),'bytes',len(text.encode()))
+      - name: Commit rebuilt calendars
+        run: |
+          git config user.name "MakerMeCrazy Calendar Builder"
+          git config user.email "actions@users.noreply.github.com"
+          git add Solano_Year_1_SUBSCRIPTION_2026-2027.ics Solano_Year_2_SUBSCRIPTION_2026-2027.ics
+          git commit -m "Rebuild Year 1 and Year 2 subscription calendars" || exit 0
+          git push
