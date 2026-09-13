@@ -26,29 +26,29 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:solano-y2-enrichment-1-20260927@makermecrazy
-DTSTAMP:20260914T000000Z
-LAST-MODIFIED:20260914T000000Z
-SEQUENCE:2
+DTSTAMP:20260914T230000Z
+LAST-MODIFIED:20260914T230000Z
+SEQUENCE:3
 DTSTART;TZID=America/Los_Angeles:20260927T160000
 DTEND;TZID=America/Los_Angeles:20260927T180000
 SUMMARY:Solano Year 2 Enrichment #1
 LOCATION:Solano Hall - San Francisco Solano Catholic Church\, 22082 Anton
  io Pkwy\, Rancho Santa Margarita\, CA 92688
 DESCRIPTION:Enrichment #1. 4:00-6:00 PM. Includes Mass. Must attend 15 En
- richments.\n\nDOCUMENTS\nComplete Year 2 Packet:\nhttps://raw.githubuserc
- ontent.com/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Yea
- r_2_Packet_2026-2027.pdf\n\nYear 2 Calendar:\nhttps://raw.githubuserconte
- nt.com/makermecrazy/calendar_files/main/Solano_Year_2_Calendar_2026-2027.
- pdf\n\nSOLANO LINKS\nSolano Youth:\nhttps://www.solanocatholic.org/solano
- youth\n\nConfirmation:\nhttps://www.solanocatholic.org/confirmation\n\nSu
- mmit Meal and Service Signup:\nhttps://m.signupgenius.com/#!/showSignUp/1
- 0C0A45A9A92BA2F85-63825727-meals?useFullSite=false\n\nCONTACT\nMatt Frank
- lin - Youth Ministry Coordinator\n949-589-1709 x2138\nmfranklin@solanocat
- holic.org\nsolanoyouth@solanocatholic.org
+ richments.\n\nDOCUMENTS\nComplete Year 2 Packet:\nhttps://raw.githubuser
+ content.com/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Y
+ ear_2_Packet_2026-2027.pdf\n\nYear 2 Calendar:\nhttps://raw.githubuserco
+ ntent.com/makermecrazy/calendar_files/main/Solano_Year_2_Calendar_2026-2
+ 027.pdf\n\nSOLANO LINKS\nSolano Youth:\nhttps://www.solanocatholic.org/s
+ olanoyouth\n\nConfirmation:\nhttps://www.solanocatholic.org/confirmation
+ \n\nSummit Meal and Service Signup:\nhttps://m.signupgenius.com/#!/showS
+ ignUp/10C0A45A9A92BA2F85-63825727-meals?useFullSite=false\n\nCONTACT\nMa
+ tt Franklin - Youth Ministry Coordinator\n949-589-1709 x2138\nmfranklin@
+ solanocatholic.org\nsolanoyouth@solanocatholic.org
 URL:https://www.solanocatholic.org/confirmation
 ATTACH;VALUE=URI;FMTTYPE=application/pdf:https://raw.githubusercontent.co
- m/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Year_2_Packe
- t_2026-2027.pdf
+ m/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Year_2_Pack
+ et_2026-2027.pdf
 ATTACH;VALUE=URI;FMTTYPE=application/pdf:https://raw.githubusercontent.co
  m/makermecrazy/calendar_files/main/Solano_Year_2_Calendar_2026-2027.pdf
 BEGIN:VALARM
@@ -64,29 +64,29 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:solano-y2-enrichment-2-20261004@makermecrazy
-DTSTAMP:20260914T000000Z
-LAST-MODIFIED:20260914T000000Z
-SEQUENCE:2
+DTSTAMP:20260914T230000Z
+LAST-MODIFIED:20260914T230000Z
+SEQUENCE:3
 DTSTART;TZID=America/Los_Angeles:20261004T160000
 DTEND;TZID=America/Los_Angeles:20261004T180000
 SUMMARY:Solano Year 2 Enrichment #2
 LOCATION:Solano Hall - San Francisco Solano Catholic Church\, 22082 Anton
  io Pkwy\, Rancho Santa Margarita\, CA 92688
 DESCRIPTION:Enrichment #2. 4:00-6:00 PM. Includes Mass. Must attend 15 En
- richments.\n\nDOCUMENTS\nComplete Year 2 Packet:\nhttps://raw.githubuserc
- ontent.com/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Yea
- r_2_Packet_2026-2027.pdf\n\nYear 2 Calendar:\nhttps://raw.githubuserconte
- nt.com/makermecrazy/calendar_files/main/Solano_Year_2_Calendar_2026-2027.
- pdf\n\nSOLANO LINKS\nSolano Youth:\nhttps://www.solanocatholic.org/solano
- youth\n\nConfirmation:\nhttps://www.solanocatholic.org/confirmation\n\nSu
- mmit Meal and Service Signup:\nhttps://m.signupgenius.com/#!/showSignUp/1
- 0C0A45A9A92BA2F85-63825727-meals?useFullSite=false\n\nCONTACT\nMatt Frank
- lin - Youth Ministry Coordinator\n949-589-1709 x2138\nmfranklin@solanocat
- holic.org\nsolanoyouth@solanocatholic.org
+ richments.\n\nDOCUMENTS\nComplete Year 2 Packet:\nhttps://raw.githubuser
+ content.com/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Y
+ ear_2_Packet_2026-2027.pdf\n\nYear 2 Calendar:\nhttps://raw.githubuserco
+ ntent.com/makermecrazy/calendar_files/main/Solano_Year_2_Calendar_2026-2
+ 027.pdf\n\nSOLANO LINKS\nSolano Youth:\nhttps://www.solanocatholic.org/s
+ olanoyouth\n\nConfirmation:\nhttps://www.solanocatholic.org/confirmation
+ \n\nSummit Meal and Service Signup:\nhttps://m.signupgenius.com/#!/showS
+ ignUp/10C0A45A9A92BA2F85-63825727-meals?useFullSite=false\n\nCONTACT\nMa
+ tt Franklin - Youth Ministry Coordinator\n949-589-1709 x2138\nmfranklin@
+ solanocatholic.org\nsolanoyouth@solanocatholic.org
 URL:https://www.solanocatholic.org/confirmation
 ATTACH;VALUE=URI;FMTTYPE=application/pdf:https://raw.githubusercontent.co
- m/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Year_2_Packe
- t_2026-2027.pdf
+ m/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Year_2_Pack
+ et_2026-2027.pdf
 ATTACH;VALUE=URI;FMTTYPE=application/pdf:https://raw.githubusercontent.co
  m/makermecrazy/calendar_files/main/Solano_Year_2_Calendar_2026-2027.pdf
 BEGIN:VALARM
@@ -102,29 +102,29 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:solano-y2-enrichment-3-20261018@makermecrazy
-DTSTAMP:20260914T000000Z
-LAST-MODIFIED:20260914T000000Z
-SEQUENCE:2
+DTSTAMP:20260914T230000Z
+LAST-MODIFIED:20260914T230000Z
+SEQUENCE:3
 DTSTART;TZID=America/Los_Angeles:20261018T160000
 DTEND;TZID=America/Los_Angeles:20261018T180000
 SUMMARY:Solano Year 2 Enrichment #3
 LOCATION:Solano Hall - San Francisco Solano Catholic Church\, 22082 Anton
  io Pkwy\, Rancho Santa Margarita\, CA 92688
 DESCRIPTION:Enrichment #3. 4:00-6:00 PM. Includes Mass. Must attend 15 En
- richments.\n\nDOCUMENTS\nComplete Year 2 Packet:\nhttps://raw.githubuserc
- ontent.com/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Yea
- r_2_Packet_2026-2027.pdf\n\nYear 2 Calendar:\nhttps://raw.githubuserconte
- nt.com/makermecrazy/calendar_files/main/Solano_Year_2_Calendar_2026-2027.
- pdf\n\nSOLANO LINKS\nSolano Youth:\nhttps://www.solanocatholic.org/solano
- youth\n\nConfirmation:\nhttps://www.solanocatholic.org/confirmation\n\nSu
- mmit Meal and Service Signup:\nhttps://m.signupgenius.com/#!/showSignUp/1
- 0C0A45A9A92BA2F85-63825727-meals?useFullSite=false\n\nCONTACT\nMatt Frank
- lin - Youth Ministry Coordinator\n949-589-1709 x2138\nmfranklin@solanocat
- holic.org\nsolanoyouth@solanocatholic.org
+ richments.\n\nDOCUMENTS\nComplete Year 2 Packet:\nhttps://raw.githubuser
+ content.com/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Y
+ ear_2_Packet_2026-2027.pdf\n\nYear 2 Calendar:\nhttps://raw.githubuserco
+ ntent.com/makermecrazy/calendar_files/main/Solano_Year_2_Calendar_2026-2
+ 027.pdf\n\nSOLANO LINKS\nSolano Youth:\nhttps://www.solanocatholic.org/s
+ olanoyouth\n\nConfirmation:\nhttps://www.solanocatholic.org/confirmation
+ \n\nSummit Meal and Service Signup:\nhttps://m.signupgenius.com/#!/showS
+ ignUp/10C0A45A9A92BA2F85-63825727-meals?useFullSite=false\n\nCONTACT\nMa
+ tt Franklin - Youth Ministry Coordinator\n949-589-1709 x2138\nmfranklin@
+ solanocatholic.org\nsolanoyouth@solanocatholic.org
 URL:https://www.solanocatholic.org/confirmation
 ATTACH;VALUE=URI;FMTTYPE=application/pdf:https://raw.githubusercontent.co
- m/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Year_2_Packe
- t_2026-2027.pdf
+ m/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Year_2_Pack
+ et_2026-2027.pdf
 ATTACH;VALUE=URI;FMTTYPE=application/pdf:https://raw.githubusercontent.co
  m/makermecrazy/calendar_files/main/Solano_Year_2_Calendar_2026-2027.pdf
 BEGIN:VALARM
@@ -140,29 +140,29 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:solano-y2-enrichment-4-20261025@makermecrazy
-DTSTAMP:20260914T000000Z
-LAST-MODIFIED:20260914T000000Z
-SEQUENCE:2
+DTSTAMP:20260914T230000Z
+LAST-MODIFIED:20260914T230000Z
+SEQUENCE:3
 DTSTART;TZID=America/Los_Angeles:20261025T160000
 DTEND;TZID=America/Los_Angeles:20261025T180000
 SUMMARY:Solano Year 2 Enrichment #4
 LOCATION:Solano Hall - San Francisco Solano Catholic Church\, 22082 Anton
  io Pkwy\, Rancho Santa Margarita\, CA 92688
 DESCRIPTION:Enrichment #4. 4:00-6:00 PM. Includes Mass. Must attend 15 En
- richments.\n\nDOCUMENTS\nComplete Year 2 Packet:\nhttps://raw.githubuserc
- ontent.com/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Yea
- r_2_Packet_2026-2027.pdf\n\nYear 2 Calendar:\nhttps://raw.githubuserconte
- nt.com/makermecrazy/calendar_files/main/Solano_Year_2_Calendar_2026-2027.
- pdf\n\nSOLANO LINKS\nSolano Youth:\nhttps://www.solanocatholic.org/solano
- youth\n\nConfirmation:\nhttps://www.solanocatholic.org/confirmation\n\nSu
- mmit Meal and Service Signup:\nhttps://m.signupgenius.com/#!/showSignUp/1
- 0C0A45A9A92BA2F85-63825727-meals?useFullSite=false\n\nCONTACT\nMatt Frank
- lin - Youth Ministry Coordinator\n949-589-1709 x2138\nmfranklin@solanocat
- holic.org\nsolanoyouth@solanocatholic.org
+ richments.\n\nDOCUMENTS\nComplete Year 2 Packet:\nhttps://raw.githubuser
+ content.com/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Y
+ ear_2_Packet_2026-2027.pdf\n\nYear 2 Calendar:\nhttps://raw.githubuserco
+ ntent.com/makermecrazy/calendar_files/main/Solano_Year_2_Calendar_2026-2
+ 027.pdf\n\nSOLANO LINKS\nSolano Youth:\nhttps://www.solanocatholic.org/s
+ olanoyouth\n\nConfirmation:\nhttps://www.solanocatholic.org/confirmation
+ \n\nSummit Meal and Service Signup:\nhttps://m.signupgenius.com/#!/showS
+ ignUp/10C0A45A9A92BA2F85-63825727-meals?useFullSite=false\n\nCONTACT\nMa
+ tt Franklin - Youth Ministry Coordinator\n949-589-1709 x2138\nmfranklin@
+ solanocatholic.org\nsolanoyouth@solanocatholic.org
 URL:https://www.solanocatholic.org/confirmation
 ATTACH;VALUE=URI;FMTTYPE=application/pdf:https://raw.githubusercontent.co
- m/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Year_2_Packe
- t_2026-2027.pdf
+ m/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Year_2_Pack
+ et_2026-2027.pdf
 ATTACH;VALUE=URI;FMTTYPE=application/pdf:https://raw.githubusercontent.co
  m/makermecrazy/calendar_files/main/Solano_Year_2_Calendar_2026-2027.pdf
 BEGIN:VALARM
@@ -178,29 +178,29 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:solano-y2-enrichment-5-20261108@makermecrazy
-DTSTAMP:20260914T000000Z
-LAST-MODIFIED:20260914T000000Z
-SEQUENCE:2
+DTSTAMP:20260914T230000Z
+LAST-MODIFIED:20260914T230000Z
+SEQUENCE:3
 DTSTART;TZID=America/Los_Angeles:20261108T160000
 DTEND;TZID=America/Los_Angeles:20261108T180000
 SUMMARY:Solano Year 2 Enrichment #5
 LOCATION:Solano Hall - San Francisco Solano Catholic Church\, 22082 Anton
  io Pkwy\, Rancho Santa Margarita\, CA 92688
 DESCRIPTION:Enrichment #5. 4:00-6:00 PM. Includes Mass. Must attend 15 En
- richments.\n\nDOCUMENTS\nComplete Year 2 Packet:\nhttps://raw.githubuserc
- ontent.com/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Yea
- r_2_Packet_2026-2027.pdf\n\nYear 2 Calendar:\nhttps://raw.githubuserconte
- nt.com/makermecrazy/calendar_files/main/Solano_Year_2_Calendar_2026-2027.
- pdf\n\nSOLANO LINKS\nSolano Youth:\nhttps://www.solanocatholic.org/solano
- youth\n\nConfirmation:\nhttps://www.solanocatholic.org/confirmation\n\nSu
- mmit Meal and Service Signup:\nhttps://m.signupgenius.com/#!/showSignUp/1
- 0C0A45A9A92BA2F85-63825727-meals?useFullSite=false\n\nCONTACT\nMatt Frank
- lin - Youth Ministry Coordinator\n949-589-1709 x2138\nmfranklin@solanocat
- holic.org\nsolanoyouth@solanocatholic.org
+ richments.\n\nDOCUMENTS\nComplete Year 2 Packet:\nhttps://raw.githubuser
+ content.com/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Y
+ ear_2_Packet_2026-2027.pdf\n\nYear 2 Calendar:\nhttps://raw.githubuserco
+ ntent.com/makermecrazy/calendar_files/main/Solano_Year_2_Calendar_2026-2
+ 027.pdf\n\nSOLANO LINKS\nSolano Youth:\nhttps://www.solanocatholic.org/s
+ olanoyouth\n\nConfirmation:\nhttps://www.solanocatholic.org/confirmation
+ \n\nSummit Meal and Service Signup:\nhttps://m.signupgenius.com/#!/showS
+ ignUp/10C0A45A9A92BA2F85-63825727-meals?useFullSite=false\n\nCONTACT\nMa
+ tt Franklin - Youth Ministry Coordinator\n949-589-1709 x2138\nmfranklin@
+ solanocatholic.org\nsolanoyouth@solanocatholic.org
 URL:https://www.solanocatholic.org/confirmation
 ATTACH;VALUE=URI;FMTTYPE=application/pdf:https://raw.githubusercontent.co
- m/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Year_2_Packe
- t_2026-2027.pdf
+ m/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Year_2_Pack
+ et_2026-2027.pdf
 ATTACH;VALUE=URI;FMTTYPE=application/pdf:https://raw.githubusercontent.co
  m/makermecrazy/calendar_files/main/Solano_Year_2_Calendar_2026-2027.pdf
 BEGIN:VALARM
@@ -216,29 +216,29 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:solano-y2-enrichment-6-20261122@makermecrazy
-DTSTAMP:20260914T000000Z
-LAST-MODIFIED:20260914T000000Z
-SEQUENCE:2
+DTSTAMP:20260914T230000Z
+LAST-MODIFIED:20260914T230000Z
+SEQUENCE:3
 DTSTART;TZID=America/Los_Angeles:20261122T160000
 DTEND;TZID=America/Los_Angeles:20261122T180000
 SUMMARY:Solano Year 2 Enrichment #6
 LOCATION:Solano Hall - San Francisco Solano Catholic Church\, 22082 Anton
  io Pkwy\, Rancho Santa Margarita\, CA 92688
 DESCRIPTION:Enrichment #6. 4:00-6:00 PM. Includes Mass. Must attend 15 En
- richments.\n\nDOCUMENTS\nComplete Year 2 Packet:\nhttps://raw.githubuserc
- ontent.com/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Yea
- r_2_Packet_2026-2027.pdf\n\nYear 2 Calendar:\nhttps://raw.githubuserconte
- nt.com/makermecrazy/calendar_files/main/Solano_Year_2_Calendar_2026-2027.
- pdf\n\nSOLANO LINKS\nSolano Youth:\nhttps://www.solanocatholic.org/solano
- youth\n\nConfirmation:\nhttps://www.solanocatholic.org/confirmation\n\nSu
- mmit Meal and Service Signup:\nhttps://m.signupgenius.com/#!/showSignUp/1
- 0C0A45A9A92BA2F85-63825727-meals?useFullSite=false\n\nCONTACT\nMatt Frank
- lin - Youth Ministry Coordinator\n949-589-1709 x2138\nmfranklin@solanocat
- holic.org\nsolanoyouth@solanocatholic.org
+ richments.\n\nDOCUMENTS\nComplete Year 2 Packet:\nhttps://raw.githubuser
+ content.com/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Y
+ ear_2_Packet_2026-2027.pdf\n\nYear 2 Calendar:\nhttps://raw.githubuserco
+ ntent.com/makermecrazy/calendar_files/main/Solano_Year_2_Calendar_2026-2
+ 027.pdf\n\nSOLANO LINKS\nSolano Youth:\nhttps://www.solanocatholic.org/s
+ olanoyouth\n\nConfirmation:\nhttps://www.solanocatholic.org/confirmation
+ \n\nSummit Meal and Service Signup:\nhttps://m.signupgenius.com/#!/showS
+ ignUp/10C0A45A9A92BA2F85-63825727-meals?useFullSite=false\n\nCONTACT\nMa
+ tt Franklin - Youth Ministry Coordinator\n949-589-1709 x2138\nmfranklin@
+ solanocatholic.org\nsolanoyouth@solanocatholic.org
 URL:https://www.solanocatholic.org/confirmation
 ATTACH;VALUE=URI;FMTTYPE=application/pdf:https://raw.githubusercontent.co
- m/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Year_2_Packe
- t_2026-2027.pdf
+ m/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Year_2_Pack
+ et_2026-2027.pdf
 ATTACH;VALUE=URI;FMTTYPE=application/pdf:https://raw.githubusercontent.co
  m/makermecrazy/calendar_files/main/Solano_Year_2_Calendar_2026-2027.pdf
 BEGIN:VALARM
@@ -254,29 +254,29 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:solano-y2-enrichment-7-20261206@makermecrazy
-DTSTAMP:20260914T000000Z
-LAST-MODIFIED:20260914T000000Z
-SEQUENCE:2
+DTSTAMP:20260914T230000Z
+LAST-MODIFIED:20260914T230000Z
+SEQUENCE:3
 DTSTART;TZID=America/Los_Angeles:20261206T160000
 DTEND;TZID=America/Los_Angeles:20261206T180000
 SUMMARY:Solano Year 2 Enrichment #7
 LOCATION:Solano Hall - San Francisco Solano Catholic Church\, 22082 Anton
  io Pkwy\, Rancho Santa Margarita\, CA 92688
 DESCRIPTION:Enrichment #7. 4:00-6:00 PM. Includes Mass. Must attend 15 En
- richments.\n\nDOCUMENTS\nComplete Year 2 Packet:\nhttps://raw.githubuserc
- ontent.com/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Yea
- r_2_Packet_2026-2027.pdf\n\nYear 2 Calendar:\nhttps://raw.githubuserconte
- nt.com/makermecrazy/calendar_files/main/Solano_Year_2_Calendar_2026-2027.
- pdf\n\nSOLANO LINKS\nSolano Youth:\nhttps://www.solanocatholic.org/solano
- youth\n\nConfirmation:\nhttps://www.solanocatholic.org/confirmation\n\nSu
- mmit Meal and Service Signup:\nhttps://m.signupgenius.com/#!/showSignUp/1
- 0C0A45A9A92BA2F85-63825727-meals?useFullSite=false\n\nCONTACT\nMatt Frank
- lin - Youth Ministry Coordinator\n949-589-1709 x2138\nmfranklin@solanocat
- holic.org\nsolanoyouth@solanocatholic.org
+ richments.\n\nDOCUMENTS\nComplete Year 2 Packet:\nhttps://raw.githubuser
+ content.com/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Y
+ ear_2_Packet_2026-2027.pdf\n\nYear 2 Calendar:\nhttps://raw.githubuserco
+ ntent.com/makermecrazy/calendar_files/main/Solano_Year_2_Calendar_2026-2
+ 027.pdf\n\nSOLANO LINKS\nSolano Youth:\nhttps://www.solanocatholic.org/s
+ olanoyouth\n\nConfirmation:\nhttps://www.solanocatholic.org/confirmation
+ \n\nSummit Meal and Service Signup:\nhttps://m.signupgenius.com/#!/showS
+ ignUp/10C0A45A9A92BA2F85-63825727-meals?useFullSite=false\n\nCONTACT\nMa
+ tt Franklin - Youth Ministry Coordinator\n949-589-1709 x2138\nmfranklin@
+ solanocatholic.org\nsolanoyouth@solanocatholic.org
 URL:https://www.solanocatholic.org/confirmation
 ATTACH;VALUE=URI;FMTTYPE=application/pdf:https://raw.githubusercontent.co
- m/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Year_2_Packe
- t_2026-2027.pdf
+ m/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Year_2_Pack
+ et_2026-2027.pdf
 ATTACH;VALUE=URI;FMTTYPE=application/pdf:https://raw.githubusercontent.co
  m/makermecrazy/calendar_files/main/Solano_Year_2_Calendar_2026-2027.pdf
 BEGIN:VALARM
@@ -292,29 +292,29 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:solano-y2-enrichment-8-20261213@makermecrazy
-DTSTAMP:20260914T000000Z
-LAST-MODIFIED:20260914T000000Z
-SEQUENCE:2
+DTSTAMP:20260914T230000Z
+LAST-MODIFIED:20260914T230000Z
+SEQUENCE:3
 DTSTART;TZID=America/Los_Angeles:20261213T160000
 DTEND;TZID=America/Los_Angeles:20261213T180000
 SUMMARY:Solano Year 2 Enrichment #8
 LOCATION:Solano Hall - San Francisco Solano Catholic Church\, 22082 Anton
  io Pkwy\, Rancho Santa Margarita\, CA 92688
 DESCRIPTION:Enrichment #8. 4:00-6:00 PM. Includes Mass. Must attend 15 En
- richments.\n\nDOCUMENTS\nComplete Year 2 Packet:\nhttps://raw.githubuserc
- ontent.com/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Yea
- r_2_Packet_2026-2027.pdf\n\nYear 2 Calendar:\nhttps://raw.githubuserconte
- nt.com/makermecrazy/calendar_files/main/Solano_Year_2_Calendar_2026-2027.
- pdf\n\nSOLANO LINKS\nSolano Youth:\nhttps://www.solanocatholic.org/solano
- youth\n\nConfirmation:\nhttps://www.solanocatholic.org/confirmation\n\nSu
- mmit Meal and Service Signup:\nhttps://m.signupgenius.com/#!/showSignUp/1
- 0C0A45A9A92BA2F85-63825727-meals?useFullSite=false\n\nCONTACT\nMatt Frank
- lin - Youth Ministry Coordinator\n949-589-1709 x2138\nmfranklin@solanocat
- holic.org\nsolanoyouth@solanocatholic.org
+ richments.\n\nDOCUMENTS\nComplete Year 2 Packet:\nhttps://raw.githubuser
+ content.com/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Y
+ ear_2_Packet_2026-2027.pdf\n\nYear 2 Calendar:\nhttps://raw.githubuserco
+ ntent.com/makermecrazy/calendar_files/main/Solano_Year_2_Calendar_2026-2
+ 027.pdf\n\nSOLANO LINKS\nSolano Youth:\nhttps://www.solanocatholic.org/s
+ olanoyouth\n\nConfirmation:\nhttps://www.solanocatholic.org/confirmation
+ \n\nSummit Meal and Service Signup:\nhttps://m.signupgenius.com/#!/showS
+ ignUp/10C0A45A9A92BA2F85-63825727-meals?useFullSite=false\n\nCONTACT\nMa
+ tt Franklin - Youth Ministry Coordinator\n949-589-1709 x2138\nmfranklin@
+ solanocatholic.org\nsolanoyouth@solanocatholic.org
 URL:https://www.solanocatholic.org/confirmation
 ATTACH;VALUE=URI;FMTTYPE=application/pdf:https://raw.githubusercontent.co
- m/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Year_2_Packe
- t_2026-2027.pdf
+ m/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Year_2_Pack
+ et_2026-2027.pdf
 ATTACH;VALUE=URI;FMTTYPE=application/pdf:https://raw.githubusercontent.co
  m/makermecrazy/calendar_files/main/Solano_Year_2_Calendar_2026-2027.pdf
 BEGIN:VALARM
@@ -330,29 +330,29 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:solano-y2-enrichment-9-20261220@makermecrazy
-DTSTAMP:20260914T000000Z
-LAST-MODIFIED:20260914T000000Z
-SEQUENCE:2
+DTSTAMP:20260914T230000Z
+LAST-MODIFIED:20260914T230000Z
+SEQUENCE:3
 DTSTART;TZID=America/Los_Angeles:20261220T160000
 DTEND;TZID=America/Los_Angeles:20261220T180000
 SUMMARY:Solano Year 2 Enrichment #9
 LOCATION:Solano Hall - San Francisco Solano Catholic Church\, 22082 Anton
  io Pkwy\, Rancho Santa Margarita\, CA 92688
 DESCRIPTION:Enrichment #9. 4:00-6:00 PM. Includes Mass. Must attend 15 En
- richments.\n\nDOCUMENTS\nComplete Year 2 Packet:\nhttps://raw.githubuserc
- ontent.com/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Yea
- r_2_Packet_2026-2027.pdf\n\nYear 2 Calendar:\nhttps://raw.githubuserconte
- nt.com/makermecrazy/calendar_files/main/Solano_Year_2_Calendar_2026-2027.
- pdf\n\nSOLANO LINKS\nSolano Youth:\nhttps://www.solanocatholic.org/solano
- youth\n\nConfirmation:\nhttps://www.solanocatholic.org/confirmation\n\nSu
- mmit Meal and Service Signup:\nhttps://m.signupgenius.com/#!/showSignUp/1
- 0C0A45A9A92BA2F85-63825727-meals?useFullSite=false\n\nCONTACT\nMatt Frank
- lin - Youth Ministry Coordinator\n949-589-1709 x2138\nmfranklin@solanocat
- holic.org\nsolanoyouth@solanocatholic.org
+ richments.\n\nDOCUMENTS\nComplete Year 2 Packet:\nhttps://raw.githubuser
+ content.com/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Y
+ ear_2_Packet_2026-2027.pdf\n\nYear 2 Calendar:\nhttps://raw.githubuserco
+ ntent.com/makermecrazy/calendar_files/main/Solano_Year_2_Calendar_2026-2
+ 027.pdf\n\nSOLANO LINKS\nSolano Youth:\nhttps://www.solanocatholic.org/s
+ olanoyouth\n\nConfirmation:\nhttps://www.solanocatholic.org/confirmation
+ \n\nSummit Meal and Service Signup:\nhttps://m.signupgenius.com/#!/showS
+ ignUp/10C0A45A9A92BA2F85-63825727-meals?useFullSite=false\n\nCONTACT\nMa
+ tt Franklin - Youth Ministry Coordinator\n949-589-1709 x2138\nmfranklin@
+ solanocatholic.org\nsolanoyouth@solanocatholic.org
 URL:https://www.solanocatholic.org/confirmation
 ATTACH;VALUE=URI;FMTTYPE=application/pdf:https://raw.githubusercontent.co
- m/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Year_2_Packe
- t_2026-2027.pdf
+ m/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Year_2_Pack
+ et_2026-2027.pdf
 ATTACH;VALUE=URI;FMTTYPE=application/pdf:https://raw.githubusercontent.co
  m/makermecrazy/calendar_files/main/Solano_Year_2_Calendar_2026-2027.pdf
 BEGIN:VALARM
@@ -368,29 +368,29 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:solano-y2-enrichment-10-20270110@makermecrazy
-DTSTAMP:20260914T000000Z
-LAST-MODIFIED:20260914T000000Z
-SEQUENCE:2
+DTSTAMP:20260914T230000Z
+LAST-MODIFIED:20260914T230000Z
+SEQUENCE:3
 DTSTART;TZID=America/Los_Angeles:20270110T160000
 DTEND;TZID=America/Los_Angeles:20270110T180000
 SUMMARY:Solano Year 2 Enrichment #10
 LOCATION:Solano Hall - San Francisco Solano Catholic Church\, 22082 Anton
  io Pkwy\, Rancho Santa Margarita\, CA 92688
 DESCRIPTION:Enrichment #10. 4:00-6:00 PM. Includes Mass. Must attend 15 E
- nrichments.\n\nDOCUMENTS\nComplete Year 2 Packet:\nhttps://raw.githubuser
- content.com/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Ye
- ar_2_Packet_2026-2027.pdf\n\nYear 2 Calendar:\nhttps://raw.githubusercont
- ent.com/makermecrazy/calendar_files/main/Solano_Year_2_Calendar_2026-2027
- .pdf\n\nSOLANO LINKS\nSolano Youth:\nhttps://www.solanocatholic.org/solan
- oyouth\n\nConfirmation:\nhttps://www.solanocatholic.org/confirmation\n\nS
- ummit Meal and Service Signup:\nhttps://m.signupgenius.com/#!/showSignUp/
- 10C0A45A9A92BA2F85-63825727-meals?useFullSite=false\n\nCONTACT\nMatt Fran
- klin - Youth Ministry Coordinator\n949-589-1709 x2138\nmfranklin@solanoca
- tholic.org\nsolanoyouth@solanocatholic.org
+ nrichments.\n\nDOCUMENTS\nComplete Year 2 Packet:\nhttps://raw.githubuse
+ rcontent.com/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_
+ Year_2_Packet_2026-2027.pdf\n\nYear 2 Calendar:\nhttps://raw.githubuserc
+ ontent.com/makermecrazy/calendar_files/main/Solano_Year_2_Calendar_2026-
+ 2027.pdf\n\nSOLANO LINKS\nSolano Youth:\nhttps://www.solanocatholic.org/
+ solanoyouth\n\nConfirmation:\nhttps://www.solanocatholic.org/confirmatio
+ n\n\nSummit Meal and Service Signup:\nhttps://m.signupgenius.com/#!/show
+ SignUp/10C0A45A9A92BA2F85-63825727-meals?useFullSite=false\n\nCONTACT\nM
+ att Franklin - Youth Ministry Coordinator\n949-589-1709 x2138\nmfranklin
+ @solanocatholic.org\nsolanoyouth@solanocatholic.org
 URL:https://www.solanocatholic.org/confirmation
 ATTACH;VALUE=URI;FMTTYPE=application/pdf:https://raw.githubusercontent.co
- m/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Year_2_Packe
- t_2026-2027.pdf
+ m/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Year_2_Pack
+ et_2026-2027.pdf
 ATTACH;VALUE=URI;FMTTYPE=application/pdf:https://raw.githubusercontent.co
  m/makermecrazy/calendar_files/main/Solano_Year_2_Calendar_2026-2027.pdf
 BEGIN:VALARM
@@ -406,29 +406,29 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:solano-y2-enrichment-11-20270124@makermecrazy
-DTSTAMP:20260914T000000Z
-LAST-MODIFIED:20260914T000000Z
-SEQUENCE:2
+DTSTAMP:20260914T230000Z
+LAST-MODIFIED:20260914T230000Z
+SEQUENCE:3
 DTSTART;TZID=America/Los_Angeles:20270124T160000
 DTEND;TZID=America/Los_Angeles:20270124T180000
 SUMMARY:Solano Year 2 Enrichment #11
 LOCATION:Solano Hall - San Francisco Solano Catholic Church\, 22082 Anton
  io Pkwy\, Rancho Santa Margarita\, CA 92688
 DESCRIPTION:Enrichment #11. 4:00-6:00 PM. Includes Mass. Must attend 15 E
- nrichments.\n\nDOCUMENTS\nComplete Year 2 Packet:\nhttps://raw.githubuser
- content.com/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Ye
- ar_2_Packet_2026-2027.pdf\n\nYear 2 Calendar:\nhttps://raw.githubusercont
- ent.com/makermecrazy/calendar_files/main/Solano_Year_2_Calendar_2026-2027
- .pdf\n\nSOLANO LINKS\nSolano Youth:\nhttps://www.solanocatholic.org/solan
- oyouth\n\nConfirmation:\nhttps://www.solanocatholic.org/confirmation\n\nS
- ummit Meal and Service Signup:\nhttps://m.signupgenius.com/#!/showSignUp/
- 10C0A45A9A92BA2F85-63825727-meals?useFullSite=false\n\nCONTACT\nMatt Fran
- klin - Youth Ministry Coordinator\n949-589-1709 x2138\nmfranklin@solanoca
- tholic.org\nsolanoyouth@solanocatholic.org
+ nrichments.\n\nDOCUMENTS\nComplete Year 2 Packet:\nhttps://raw.githubuse
+ rcontent.com/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_
+ Year_2_Packet_2026-2027.pdf\n\nYear 2 Calendar:\nhttps://raw.githubuserc
+ ontent.com/makermecrazy/calendar_files/main/Solano_Year_2_Calendar_2026-
+ 2027.pdf\n\nSOLANO LINKS\nSolano Youth:\nhttps://www.solanocatholic.org/
+ solanoyouth\n\nConfirmation:\nhttps://www.solanocatholic.org/confirmatio
+ n\n\nSummit Meal and Service Signup:\nhttps://m.signupgenius.com/#!/show
+ SignUp/10C0A45A9A92BA2F85-63825727-meals?useFullSite=false\n\nCONTACT\nM
+ att Franklin - Youth Ministry Coordinator\n949-589-1709 x2138\nmfranklin
+ @solanocatholic.org\nsolanoyouth@solanocatholic.org
 URL:https://www.solanocatholic.org/confirmation
 ATTACH;VALUE=URI;FMTTYPE=application/pdf:https://raw.githubusercontent.co
- m/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Year_2_Packe
- t_2026-2027.pdf
+ m/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Year_2_Pack
+ et_2026-2027.pdf
 ATTACH;VALUE=URI;FMTTYPE=application/pdf:https://raw.githubusercontent.co
  m/makermecrazy/calendar_files/main/Solano_Year_2_Calendar_2026-2027.pdf
 BEGIN:VALARM
@@ -444,29 +444,29 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:solano-y2-enrichment-12-20270131@makermecrazy
-DTSTAMP:20260914T000000Z
-LAST-MODIFIED:20260914T000000Z
-SEQUENCE:2
+DTSTAMP:20260914T230000Z
+LAST-MODIFIED:20260914T230000Z
+SEQUENCE:3
 DTSTART;TZID=America/Los_Angeles:20270131T160000
 DTEND;TZID=America/Los_Angeles:20270131T180000
 SUMMARY:Solano Year 2 Enrichment #12
 LOCATION:Solano Hall - San Francisco Solano Catholic Church\, 22082 Anton
  io Pkwy\, Rancho Santa Margarita\, CA 92688
 DESCRIPTION:Enrichment #12. 4:00-6:00 PM. Includes Mass. Must attend 15 E
- nrichments.\n\nDOCUMENTS\nComplete Year 2 Packet:\nhttps://raw.githubuser
- content.com/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Ye
- ar_2_Packet_2026-2027.pdf\n\nYear 2 Calendar:\nhttps://raw.githubusercont
- ent.com/makermecrazy/calendar_files/main/Solano_Year_2_Calendar_2026-2027
- .pdf\n\nSOLANO LINKS\nSolano Youth:\nhttps://www.solanocatholic.org/solan
- oyouth\n\nConfirmation:\nhttps://www.solanocatholic.org/confirmation\n\nS
- ummit Meal and Service Signup:\nhttps://m.signupgenius.com/#!/showSignUp/
- 10C0A45A9A92BA2F85-63825727-meals?useFullSite=false\n\nCONTACT\nMatt Fran
- klin - Youth Ministry Coordinator\n949-589-1709 x2138\nmfranklin@solanoca
- tholic.org\nsolanoyouth@solanocatholic.org
+ nrichments.\n\nDOCUMENTS\nComplete Year 2 Packet:\nhttps://raw.githubuse
+ rcontent.com/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_
+ Year_2_Packet_2026-2027.pdf\n\nYear 2 Calendar:\nhttps://raw.githubuserc
+ ontent.com/makermecrazy/calendar_files/main/Solano_Year_2_Calendar_2026-
+ 2027.pdf\n\nSOLANO LINKS\nSolano Youth:\nhttps://www.solanocatholic.org/
+ solanoyouth\n\nConfirmation:\nhttps://www.solanocatholic.org/confirmatio
+ n\n\nSummit Meal and Service Signup:\nhttps://m.signupgenius.com/#!/show
+ SignUp/10C0A45A9A92BA2F85-63825727-meals?useFullSite=false\n\nCONTACT\nM
+ att Franklin - Youth Ministry Coordinator\n949-589-1709 x2138\nmfranklin
+ @solanocatholic.org\nsolanoyouth@solanocatholic.org
 URL:https://www.solanocatholic.org/confirmation
 ATTACH;VALUE=URI;FMTTYPE=application/pdf:https://raw.githubusercontent.co
- m/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Year_2_Packe
- t_2026-2027.pdf
+ m/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Year_2_Pack
+ et_2026-2027.pdf
 ATTACH;VALUE=URI;FMTTYPE=application/pdf:https://raw.githubusercontent.co
  m/makermecrazy/calendar_files/main/Solano_Year_2_Calendar_2026-2027.pdf
 BEGIN:VALARM
@@ -482,29 +482,29 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:solano-y2-enrichment-13-20270221@makermecrazy
-DTSTAMP:20260914T000000Z
-LAST-MODIFIED:20260914T000000Z
-SEQUENCE:2
+DTSTAMP:20260914T230000Z
+LAST-MODIFIED:20260914T230000Z
+SEQUENCE:3
 DTSTART;TZID=America/Los_Angeles:20270221T160000
 DTEND;TZID=America/Los_Angeles:20270221T180000
 SUMMARY:Solano Year 2 Enrichment #13
 LOCATION:Solano Hall - San Francisco Solano Catholic Church\, 22082 Anton
  io Pkwy\, Rancho Santa Margarita\, CA 92688
 DESCRIPTION:Enrichment #13. 4:00-6:00 PM. Includes Mass. Must attend 15 E
- nrichments.\n\nDOCUMENTS\nComplete Year 2 Packet:\nhttps://raw.githubuser
- content.com/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Ye
- ar_2_Packet_2026-2027.pdf\n\nYear 2 Calendar:\nhttps://raw.githubusercont
- ent.com/makermecrazy/calendar_files/main/Solano_Year_2_Calendar_2026-2027
- .pdf\n\nSOLANO LINKS\nSolano Youth:\nhttps://www.solanocatholic.org/solan
- oyouth\n\nConfirmation:\nhttps://www.solanocatholic.org/confirmation\n\nS
- ummit Meal and Service Signup:\nhttps://m.signupgenius.com/#!/showSignUp/
- 10C0A45A9A92BA2F85-63825727-meals?useFullSite=false\n\nCONTACT\nMatt Fran
- klin - Youth Ministry Coordinator\n949-589-1709 x2138\nmfranklin@solanoca
- tholic.org\nsolanoyouth@solanocatholic.org
+ nrichments.\n\nDOCUMENTS\nComplete Year 2 Packet:\nhttps://raw.githubuse
+ rcontent.com/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_
+ Year_2_Packet_2026-2027.pdf\n\nYear 2 Calendar:\nhttps://raw.githubuserc
+ ontent.com/makermecrazy/calendar_files/main/Solano_Year_2_Calendar_2026-
+ 2027.pdf\n\nSOLANO LINKS\nSolano Youth:\nhttps://www.solanocatholic.org/
+ solanoyouth\n\nConfirmation:\nhttps://www.solanocatholic.org/confirmatio
+ n\n\nSummit Meal and Service Signup:\nhttps://m.signupgenius.com/#!/show
+ SignUp/10C0A45A9A92BA2F85-63825727-meals?useFullSite=false\n\nCONTACT\nM
+ att Franklin - Youth Ministry Coordinator\n949-589-1709 x2138\nmfranklin
+ @solanocatholic.org\nsolanoyouth@solanocatholic.org
 URL:https://www.solanocatholic.org/confirmation
 ATTACH;VALUE=URI;FMTTYPE=application/pdf:https://raw.githubusercontent.co
- m/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Year_2_Packe
- t_2026-2027.pdf
+ m/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Year_2_Pack
+ et_2026-2027.pdf
 ATTACH;VALUE=URI;FMTTYPE=application/pdf:https://raw.githubusercontent.co
  m/makermecrazy/calendar_files/main/Solano_Year_2_Calendar_2026-2027.pdf
 BEGIN:VALARM
@@ -520,29 +520,29 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:solano-y2-enrichment-14-20270307@makermecrazy
-DTSTAMP:20260914T000000Z
-LAST-MODIFIED:20260914T000000Z
-SEQUENCE:2
+DTSTAMP:20260914T230000Z
+LAST-MODIFIED:20260914T230000Z
+SEQUENCE:3
 DTSTART;TZID=America/Los_Angeles:20270307T160000
 DTEND;TZID=America/Los_Angeles:20270307T180000
 SUMMARY:Solano Year 2 Enrichment #14
 LOCATION:Solano Hall - San Francisco Solano Catholic Church\, 22082 Anton
  io Pkwy\, Rancho Santa Margarita\, CA 92688
 DESCRIPTION:Enrichment #14. 4:00-6:00 PM. Includes Mass. Must attend 15 E
- nrichments.\n\nDOCUMENTS\nComplete Year 2 Packet:\nhttps://raw.githubuser
- content.com/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Ye
- ar_2_Packet_2026-2027.pdf\n\nYear 2 Calendar:\nhttps://raw.githubusercont
- ent.com/makermecrazy/calendar_files/main/Solano_Year_2_Calendar_2026-2027
- .pdf\n\nSOLANO LINKS\nSolano Youth:\nhttps://www.solanocatholic.org/solan
- oyouth\n\nConfirmation:\nhttps://www.solanocatholic.org/confirmation\n\nS
- ummit Meal and Service Signup:\nhttps://m.signupgenius.com/#!/showSignUp/
- 10C0A45A9A92BA2F85-63825727-meals?useFullSite=false\n\nCONTACT\nMatt Fran
- klin - Youth Ministry Coordinator\n949-589-1709 x2138\nmfranklin@solanoca
- tholic.org\nsolanoyouth@solanocatholic.org
+ nrichments.\n\nDOCUMENTS\nComplete Year 2 Packet:\nhttps://raw.githubuse
+ rcontent.com/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_
+ Year_2_Packet_2026-2027.pdf\n\nYear 2 Calendar:\nhttps://raw.githubuserc
+ ontent.com/makermecrazy/calendar_files/main/Solano_Year_2_Calendar_2026-
+ 2027.pdf\n\nSOLANO LINKS\nSolano Youth:\nhttps://www.solanocatholic.org/
+ solanoyouth\n\nConfirmation:\nhttps://www.solanocatholic.org/confirmatio
+ n\n\nSummit Meal and Service Signup:\nhttps://m.signupgenius.com/#!/show
+ SignUp/10C0A45A9A92BA2F85-63825727-meals?useFullSite=false\n\nCONTACT\nM
+ att Franklin - Youth Ministry Coordinator\n949-589-1709 x2138\nmfranklin
+ @solanocatholic.org\nsolanoyouth@solanocatholic.org
 URL:https://www.solanocatholic.org/confirmation
 ATTACH;VALUE=URI;FMTTYPE=application/pdf:https://raw.githubusercontent.co
- m/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Year_2_Packe
- t_2026-2027.pdf
+ m/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Year_2_Pack
+ et_2026-2027.pdf
 ATTACH;VALUE=URI;FMTTYPE=application/pdf:https://raw.githubusercontent.co
  m/makermecrazy/calendar_files/main/Solano_Year_2_Calendar_2026-2027.pdf
 BEGIN:VALARM
@@ -558,29 +558,29 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:solano-y2-enrichment-15-20270321@makermecrazy
-DTSTAMP:20260914T000000Z
-LAST-MODIFIED:20260914T000000Z
-SEQUENCE:2
+DTSTAMP:20260914T230000Z
+LAST-MODIFIED:20260914T230000Z
+SEQUENCE:3
 DTSTART;TZID=America/Los_Angeles:20270321T160000
 DTEND;TZID=America/Los_Angeles:20270321T180000
 SUMMARY:Solano Year 2 Enrichment #15
 LOCATION:Solano Hall - San Francisco Solano Catholic Church\, 22082 Anton
  io Pkwy\, Rancho Santa Margarita\, CA 92688
 DESCRIPTION:Enrichment #15. 4:00-6:00 PM. Includes Mass. Must attend 15 E
- nrichments.\n\nDOCUMENTS\nComplete Year 2 Packet:\nhttps://raw.githubuser
- content.com/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Ye
- ar_2_Packet_2026-2027.pdf\n\nYear 2 Calendar:\nhttps://raw.githubusercont
- ent.com/makermecrazy/calendar_files/main/Solano_Year_2_Calendar_2026-2027
- .pdf\n\nSOLANO LINKS\nSolano Youth:\nhttps://www.solanocatholic.org/solan
- oyouth\n\nConfirmation:\nhttps://www.solanocatholic.org/confirmation\n\nS
- ummit Meal and Service Signup:\nhttps://m.signupgenius.com/#!/showSignUp/
- 10C0A45A9A92BA2F85-63825727-meals?useFullSite=false\n\nCONTACT\nMatt Fran
- klin - Youth Ministry Coordinator\n949-589-1709 x2138\nmfranklin@solanoca
- tholic.org\nsolanoyouth@solanocatholic.org
+ nrichments.\n\nDOCUMENTS\nComplete Year 2 Packet:\nhttps://raw.githubuse
+ rcontent.com/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_
+ Year_2_Packet_2026-2027.pdf\n\nYear 2 Calendar:\nhttps://raw.githubuserc
+ ontent.com/makermecrazy/calendar_files/main/Solano_Year_2_Calendar_2026-
+ 2027.pdf\n\nSOLANO LINKS\nSolano Youth:\nhttps://www.solanocatholic.org/
+ solanoyouth\n\nConfirmation:\nhttps://www.solanocatholic.org/confirmatio
+ n\n\nSummit Meal and Service Signup:\nhttps://m.signupgenius.com/#!/show
+ SignUp/10C0A45A9A92BA2F85-63825727-meals?useFullSite=false\n\nCONTACT\nM
+ att Franklin - Youth Ministry Coordinator\n949-589-1709 x2138\nmfranklin
+ @solanocatholic.org\nsolanoyouth@solanocatholic.org
 URL:https://www.solanocatholic.org/confirmation
 ATTACH;VALUE=URI;FMTTYPE=application/pdf:https://raw.githubusercontent.co
- m/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Year_2_Packe
- t_2026-2027.pdf
+ m/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Year_2_Pack
+ et_2026-2027.pdf
 ATTACH;VALUE=URI;FMTTYPE=application/pdf:https://raw.githubusercontent.co
  m/makermecrazy/calendar_files/main/Solano_Year_2_Calendar_2026-2027.pdf
 BEGIN:VALARM
@@ -596,29 +596,29 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:solano-y2-enrichment-16-20270404@makermecrazy
-DTSTAMP:20260914T000000Z
-LAST-MODIFIED:20260914T000000Z
-SEQUENCE:2
+DTSTAMP:20260914T230000Z
+LAST-MODIFIED:20260914T230000Z
+SEQUENCE:3
 DTSTART;TZID=America/Los_Angeles:20270404T160000
 DTEND;TZID=America/Los_Angeles:20270404T180000
 SUMMARY:Solano Year 2 Enrichment #16
 LOCATION:Solano Hall - San Francisco Solano Catholic Church\, 22082 Anton
  io Pkwy\, Rancho Santa Margarita\, CA 92688
 DESCRIPTION:Enrichment #16. 4:00-6:00 PM. Includes Mass. Must attend 15 E
- nrichments.\n\nDOCUMENTS\nComplete Year 2 Packet:\nhttps://raw.githubuser
- content.com/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Ye
- ar_2_Packet_2026-2027.pdf\n\nYear 2 Calendar:\nhttps://raw.githubusercont
- ent.com/makermecrazy/calendar_files/main/Solano_Year_2_Calendar_2026-2027
- .pdf\n\nSOLANO LINKS\nSolano Youth:\nhttps://www.solanocatholic.org/solan
- oyouth\n\nConfirmation:\nhttps://www.solanocatholic.org/confirmation\n\nS
- ummit Meal and Service Signup:\nhttps://m.signupgenius.com/#!/showSignUp/
- 10C0A45A9A92BA2F85-63825727-meals?useFullSite=false\n\nCONTACT\nMatt Fran
- klin - Youth Ministry Coordinator\n949-589-1709 x2138\nmfranklin@solanoca
- tholic.org\nsolanoyouth@solanocatholic.org
+ nrichments.\n\nDOCUMENTS\nComplete Year 2 Packet:\nhttps://raw.githubuse
+ rcontent.com/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_
+ Year_2_Packet_2026-2027.pdf\n\nYear 2 Calendar:\nhttps://raw.githubuserc
+ ontent.com/makermecrazy/calendar_files/main/Solano_Year_2_Calendar_2026-
+ 2027.pdf\n\nSOLANO LINKS\nSolano Youth:\nhttps://www.solanocatholic.org/
+ solanoyouth\n\nConfirmation:\nhttps://www.solanocatholic.org/confirmatio
+ n\n\nSummit Meal and Service Signup:\nhttps://m.signupgenius.com/#!/show
+ SignUp/10C0A45A9A92BA2F85-63825727-meals?useFullSite=false\n\nCONTACT\nM
+ att Franklin - Youth Ministry Coordinator\n949-589-1709 x2138\nmfranklin
+ @solanocatholic.org\nsolanoyouth@solanocatholic.org
 URL:https://www.solanocatholic.org/confirmation
 ATTACH;VALUE=URI;FMTTYPE=application/pdf:https://raw.githubusercontent.co
- m/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Year_2_Packe
- t_2026-2027.pdf
+ m/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Year_2_Pack
+ et_2026-2027.pdf
 ATTACH;VALUE=URI;FMTTYPE=application/pdf:https://raw.githubusercontent.co
  m/makermecrazy/calendar_files/main/Solano_Year_2_Calendar_2026-2027.pdf
 BEGIN:VALARM
@@ -634,29 +634,29 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:solano-y2-enrichment-17-20270411@makermecrazy
-DTSTAMP:20260914T000000Z
-LAST-MODIFIED:20260914T000000Z
-SEQUENCE:2
+DTSTAMP:20260914T230000Z
+LAST-MODIFIED:20260914T230000Z
+SEQUENCE:3
 DTSTART;TZID=America/Los_Angeles:20270411T160000
 DTEND;TZID=America/Los_Angeles:20270411T180000
 SUMMARY:Solano Year 2 Enrichment #17
 LOCATION:Solano Hall - San Francisco Solano Catholic Church\, 22082 Anton
  io Pkwy\, Rancho Santa Margarita\, CA 92688
 DESCRIPTION:Enrichment #17. 4:00-6:00 PM. Includes Mass. Must attend 15 E
- nrichments.\n\nDOCUMENTS\nComplete Year 2 Packet:\nhttps://raw.githubuser
- content.com/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Ye
- ar_2_Packet_2026-2027.pdf\n\nYear 2 Calendar:\nhttps://raw.githubusercont
- ent.com/makermecrazy/calendar_files/main/Solano_Year_2_Calendar_2026-2027
- .pdf\n\nSOLANO LINKS\nSolano Youth:\nhttps://www.solanocatholic.org/solan
- oyouth\n\nConfirmation:\nhttps://www.solanocatholic.org/confirmation\n\nS
- ummit Meal and Service Signup:\nhttps://m.signupgenius.com/#!/showSignUp/
- 10C0A45A9A92BA2F85-63825727-meals?useFullSite=false\n\nCONTACT\nMatt Fran
- klin - Youth Ministry Coordinator\n949-589-1709 x2138\nmfranklin@solanoca
- tholic.org\nsolanoyouth@solanocatholic.org
+ nrichments.\n\nDOCUMENTS\nComplete Year 2 Packet:\nhttps://raw.githubuse
+ rcontent.com/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_
+ Year_2_Packet_2026-2027.pdf\n\nYear 2 Calendar:\nhttps://raw.githubuserc
+ ontent.com/makermecrazy/calendar_files/main/Solano_Year_2_Calendar_2026-
+ 2027.pdf\n\nSOLANO LINKS\nSolano Youth:\nhttps://www.solanocatholic.org/
+ solanoyouth\n\nConfirmation:\nhttps://www.solanocatholic.org/confirmatio
+ n\n\nSummit Meal and Service Signup:\nhttps://m.signupgenius.com/#!/show
+ SignUp/10C0A45A9A92BA2F85-63825727-meals?useFullSite=false\n\nCONTACT\nM
+ att Franklin - Youth Ministry Coordinator\n949-589-1709 x2138\nmfranklin
+ @solanocatholic.org\nsolanoyouth@solanocatholic.org
 URL:https://www.solanocatholic.org/confirmation
 ATTACH;VALUE=URI;FMTTYPE=application/pdf:https://raw.githubusercontent.co
- m/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Year_2_Packe
- t_2026-2027.pdf
+ m/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Year_2_Pack
+ et_2026-2027.pdf
 ATTACH;VALUE=URI;FMTTYPE=application/pdf:https://raw.githubusercontent.co
  m/makermecrazy/calendar_files/main/Solano_Year_2_Calendar_2026-2027.pdf
 BEGIN:VALARM
@@ -672,29 +672,29 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:solano-y2-enrichment-18-20270418@makermecrazy
-DTSTAMP:20260914T000000Z
-LAST-MODIFIED:20260914T000000Z
-SEQUENCE:2
+DTSTAMP:20260914T230000Z
+LAST-MODIFIED:20260914T230000Z
+SEQUENCE:3
 DTSTART;TZID=America/Los_Angeles:20270418T160000
 DTEND;TZID=America/Los_Angeles:20270418T180000
 SUMMARY:Solano Year 2 Enrichment #18
 LOCATION:Solano Hall - San Francisco Solano Catholic Church\, 22082 Anton
  io Pkwy\, Rancho Santa Margarita\, CA 92688
 DESCRIPTION:Enrichment #18. 4:00-6:00 PM. Includes Mass. Must attend 15 E
- nrichments.\n\nDOCUMENTS\nComplete Year 2 Packet:\nhttps://raw.githubuser
- content.com/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Ye
- ar_2_Packet_2026-2027.pdf\n\nYear 2 Calendar:\nhttps://raw.githubusercont
- ent.com/makermecrazy/calendar_files/main/Solano_Year_2_Calendar_2026-2027
- .pdf\n\nSOLANO LINKS\nSolano Youth:\nhttps://www.solanocatholic.org/solan
- oyouth\n\nConfirmation:\nhttps://www.solanocatholic.org/confirmation\n\nS
- ummit Meal and Service Signup:\nhttps://m.signupgenius.com/#!/showSignUp/
- 10C0A45A9A92BA2F85-63825727-meals?useFullSite=false\n\nCONTACT\nMatt Fran
- klin - Youth Ministry Coordinator\n949-589-1709 x2138\nmfranklin@solanoca
- tholic.org\nsolanoyouth@solanocatholic.org
+ nrichments.\n\nDOCUMENTS\nComplete Year 2 Packet:\nhttps://raw.githubuse
+ rcontent.com/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_
+ Year_2_Packet_2026-2027.pdf\n\nYear 2 Calendar:\nhttps://raw.githubuserc
+ ontent.com/makermecrazy/calendar_files/main/Solano_Year_2_Calendar_2026-
+ 2027.pdf\n\nSOLANO LINKS\nSolano Youth:\nhttps://www.solanocatholic.org/
+ solanoyouth\n\nConfirmation:\nhttps://www.solanocatholic.org/confirmatio
+ n\n\nSummit Meal and Service Signup:\nhttps://m.signupgenius.com/#!/show
+ SignUp/10C0A45A9A92BA2F85-63825727-meals?useFullSite=false\n\nCONTACT\nM
+ att Franklin - Youth Ministry Coordinator\n949-589-1709 x2138\nmfranklin
+ @solanocatholic.org\nsolanoyouth@solanocatholic.org
 URL:https://www.solanocatholic.org/confirmation
 ATTACH;VALUE=URI;FMTTYPE=application/pdf:https://raw.githubusercontent.co
- m/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Year_2_Packe
- t_2026-2027.pdf
+ m/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Year_2_Pack
+ et_2026-2027.pdf
 ATTACH;VALUE=URI;FMTTYPE=application/pdf:https://raw.githubusercontent.co
  m/makermecrazy/calendar_files/main/Solano_Year_2_Calendar_2026-2027.pdf
 BEGIN:VALARM
@@ -710,31 +710,31 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:solano-y2-summit-20260823@makermecrazy
-DTSTAMP:20260914T000000Z
-LAST-MODIFIED:20260914T000000Z
-SEQUENCE:2
+DTSTAMP:20260914T230000Z
+LAST-MODIFIED:20260914T230000Z
+SEQUENCE:3
 DTSTART;TZID=America/Los_Angeles:20260823T180000
 DTEND;TZID=America/Los_Angeles:20260823T203000
-SUMMARY:Solano Summit - Aug 23
+SUMMARY:Solano Summit - Year 2
 LOCATION:Youth Room - San Francisco Solano Catholic Church\, 22082 Antoni
  o Pkwy\, Rancho Santa Margarita\, CA 92688
 DESCRIPTION:Summit Youth Group. 6:00-8:30 PM. Dinner is provided. Bring a
-  meal to Summit or participate in Garden + Garage for service hours. Stud
- ents preparing\, serving\, cleaning up\, and staying for the entire Summi
- t receive 5 service hours per meal.\n\nDOCUMENTS\nComplete Year 2 Packet:
- \nhttps://raw.githubusercontent.com/makermecrazy/calendar_files/main/Sola
- no_Youth_Confirmation_Year_2_Packet_2026-2027.pdf\n\nYear 2 Calendar:\nht
- tps://raw.githubusercontent.com/makermecrazy/calendar_files/main/Solano_Y
- ear_2_Calendar_2026-2027.pdf\n\nSOLANO LINKS\nSolano Youth:\nhttps://www.
- solanocatholic.org/solanoyouth\n\nConfirmation:\nhttps://www.solanocathol
- ic.org/confirmation\n\nSummit Meal and Service Signup:\nhttps://m.signupg
- enius.com/#!/showSignUp/10C0A45A9A92BA2F85-63825727-meals?useFullSite=fal
- se\n\nCONTACT\nMatt Franklin - Youth Ministry Coordinator\n949-589-1709 x
- 2138\nmfranklin@solanocatholic.org\nsolanoyouth@solanocatholic.org
+  meal to Summit or Garden+Garage for Service Hours. Students must prepar
+ e\, serve and clean up and stay for the entire Summit youth group = 5 hr
+ s/meal.\n\nDOCUMENTS\nComplete Year 2 Packet:\nhttps://raw.githubusercon
+ tent.com/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Year
+ _2_Packet_2026-2027.pdf\n\nYear 2 Calendar:\nhttps://raw.githubuserconte
+ nt.com/makermecrazy/calendar_files/main/Solano_Year_2_Calendar_2026-2027
+ .pdf\n\nSOLANO LINKS\nSolano Youth:\nhttps://www.solanocatholic.org/sola
+ noyouth\n\nConfirmation:\nhttps://www.solanocatholic.org/confirmation\n\
+ nSummit Meal and Service Signup:\nhttps://m.signupgenius.com/#!/showSign
+ Up/10C0A45A9A92BA2F85-63825727-meals?useFullSite=false\n\nCONTACT\nMatt 
+ Franklin - Youth Ministry Coordinator\n949-589-1709 x2138\nmfranklin@sol
+ anocatholic.org\nsolanoyouth@solanocatholic.org
 URL:https://www.solanocatholic.org/confirmation
 ATTACH;VALUE=URI;FMTTYPE=application/pdf:https://raw.githubusercontent.co
- m/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Year_2_Packe
- t_2026-2027.pdf
+ m/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Year_2_Pack
+ et_2026-2027.pdf
 ATTACH;VALUE=URI;FMTTYPE=application/pdf:https://raw.githubusercontent.co
  m/makermecrazy/calendar_files/main/Solano_Year_2_Calendar_2026-2027.pdf
 BEGIN:VALARM
@@ -750,31 +750,31 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:solano-y2-summit-20260830@makermecrazy
-DTSTAMP:20260914T000000Z
-LAST-MODIFIED:20260914T000000Z
-SEQUENCE:2
+DTSTAMP:20260914T230000Z
+LAST-MODIFIED:20260914T230000Z
+SEQUENCE:3
 DTSTART;TZID=America/Los_Angeles:20260830T180000
 DTEND;TZID=America/Los_Angeles:20260830T203000
-SUMMARY:Solano Summit - Aug 30
+SUMMARY:Solano Summit - Year 2
 LOCATION:Youth Room - San Francisco Solano Catholic Church\, 22082 Antoni
  o Pkwy\, Rancho Santa Margarita\, CA 92688
 DESCRIPTION:Summit Youth Group. 6:00-8:30 PM. Dinner is provided. Bring a
-  meal to Summit or participate in Garden + Garage for service hours. Stud
- ents preparing\, serving\, cleaning up\, and staying for the entire Summi
- t receive 5 service hours per meal.\n\nDOCUMENTS\nComplete Year 2 Packet:
- \nhttps://raw.githubusercontent.com/makermecrazy/calendar_files/main/Sola
- no_Youth_Confirmation_Year_2_Packet_2026-2027.pdf\n\nYear 2 Calendar:\nht
- tps://raw.githubusercontent.com/makermecrazy/calendar_files/main/Solano_Y
- ear_2_Calendar_2026-2027.pdf\n\nSOLANO LINKS\nSolano Youth:\nhttps://www.
- solanocatholic.org/solanoyouth\n\nConfirmation:\nhttps://www.solanocathol
- ic.org/confirmation\n\nSummit Meal and Service Signup:\nhttps://m.signupg
- enius.com/#!/showSignUp/10C0A45A9A92BA2F85-63825727-meals?useFullSite=fal
- se\n\nCONTACT\nMatt Franklin - Youth Ministry Coordinator\n949-589-1709 x
- 2138\nmfranklin@solanocatholic.org\nsolanoyouth@solanocatholic.org
+  meal to Summit or Garden+Garage for Service Hours. Students must prepar
+ e\, serve and clean up and stay for the entire Summit youth group = 5 hr
+ s/meal.\n\nDOCUMENTS\nComplete Year 2 Packet:\nhttps://raw.githubusercon
+ tent.com/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Year
+ _2_Packet_2026-2027.pdf\n\nYear 2 Calendar:\nhttps://raw.githubuserconte
+ nt.com/makermecrazy/calendar_files/main/Solano_Year_2_Calendar_2026-2027
+ .pdf\n\nSOLANO LINKS\nSolano Youth:\nhttps://www.solanocatholic.org/sola
+ noyouth\n\nConfirmation:\nhttps://www.solanocatholic.org/confirmation\n\
+ nSummit Meal and Service Signup:\nhttps://m.signupgenius.com/#!/showSign
+ Up/10C0A45A9A92BA2F85-63825727-meals?useFullSite=false\n\nCONTACT\nMatt 
+ Franklin - Youth Ministry Coordinator\n949-589-1709 x2138\nmfranklin@sol
+ anocatholic.org\nsolanoyouth@solanocatholic.org
 URL:https://www.solanocatholic.org/confirmation
 ATTACH;VALUE=URI;FMTTYPE=application/pdf:https://raw.githubusercontent.co
- m/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Year_2_Packe
- t_2026-2027.pdf
+ m/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Year_2_Pack
+ et_2026-2027.pdf
 ATTACH;VALUE=URI;FMTTYPE=application/pdf:https://raw.githubusercontent.co
  m/makermecrazy/calendar_files/main/Solano_Year_2_Calendar_2026-2027.pdf
 BEGIN:VALARM
@@ -790,31 +790,31 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:solano-y2-summit-20260906@makermecrazy
-DTSTAMP:20260914T000000Z
-LAST-MODIFIED:20260914T000000Z
-SEQUENCE:2
+DTSTAMP:20260914T230000Z
+LAST-MODIFIED:20260914T230000Z
+SEQUENCE:3
 DTSTART;TZID=America/Los_Angeles:20260906T180000
 DTEND;TZID=America/Los_Angeles:20260906T203000
-SUMMARY:Solano Summit - Sep 6
+SUMMARY:Solano Summit - Year 2
 LOCATION:Youth Room - San Francisco Solano Catholic Church\, 22082 Antoni
  o Pkwy\, Rancho Santa Margarita\, CA 92688
 DESCRIPTION:Summit Youth Group. 6:00-8:30 PM. Dinner is provided. Bring a
-  meal to Summit or participate in Garden + Garage for service hours. Stud
- ents preparing\, serving\, cleaning up\, and staying for the entire Summi
- t receive 5 service hours per meal.\n\nDOCUMENTS\nComplete Year 2 Packet:
- \nhttps://raw.githubusercontent.com/makermecrazy/calendar_files/main/Sola
- no_Youth_Confirmation_Year_2_Packet_2026-2027.pdf\n\nYear 2 Calendar:\nht
- tps://raw.githubusercontent.com/makermecrazy/calendar_files/main/Solano_Y
- ear_2_Calendar_2026-2027.pdf\n\nSOLANO LINKS\nSolano Youth:\nhttps://www.
- solanocatholic.org/solanoyouth\n\nConfirmation:\nhttps://www.solanocathol
- ic.org/confirmation\n\nSummit Meal and Service Signup:\nhttps://m.signupg
- enius.com/#!/showSignUp/10C0A45A9A92BA2F85-63825727-meals?useFullSite=fal
- se\n\nCONTACT\nMatt Franklin - Youth Ministry Coordinator\n949-589-1709 x
- 2138\nmfranklin@solanocatholic.org\nsolanoyouth@solanocatholic.org
+  meal to Summit or Garden+Garage for Service Hours. Students must prepar
+ e\, serve and clean up and stay for the entire Summit youth group = 5 hr
+ s/meal.\n\nDOCUMENTS\nComplete Year 2 Packet:\nhttps://raw.githubusercon
+ tent.com/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Year
+ _2_Packet_2026-2027.pdf\n\nYear 2 Calendar:\nhttps://raw.githubuserconte
+ nt.com/makermecrazy/calendar_files/main/Solano_Year_2_Calendar_2026-2027
+ .pdf\n\nSOLANO LINKS\nSolano Youth:\nhttps://www.solanocatholic.org/sola
+ noyouth\n\nConfirmation:\nhttps://www.solanocatholic.org/confirmation\n\
+ nSummit Meal and Service Signup:\nhttps://m.signupgenius.com/#!/showSign
+ Up/10C0A45A9A92BA2F85-63825727-meals?useFullSite=false\n\nCONTACT\nMatt 
+ Franklin - Youth Ministry Coordinator\n949-589-1709 x2138\nmfranklin@sol
+ anocatholic.org\nsolanoyouth@solanocatholic.org
 URL:https://www.solanocatholic.org/confirmation
 ATTACH;VALUE=URI;FMTTYPE=application/pdf:https://raw.githubusercontent.co
- m/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Year_2_Packe
- t_2026-2027.pdf
+ m/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Year_2_Pack
+ et_2026-2027.pdf
 ATTACH;VALUE=URI;FMTTYPE=application/pdf:https://raw.githubusercontent.co
  m/makermecrazy/calendar_files/main/Solano_Year_2_Calendar_2026-2027.pdf
 BEGIN:VALARM
@@ -830,31 +830,31 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:solano-y2-summit-20260913@makermecrazy
-DTSTAMP:20260914T000000Z
-LAST-MODIFIED:20260914T000000Z
-SEQUENCE:2
+DTSTAMP:20260914T230000Z
+LAST-MODIFIED:20260914T230000Z
+SEQUENCE:3
 DTSTART;TZID=America/Los_Angeles:20260913T180000
 DTEND;TZID=America/Los_Angeles:20260913T203000
-SUMMARY:Solano Summit - Sep 13
+SUMMARY:Solano Summit - Year 2
 LOCATION:Youth Room - San Francisco Solano Catholic Church\, 22082 Antoni
  o Pkwy\, Rancho Santa Margarita\, CA 92688
 DESCRIPTION:Summit Youth Group. 6:00-8:30 PM. Dinner is provided. Bring a
-  meal to Summit or participate in Garden + Garage for service hours. Stud
- ents preparing\, serving\, cleaning up\, and staying for the entire Summi
- t receive 5 service hours per meal.\n\nDOCUMENTS\nComplete Year 2 Packet:
- \nhttps://raw.githubusercontent.com/makermecrazy/calendar_files/main/Sola
- no_Youth_Confirmation_Year_2_Packet_2026-2027.pdf\n\nYear 2 Calendar:\nht
- tps://raw.githubusercontent.com/makermecrazy/calendar_files/main/Solano_Y
- ear_2_Calendar_2026-2027.pdf\n\nSOLANO LINKS\nSolano Youth:\nhttps://www.
- solanocatholic.org/solanoyouth\n\nConfirmation:\nhttps://www.solanocathol
- ic.org/confirmation\n\nSummit Meal and Service Signup:\nhttps://m.signupg
- enius.com/#!/showSignUp/10C0A45A9A92BA2F85-63825727-meals?useFullSite=fal
- se\n\nCONTACT\nMatt Franklin - Youth Ministry Coordinator\n949-589-1709 x
- 2138\nmfranklin@solanocatholic.org\nsolanoyouth@solanocatholic.org
+  meal to Summit or Garden+Garage for Service Hours. Students must prepar
+ e\, serve and clean up and stay for the entire Summit youth group = 5 hr
+ s/meal.\n\nDOCUMENTS\nComplete Year 2 Packet:\nhttps://raw.githubusercon
+ tent.com/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Year
+ _2_Packet_2026-2027.pdf\n\nYear 2 Calendar:\nhttps://raw.githubuserconte
+ nt.com/makermecrazy/calendar_files/main/Solano_Year_2_Calendar_2026-2027
+ .pdf\n\nSOLANO LINKS\nSolano Youth:\nhttps://www.solanocatholic.org/sola
+ noyouth\n\nConfirmation:\nhttps://www.solanocatholic.org/confirmation\n\
+ nSummit Meal and Service Signup:\nhttps://m.signupgenius.com/#!/showSign
+ Up/10C0A45A9A92BA2F85-63825727-meals?useFullSite=false\n\nCONTACT\nMatt 
+ Franklin - Youth Ministry Coordinator\n949-589-1709 x2138\nmfranklin@sol
+ anocatholic.org\nsolanoyouth@solanocatholic.org
 URL:https://www.solanocatholic.org/confirmation
 ATTACH;VALUE=URI;FMTTYPE=application/pdf:https://raw.githubusercontent.co
- m/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Year_2_Packe
- t_2026-2027.pdf
+ m/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Year_2_Pack
+ et_2026-2027.pdf
 ATTACH;VALUE=URI;FMTTYPE=application/pdf:https://raw.githubusercontent.co
  m/makermecrazy/calendar_files/main/Solano_Year_2_Calendar_2026-2027.pdf
 BEGIN:VALARM
@@ -870,31 +870,31 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:solano-y2-summit-20260920@makermecrazy
-DTSTAMP:20260914T000000Z
-LAST-MODIFIED:20260914T000000Z
-SEQUENCE:2
+DTSTAMP:20260914T230000Z
+LAST-MODIFIED:20260914T230000Z
+SEQUENCE:3
 DTSTART;TZID=America/Los_Angeles:20260920T180000
 DTEND;TZID=America/Los_Angeles:20260920T203000
-SUMMARY:Solano Summit - Sep 20
+SUMMARY:Solano Summit - Year 2
 LOCATION:Youth Room - San Francisco Solano Catholic Church\, 22082 Antoni
  o Pkwy\, Rancho Santa Margarita\, CA 92688
 DESCRIPTION:Summit Youth Group. 6:00-8:30 PM. Dinner is provided. Bring a
-  meal to Summit or participate in Garden + Garage for service hours. Stud
- ents preparing\, serving\, cleaning up\, and staying for the entire Summi
- t receive 5 service hours per meal.\n\nDOCUMENTS\nComplete Year 2 Packet:
- \nhttps://raw.githubusercontent.com/makermecrazy/calendar_files/main/Sola
- no_Youth_Confirmation_Year_2_Packet_2026-2027.pdf\n\nYear 2 Calendar:\nht
- tps://raw.githubusercontent.com/makermecrazy/calendar_files/main/Solano_Y
- ear_2_Calendar_2026-2027.pdf\n\nSOLANO LINKS\nSolano Youth:\nhttps://www.
- solanocatholic.org/solanoyouth\n\nConfirmation:\nhttps://www.solanocathol
- ic.org/confirmation\n\nSummit Meal and Service Signup:\nhttps://m.signupg
- enius.com/#!/showSignUp/10C0A45A9A92BA2F85-63825727-meals?useFullSite=fal
- se\n\nCONTACT\nMatt Franklin - Youth Ministry Coordinator\n949-589-1709 x
- 2138\nmfranklin@solanocatholic.org\nsolanoyouth@solanocatholic.org
+  meal to Summit or Garden+Garage for Service Hours. Students must prepar
+ e\, serve and clean up and stay for the entire Summit youth group = 5 hr
+ s/meal.\n\nDOCUMENTS\nComplete Year 2 Packet:\nhttps://raw.githubusercon
+ tent.com/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Year
+ _2_Packet_2026-2027.pdf\n\nYear 2 Calendar:\nhttps://raw.githubuserconte
+ nt.com/makermecrazy/calendar_files/main/Solano_Year_2_Calendar_2026-2027
+ .pdf\n\nSOLANO LINKS\nSolano Youth:\nhttps://www.solanocatholic.org/sola
+ noyouth\n\nConfirmation:\nhttps://www.solanocatholic.org/confirmation\n\
+ nSummit Meal and Service Signup:\nhttps://m.signupgenius.com/#!/showSign
+ Up/10C0A45A9A92BA2F85-63825727-meals?useFullSite=false\n\nCONTACT\nMatt 
+ Franklin - Youth Ministry Coordinator\n949-589-1709 x2138\nmfranklin@sol
+ anocatholic.org\nsolanoyouth@solanocatholic.org
 URL:https://www.solanocatholic.org/confirmation
 ATTACH;VALUE=URI;FMTTYPE=application/pdf:https://raw.githubusercontent.co
- m/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Year_2_Packe
- t_2026-2027.pdf
+ m/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Year_2_Pack
+ et_2026-2027.pdf
 ATTACH;VALUE=URI;FMTTYPE=application/pdf:https://raw.githubusercontent.co
  m/makermecrazy/calendar_files/main/Solano_Year_2_Calendar_2026-2027.pdf
 BEGIN:VALARM
@@ -910,31 +910,31 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:solano-y2-summit-20260927@makermecrazy
-DTSTAMP:20260914T000000Z
-LAST-MODIFIED:20260914T000000Z
-SEQUENCE:2
+DTSTAMP:20260914T230000Z
+LAST-MODIFIED:20260914T230000Z
+SEQUENCE:3
 DTSTART;TZID=America/Los_Angeles:20260927T180000
 DTEND;TZID=America/Los_Angeles:20260927T203000
-SUMMARY:Solano Summit - Sep 27
+SUMMARY:Solano Summit - Year 2
 LOCATION:Youth Room - San Francisco Solano Catholic Church\, 22082 Antoni
  o Pkwy\, Rancho Santa Margarita\, CA 92688
 DESCRIPTION:Summit Youth Group. 6:00-8:30 PM. Dinner is provided. Bring a
-  meal to Summit or participate in Garden + Garage for service hours. Stud
- ents preparing\, serving\, cleaning up\, and staying for the entire Summi
- t receive 5 service hours per meal.\n\nDOCUMENTS\nComplete Year 2 Packet:
- \nhttps://raw.githubusercontent.com/makermecrazy/calendar_files/main/Sola
- no_Youth_Confirmation_Year_2_Packet_2026-2027.pdf\n\nYear 2 Calendar:\nht
- tps://raw.githubusercontent.com/makermecrazy/calendar_files/main/Solano_Y
- ear_2_Calendar_2026-2027.pdf\n\nSOLANO LINKS\nSolano Youth:\nhttps://www.
- solanocatholic.org/solanoyouth\n\nConfirmation:\nhttps://www.solanocathol
- ic.org/confirmation\n\nSummit Meal and Service Signup:\nhttps://m.signupg
- enius.com/#!/showSignUp/10C0A45A9A92BA2F85-63825727-meals?useFullSite=fal
- se\n\nCONTACT\nMatt Franklin - Youth Ministry Coordinator\n949-589-1709 x
- 2138\nmfranklin@solanocatholic.org\nsolanoyouth@solanocatholic.org
+  meal to Summit or Garden+Garage for Service Hours. Students must prepar
+ e\, serve and clean up and stay for the entire Summit youth group = 5 hr
+ s/meal.\n\nDOCUMENTS\nComplete Year 2 Packet:\nhttps://raw.githubusercon
+ tent.com/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Year
+ _2_Packet_2026-2027.pdf\n\nYear 2 Calendar:\nhttps://raw.githubuserconte
+ nt.com/makermecrazy/calendar_files/main/Solano_Year_2_Calendar_2026-2027
+ .pdf\n\nSOLANO LINKS\nSolano Youth:\nhttps://www.solanocatholic.org/sola
+ noyouth\n\nConfirmation:\nhttps://www.solanocatholic.org/confirmation\n\
+ nSummit Meal and Service Signup:\nhttps://m.signupgenius.com/#!/showSign
+ Up/10C0A45A9A92BA2F85-63825727-meals?useFullSite=false\n\nCONTACT\nMatt 
+ Franklin - Youth Ministry Coordinator\n949-589-1709 x2138\nmfranklin@sol
+ anocatholic.org\nsolanoyouth@solanocatholic.org
 URL:https://www.solanocatholic.org/confirmation
 ATTACH;VALUE=URI;FMTTYPE=application/pdf:https://raw.githubusercontent.co
- m/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Year_2_Packe
- t_2026-2027.pdf
+ m/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Year_2_Pack
+ et_2026-2027.pdf
 ATTACH;VALUE=URI;FMTTYPE=application/pdf:https://raw.githubusercontent.co
  m/makermecrazy/calendar_files/main/Solano_Year_2_Calendar_2026-2027.pdf
 BEGIN:VALARM
@@ -950,31 +950,31 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:solano-y2-summit-20261004@makermecrazy
-DTSTAMP:20260914T000000Z
-LAST-MODIFIED:20260914T000000Z
-SEQUENCE:2
+DTSTAMP:20260914T230000Z
+LAST-MODIFIED:20260914T230000Z
+SEQUENCE:3
 DTSTART;TZID=America/Los_Angeles:20261004T180000
 DTEND;TZID=America/Los_Angeles:20261004T203000
-SUMMARY:Solano Summit - Oct 4
+SUMMARY:Solano Summit - Year 2
 LOCATION:Youth Room - San Francisco Solano Catholic Church\, 22082 Antoni
  o Pkwy\, Rancho Santa Margarita\, CA 92688
 DESCRIPTION:Summit Youth Group. 6:00-8:30 PM. Dinner is provided. Bring a
-  meal to Summit or participate in Garden + Garage for service hours. Stud
- ents preparing\, serving\, cleaning up\, and staying for the entire Summi
- t receive 5 service hours per meal.\n\nDOCUMENTS\nComplete Year 2 Packet:
- \nhttps://raw.githubusercontent.com/makermecrazy/calendar_files/main/Sola
- no_Youth_Confirmation_Year_2_Packet_2026-2027.pdf\n\nYear 2 Calendar:\nht
- tps://raw.githubusercontent.com/makermecrazy/calendar_files/main/Solano_Y
- ear_2_Calendar_2026-2027.pdf\n\nSOLANO LINKS\nSolano Youth:\nhttps://www.
- solanocatholic.org/solanoyouth\n\nConfirmation:\nhttps://www.solanocathol
- ic.org/confirmation\n\nSummit Meal and Service Signup:\nhttps://m.signupg
- enius.com/#!/showSignUp/10C0A45A9A92BA2F85-63825727-meals?useFullSite=fal
- se\n\nCONTACT\nMatt Franklin - Youth Ministry Coordinator\n949-589-1709 x
- 2138\nmfranklin@solanocatholic.org\nsolanoyouth@solanocatholic.org
+  meal to Summit or Garden+Garage for Service Hours. Students must prepar
+ e\, serve and clean up and stay for the entire Summit youth group = 5 hr
+ s/meal.\n\nDOCUMENTS\nComplete Year 2 Packet:\nhttps://raw.githubusercon
+ tent.com/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Year
+ _2_Packet_2026-2027.pdf\n\nYear 2 Calendar:\nhttps://raw.githubuserconte
+ nt.com/makermecrazy/calendar_files/main/Solano_Year_2_Calendar_2026-2027
+ .pdf\n\nSOLANO LINKS\nSolano Youth:\nhttps://www.solanocatholic.org/sola
+ noyouth\n\nConfirmation:\nhttps://www.solanocatholic.org/confirmation\n\
+ nSummit Meal and Service Signup:\nhttps://m.signupgenius.com/#!/showSign
+ Up/10C0A45A9A92BA2F85-63825727-meals?useFullSite=false\n\nCONTACT\nMatt 
+ Franklin - Youth Ministry Coordinator\n949-589-1709 x2138\nmfranklin@sol
+ anocatholic.org\nsolanoyouth@solanocatholic.org
 URL:https://www.solanocatholic.org/confirmation
 ATTACH;VALUE=URI;FMTTYPE=application/pdf:https://raw.githubusercontent.co
- m/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Year_2_Packe
- t_2026-2027.pdf
+ m/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Year_2_Pack
+ et_2026-2027.pdf
 ATTACH;VALUE=URI;FMTTYPE=application/pdf:https://raw.githubusercontent.co
  m/makermecrazy/calendar_files/main/Solano_Year_2_Calendar_2026-2027.pdf
 BEGIN:VALARM
@@ -990,31 +990,31 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:solano-y2-summit-20261011@makermecrazy
-DTSTAMP:20260914T000000Z
-LAST-MODIFIED:20260914T000000Z
-SEQUENCE:2
+DTSTAMP:20260914T230000Z
+LAST-MODIFIED:20260914T230000Z
+SEQUENCE:3
 DTSTART;TZID=America/Los_Angeles:20261011T180000
 DTEND;TZID=America/Los_Angeles:20261011T203000
-SUMMARY:Solano Summit - Oct 11
+SUMMARY:Solano Summit - Year 2
 LOCATION:Youth Room - San Francisco Solano Catholic Church\, 22082 Antoni
  o Pkwy\, Rancho Santa Margarita\, CA 92688
 DESCRIPTION:Summit Youth Group. 6:00-8:30 PM. Dinner is provided. Bring a
-  meal to Summit or participate in Garden + Garage for service hours. Stud
- ents preparing\, serving\, cleaning up\, and staying for the entire Summi
- t receive 5 service hours per meal.\n\nDOCUMENTS\nComplete Year 2 Packet:
- \nhttps://raw.githubusercontent.com/makermecrazy/calendar_files/main/Sola
- no_Youth_Confirmation_Year_2_Packet_2026-2027.pdf\n\nYear 2 Calendar:\nht
- tps://raw.githubusercontent.com/makermecrazy/calendar_files/main/Solano_Y
- ear_2_Calendar_2026-2027.pdf\n\nSOLANO LINKS\nSolano Youth:\nhttps://www.
- solanocatholic.org/solanoyouth\n\nConfirmation:\nhttps://www.solanocathol
- ic.org/confirmation\n\nSummit Meal and Service Signup:\nhttps://m.signupg
- enius.com/#!/showSignUp/10C0A45A9A92BA2F85-63825727-meals?useFullSite=fal
- se\n\nCONTACT\nMatt Franklin - Youth Ministry Coordinator\n949-589-1709 x
- 2138\nmfranklin@solanocatholic.org\nsolanoyouth@solanocatholic.org
+  meal to Summit or Garden+Garage for Service Hours. Students must prepar
+ e\, serve and clean up and stay for the entire Summit youth group = 5 hr
+ s/meal.\n\nDOCUMENTS\nComplete Year 2 Packet:\nhttps://raw.githubusercon
+ tent.com/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Year
+ _2_Packet_2026-2027.pdf\n\nYear 2 Calendar:\nhttps://raw.githubuserconte
+ nt.com/makermecrazy/calendar_files/main/Solano_Year_2_Calendar_2026-2027
+ .pdf\n\nSOLANO LINKS\nSolano Youth:\nhttps://www.solanocatholic.org/sola
+ noyouth\n\nConfirmation:\nhttps://www.solanocatholic.org/confirmation\n\
+ nSummit Meal and Service Signup:\nhttps://m.signupgenius.com/#!/showSign
+ Up/10C0A45A9A92BA2F85-63825727-meals?useFullSite=false\n\nCONTACT\nMatt 
+ Franklin - Youth Ministry Coordinator\n949-589-1709 x2138\nmfranklin@sol
+ anocatholic.org\nsolanoyouth@solanocatholic.org
 URL:https://www.solanocatholic.org/confirmation
 ATTACH;VALUE=URI;FMTTYPE=application/pdf:https://raw.githubusercontent.co
- m/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Year_2_Packe
- t_2026-2027.pdf
+ m/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Year_2_Pack
+ et_2026-2027.pdf
 ATTACH;VALUE=URI;FMTTYPE=application/pdf:https://raw.githubusercontent.co
  m/makermecrazy/calendar_files/main/Solano_Year_2_Calendar_2026-2027.pdf
 BEGIN:VALARM
@@ -1030,31 +1030,31 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:solano-y2-summit-20261018@makermecrazy
-DTSTAMP:20260914T000000Z
-LAST-MODIFIED:20260914T000000Z
-SEQUENCE:2
+DTSTAMP:20260914T230000Z
+LAST-MODIFIED:20260914T230000Z
+SEQUENCE:3
 DTSTART;TZID=America/Los_Angeles:20261018T180000
 DTEND;TZID=America/Los_Angeles:20261018T203000
-SUMMARY:Solano Summit - Oct 18
+SUMMARY:Solano Summit - Year 2
 LOCATION:Youth Room - San Francisco Solano Catholic Church\, 22082 Antoni
  o Pkwy\, Rancho Santa Margarita\, CA 92688
 DESCRIPTION:Summit Youth Group. 6:00-8:30 PM. Dinner is provided. Bring a
-  meal to Summit or participate in Garden + Garage for service hours. Stud
- ents preparing\, serving\, cleaning up\, and staying for the entire Summi
- t receive 5 service hours per meal.\n\nDOCUMENTS\nComplete Year 2 Packet:
- \nhttps://raw.githubusercontent.com/makermecrazy/calendar_files/main/Sola
- no_Youth_Confirmation_Year_2_Packet_2026-2027.pdf\n\nYear 2 Calendar:\nht
- tps://raw.githubusercontent.com/makermecrazy/calendar_files/main/Solano_Y
- ear_2_Calendar_2026-2027.pdf\n\nSOLANO LINKS\nSolano Youth:\nhttps://www.
- solanocatholic.org/solanoyouth\n\nConfirmation:\nhttps://www.solanocathol
- ic.org/confirmation\n\nSummit Meal and Service Signup:\nhttps://m.signupg
- enius.com/#!/showSignUp/10C0A45A9A92BA2F85-63825727-meals?useFullSite=fal
- se\n\nCONTACT\nMatt Franklin - Youth Ministry Coordinator\n949-589-1709 x
- 2138\nmfranklin@solanocatholic.org\nsolanoyouth@solanocatholic.org
+  meal to Summit or Garden+Garage for Service Hours. Students must prepar
+ e\, serve and clean up and stay for the entire Summit youth group = 5 hr
+ s/meal.\n\nDOCUMENTS\nComplete Year 2 Packet:\nhttps://raw.githubusercon
+ tent.com/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Year
+ _2_Packet_2026-2027.pdf\n\nYear 2 Calendar:\nhttps://raw.githubuserconte
+ nt.com/makermecrazy/calendar_files/main/Solano_Year_2_Calendar_2026-2027
+ .pdf\n\nSOLANO LINKS\nSolano Youth:\nhttps://www.solanocatholic.org/sola
+ noyouth\n\nConfirmation:\nhttps://www.solanocatholic.org/confirmation\n\
+ nSummit Meal and Service Signup:\nhttps://m.signupgenius.com/#!/showSign
+ Up/10C0A45A9A92BA2F85-63825727-meals?useFullSite=false\n\nCONTACT\nMatt 
+ Franklin - Youth Ministry Coordinator\n949-589-1709 x2138\nmfranklin@sol
+ anocatholic.org\nsolanoyouth@solanocatholic.org
 URL:https://www.solanocatholic.org/confirmation
 ATTACH;VALUE=URI;FMTTYPE=application/pdf:https://raw.githubusercontent.co
- m/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Year_2_Packe
- t_2026-2027.pdf
+ m/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Year_2_Pack
+ et_2026-2027.pdf
 ATTACH;VALUE=URI;FMTTYPE=application/pdf:https://raw.githubusercontent.co
  m/makermecrazy/calendar_files/main/Solano_Year_2_Calendar_2026-2027.pdf
 BEGIN:VALARM
@@ -1070,31 +1070,31 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:solano-y2-summit-20261025@makermecrazy
-DTSTAMP:20260914T000000Z
-LAST-MODIFIED:20260914T000000Z
-SEQUENCE:2
+DTSTAMP:20260914T230000Z
+LAST-MODIFIED:20260914T230000Z
+SEQUENCE:3
 DTSTART;TZID=America/Los_Angeles:20261025T180000
 DTEND;TZID=America/Los_Angeles:20261025T203000
-SUMMARY:Solano Summit - Oct 25
+SUMMARY:Solano Summit - Year 2
 LOCATION:Youth Room - San Francisco Solano Catholic Church\, 22082 Antoni
  o Pkwy\, Rancho Santa Margarita\, CA 92688
 DESCRIPTION:Summit Youth Group. 6:00-8:30 PM. Dinner is provided. Bring a
-  meal to Summit or participate in Garden + Garage for service hours. Stud
- ents preparing\, serving\, cleaning up\, and staying for the entire Summi
- t receive 5 service hours per meal.\n\nDOCUMENTS\nComplete Year 2 Packet:
- \nhttps://raw.githubusercontent.com/makermecrazy/calendar_files/main/Sola
- no_Youth_Confirmation_Year_2_Packet_2026-2027.pdf\n\nYear 2 Calendar:\nht
- tps://raw.githubusercontent.com/makermecrazy/calendar_files/main/Solano_Y
- ear_2_Calendar_2026-2027.pdf\n\nSOLANO LINKS\nSolano Youth:\nhttps://www.
- solanocatholic.org/solanoyouth\n\nConfirmation:\nhttps://www.solanocathol
- ic.org/confirmation\n\nSummit Meal and Service Signup:\nhttps://m.signupg
- enius.com/#!/showSignUp/10C0A45A9A92BA2F85-63825727-meals?useFullSite=fal
- se\n\nCONTACT\nMatt Franklin - Youth Ministry Coordinator\n949-589-1709 x
- 2138\nmfranklin@solanocatholic.org\nsolanoyouth@solanocatholic.org
+  meal to Summit or Garden+Garage for Service Hours. Students must prepar
+ e\, serve and clean up and stay for the entire Summit youth group = 5 hr
+ s/meal.\n\nDOCUMENTS\nComplete Year 2 Packet:\nhttps://raw.githubusercon
+ tent.com/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Year
+ _2_Packet_2026-2027.pdf\n\nYear 2 Calendar:\nhttps://raw.githubuserconte
+ nt.com/makermecrazy/calendar_files/main/Solano_Year_2_Calendar_2026-2027
+ .pdf\n\nSOLANO LINKS\nSolano Youth:\nhttps://www.solanocatholic.org/sola
+ noyouth\n\nConfirmation:\nhttps://www.solanocatholic.org/confirmation\n\
+ nSummit Meal and Service Signup:\nhttps://m.signupgenius.com/#!/showSign
+ Up/10C0A45A9A92BA2F85-63825727-meals?useFullSite=false\n\nCONTACT\nMatt 
+ Franklin - Youth Ministry Coordinator\n949-589-1709 x2138\nmfranklin@sol
+ anocatholic.org\nsolanoyouth@solanocatholic.org
 URL:https://www.solanocatholic.org/confirmation
 ATTACH;VALUE=URI;FMTTYPE=application/pdf:https://raw.githubusercontent.co
- m/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Year_2_Packe
- t_2026-2027.pdf
+ m/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Year_2_Pack
+ et_2026-2027.pdf
 ATTACH;VALUE=URI;FMTTYPE=application/pdf:https://raw.githubusercontent.co
  m/makermecrazy/calendar_files/main/Solano_Year_2_Calendar_2026-2027.pdf
 BEGIN:VALARM
@@ -1110,31 +1110,31 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:solano-y2-summit-20261101@makermecrazy
-DTSTAMP:20260914T000000Z
-LAST-MODIFIED:20260914T000000Z
-SEQUENCE:2
+DTSTAMP:20260914T230000Z
+LAST-MODIFIED:20260914T230000Z
+SEQUENCE:3
 DTSTART;TZID=America/Los_Angeles:20261101T180000
 DTEND;TZID=America/Los_Angeles:20261101T203000
-SUMMARY:Solano Summit - Nov 1
+SUMMARY:Solano Summit - Year 2
 LOCATION:Youth Room - San Francisco Solano Catholic Church\, 22082 Antoni
  o Pkwy\, Rancho Santa Margarita\, CA 92688
 DESCRIPTION:Summit Youth Group. 6:00-8:30 PM. Dinner is provided. Bring a
-  meal to Summit or participate in Garden + Garage for service hours. Stud
- ents preparing\, serving\, cleaning up\, and staying for the entire Summi
- t receive 5 service hours per meal.\n\nDOCUMENTS\nComplete Year 2 Packet:
- \nhttps://raw.githubusercontent.com/makermecrazy/calendar_files/main/Sola
- no_Youth_Confirmation_Year_2_Packet_2026-2027.pdf\n\nYear 2 Calendar:\nht
- tps://raw.githubusercontent.com/makermecrazy/calendar_files/main/Solano_Y
- ear_2_Calendar_2026-2027.pdf\n\nSOLANO LINKS\nSolano Youth:\nhttps://www.
- solanocatholic.org/solanoyouth\n\nConfirmation:\nhttps://www.solanocathol
- ic.org/confirmation\n\nSummit Meal and Service Signup:\nhttps://m.signupg
- enius.com/#!/showSignUp/10C0A45A9A92BA2F85-63825727-meals?useFullSite=fal
- se\n\nCONTACT\nMatt Franklin - Youth Ministry Coordinator\n949-589-1709 x
- 2138\nmfranklin@solanocatholic.org\nsolanoyouth@solanocatholic.org
+  meal to Summit or Garden+Garage for Service Hours. Students must prepar
+ e\, serve and clean up and stay for the entire Summit youth group = 5 hr
+ s/meal.\n\nDOCUMENTS\nComplete Year 2 Packet:\nhttps://raw.githubusercon
+ tent.com/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Year
+ _2_Packet_2026-2027.pdf\n\nYear 2 Calendar:\nhttps://raw.githubuserconte
+ nt.com/makermecrazy/calendar_files/main/Solano_Year_2_Calendar_2026-2027
+ .pdf\n\nSOLANO LINKS\nSolano Youth:\nhttps://www.solanocatholic.org/sola
+ noyouth\n\nConfirmation:\nhttps://www.solanocatholic.org/confirmation\n\
+ nSummit Meal and Service Signup:\nhttps://m.signupgenius.com/#!/showSign
+ Up/10C0A45A9A92BA2F85-63825727-meals?useFullSite=false\n\nCONTACT\nMatt 
+ Franklin - Youth Ministry Coordinator\n949-589-1709 x2138\nmfranklin@sol
+ anocatholic.org\nsolanoyouth@solanocatholic.org
 URL:https://www.solanocatholic.org/confirmation
 ATTACH;VALUE=URI;FMTTYPE=application/pdf:https://raw.githubusercontent.co
- m/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Year_2_Packe
- t_2026-2027.pdf
+ m/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Year_2_Pack
+ et_2026-2027.pdf
 ATTACH;VALUE=URI;FMTTYPE=application/pdf:https://raw.githubusercontent.co
  m/makermecrazy/calendar_files/main/Solano_Year_2_Calendar_2026-2027.pdf
 BEGIN:VALARM
@@ -1150,31 +1150,31 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:solano-y2-summit-20261108@makermecrazy
-DTSTAMP:20260914T000000Z
-LAST-MODIFIED:20260914T000000Z
-SEQUENCE:2
+DTSTAMP:20260914T230000Z
+LAST-MODIFIED:20260914T230000Z
+SEQUENCE:3
 DTSTART;TZID=America/Los_Angeles:20261108T180000
 DTEND;TZID=America/Los_Angeles:20261108T203000
-SUMMARY:Solano Summit - Nov 8
+SUMMARY:Solano Summit - Year 2
 LOCATION:Youth Room - San Francisco Solano Catholic Church\, 22082 Antoni
  o Pkwy\, Rancho Santa Margarita\, CA 92688
 DESCRIPTION:Summit Youth Group. 6:00-8:30 PM. Dinner is provided. Bring a
-  meal to Summit or participate in Garden + Garage for service hours. Stud
- ents preparing\, serving\, cleaning up\, and staying for the entire Summi
- t receive 5 service hours per meal.\n\nDOCUMENTS\nComplete Year 2 Packet:
- \nhttps://raw.githubusercontent.com/makermecrazy/calendar_files/main/Sola
- no_Youth_Confirmation_Year_2_Packet_2026-2027.pdf\n\nYear 2 Calendar:\nht
- tps://raw.githubusercontent.com/makermecrazy/calendar_files/main/Solano_Y
- ear_2_Calendar_2026-2027.pdf\n\nSOLANO LINKS\nSolano Youth:\nhttps://www.
- solanocatholic.org/solanoyouth\n\nConfirmation:\nhttps://www.solanocathol
- ic.org/confirmation\n\nSummit Meal and Service Signup:\nhttps://m.signupg
- enius.com/#!/showSignUp/10C0A45A9A92BA2F85-63825727-meals?useFullSite=fal
- se\n\nCONTACT\nMatt Franklin - Youth Ministry Coordinator\n949-589-1709 x
- 2138\nmfranklin@solanocatholic.org\nsolanoyouth@solanocatholic.org
+  meal to Summit or Garden+Garage for Service Hours. Students must prepar
+ e\, serve and clean up and stay for the entire Summit youth group = 5 hr
+ s/meal.\n\nDOCUMENTS\nComplete Year 2 Packet:\nhttps://raw.githubusercon
+ tent.com/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Year
+ _2_Packet_2026-2027.pdf\n\nYear 2 Calendar:\nhttps://raw.githubuserconte
+ nt.com/makermecrazy/calendar_files/main/Solano_Year_2_Calendar_2026-2027
+ .pdf\n\nSOLANO LINKS\nSolano Youth:\nhttps://www.solanocatholic.org/sola
+ noyouth\n\nConfirmation:\nhttps://www.solanocatholic.org/confirmation\n\
+ nSummit Meal and Service Signup:\nhttps://m.signupgenius.com/#!/showSign
+ Up/10C0A45A9A92BA2F85-63825727-meals?useFullSite=false\n\nCONTACT\nMatt 
+ Franklin - Youth Ministry Coordinator\n949-589-1709 x2138\nmfranklin@sol
+ anocatholic.org\nsolanoyouth@solanocatholic.org
 URL:https://www.solanocatholic.org/confirmation
 ATTACH;VALUE=URI;FMTTYPE=application/pdf:https://raw.githubusercontent.co
- m/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Year_2_Packe
- t_2026-2027.pdf
+ m/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Year_2_Pack
+ et_2026-2027.pdf
 ATTACH;VALUE=URI;FMTTYPE=application/pdf:https://raw.githubusercontent.co
  m/makermecrazy/calendar_files/main/Solano_Year_2_Calendar_2026-2027.pdf
 BEGIN:VALARM
@@ -1190,31 +1190,31 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:solano-y2-summit-20261122@makermecrazy
-DTSTAMP:20260914T000000Z
-LAST-MODIFIED:20260914T000000Z
-SEQUENCE:2
+DTSTAMP:20260914T230000Z
+LAST-MODIFIED:20260914T230000Z
+SEQUENCE:3
 DTSTART;TZID=America/Los_Angeles:20261122T180000
 DTEND;TZID=America/Los_Angeles:20261122T203000
-SUMMARY:Solano Summit - Nov 22
+SUMMARY:Solano Summit - Year 2
 LOCATION:Youth Room - San Francisco Solano Catholic Church\, 22082 Antoni
  o Pkwy\, Rancho Santa Margarita\, CA 92688
 DESCRIPTION:Summit Youth Group. 6:00-8:30 PM. Dinner is provided. Bring a
-  meal to Summit or participate in Garden + Garage for service hours. Stud
- ents preparing\, serving\, cleaning up\, and staying for the entire Summi
- t receive 5 service hours per meal.\n\nDOCUMENTS\nComplete Year 2 Packet:
- \nhttps://raw.githubusercontent.com/makermecrazy/calendar_files/main/Sola
- no_Youth_Confirmation_Year_2_Packet_2026-2027.pdf\n\nYear 2 Calendar:\nht
- tps://raw.githubusercontent.com/makermecrazy/calendar_files/main/Solano_Y
- ear_2_Calendar_2026-2027.pdf\n\nSOLANO LINKS\nSolano Youth:\nhttps://www.
- solanocatholic.org/solanoyouth\n\nConfirmation:\nhttps://www.solanocathol
- ic.org/confirmation\n\nSummit Meal and Service Signup:\nhttps://m.signupg
- enius.com/#!/showSignUp/10C0A45A9A92BA2F85-63825727-meals?useFullSite=fal
- se\n\nCONTACT\nMatt Franklin - Youth Ministry Coordinator\n949-589-1709 x
- 2138\nmfranklin@solanocatholic.org\nsolanoyouth@solanocatholic.org
+  meal to Summit or Garden+Garage for Service Hours. Students must prepar
+ e\, serve and clean up and stay for the entire Summit youth group = 5 hr
+ s/meal.\n\nDOCUMENTS\nComplete Year 2 Packet:\nhttps://raw.githubusercon
+ tent.com/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Year
+ _2_Packet_2026-2027.pdf\n\nYear 2 Calendar:\nhttps://raw.githubuserconte
+ nt.com/makermecrazy/calendar_files/main/Solano_Year_2_Calendar_2026-2027
+ .pdf\n\nSOLANO LINKS\nSolano Youth:\nhttps://www.solanocatholic.org/sola
+ noyouth\n\nConfirmation:\nhttps://www.solanocatholic.org/confirmation\n\
+ nSummit Meal and Service Signup:\nhttps://m.signupgenius.com/#!/showSign
+ Up/10C0A45A9A92BA2F85-63825727-meals?useFullSite=false\n\nCONTACT\nMatt 
+ Franklin - Youth Ministry Coordinator\n949-589-1709 x2138\nmfranklin@sol
+ anocatholic.org\nsolanoyouth@solanocatholic.org
 URL:https://www.solanocatholic.org/confirmation
 ATTACH;VALUE=URI;FMTTYPE=application/pdf:https://raw.githubusercontent.co
- m/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Year_2_Packe
- t_2026-2027.pdf
+ m/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Year_2_Pack
+ et_2026-2027.pdf
 ATTACH;VALUE=URI;FMTTYPE=application/pdf:https://raw.githubusercontent.co
  m/makermecrazy/calendar_files/main/Solano_Year_2_Calendar_2026-2027.pdf
 BEGIN:VALARM
@@ -1230,31 +1230,31 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:solano-y2-summit-20261129@makermecrazy
-DTSTAMP:20260914T000000Z
-LAST-MODIFIED:20260914T000000Z
-SEQUENCE:2
+DTSTAMP:20260914T230000Z
+LAST-MODIFIED:20260914T230000Z
+SEQUENCE:3
 DTSTART;TZID=America/Los_Angeles:20261129T180000
 DTEND;TZID=America/Los_Angeles:20261129T203000
-SUMMARY:Solano Summit - Nov 29
+SUMMARY:Solano Summit - Year 2
 LOCATION:Youth Room - San Francisco Solano Catholic Church\, 22082 Antoni
  o Pkwy\, Rancho Santa Margarita\, CA 92688
 DESCRIPTION:Summit Youth Group. 6:00-8:30 PM. Dinner is provided. Bring a
-  meal to Summit or participate in Garden + Garage for service hours. Stud
- ents preparing\, serving\, cleaning up\, and staying for the entire Summi
- t receive 5 service hours per meal.\n\nDOCUMENTS\nComplete Year 2 Packet:
- \nhttps://raw.githubusercontent.com/makermecrazy/calendar_files/main/Sola
- no_Youth_Confirmation_Year_2_Packet_2026-2027.pdf\n\nYear 2 Calendar:\nht
- tps://raw.githubusercontent.com/makermecrazy/calendar_files/main/Solano_Y
- ear_2_Calendar_2026-2027.pdf\n\nSOLANO LINKS\nSolano Youth:\nhttps://www.
- solanocatholic.org/solanoyouth\n\nConfirmation:\nhttps://www.solanocathol
- ic.org/confirmation\n\nSummit Meal and Service Signup:\nhttps://m.signupg
- enius.com/#!/showSignUp/10C0A45A9A92BA2F85-63825727-meals?useFullSite=fal
- se\n\nCONTACT\nMatt Franklin - Youth Ministry Coordinator\n949-589-1709 x
- 2138\nmfranklin@solanocatholic.org\nsolanoyouth@solanocatholic.org
+  meal to Summit or Garden+Garage for Service Hours. Students must prepar
+ e\, serve and clean up and stay for the entire Summit youth group = 5 hr
+ s/meal.\n\nDOCUMENTS\nComplete Year 2 Packet:\nhttps://raw.githubusercon
+ tent.com/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Year
+ _2_Packet_2026-2027.pdf\n\nYear 2 Calendar:\nhttps://raw.githubuserconte
+ nt.com/makermecrazy/calendar_files/main/Solano_Year_2_Calendar_2026-2027
+ .pdf\n\nSOLANO LINKS\nSolano Youth:\nhttps://www.solanocatholic.org/sola
+ noyouth\n\nConfirmation:\nhttps://www.solanocatholic.org/confirmation\n\
+ nSummit Meal and Service Signup:\nhttps://m.signupgenius.com/#!/showSign
+ Up/10C0A45A9A92BA2F85-63825727-meals?useFullSite=false\n\nCONTACT\nMatt 
+ Franklin - Youth Ministry Coordinator\n949-589-1709 x2138\nmfranklin@sol
+ anocatholic.org\nsolanoyouth@solanocatholic.org
 URL:https://www.solanocatholic.org/confirmation
 ATTACH;VALUE=URI;FMTTYPE=application/pdf:https://raw.githubusercontent.co
- m/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Year_2_Packe
- t_2026-2027.pdf
+ m/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Year_2_Pack
+ et_2026-2027.pdf
 ATTACH;VALUE=URI;FMTTYPE=application/pdf:https://raw.githubusercontent.co
  m/makermecrazy/calendar_files/main/Solano_Year_2_Calendar_2026-2027.pdf
 BEGIN:VALARM
@@ -1270,31 +1270,31 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:solano-y2-summit-20261206@makermecrazy
-DTSTAMP:20260914T000000Z
-LAST-MODIFIED:20260914T000000Z
-SEQUENCE:2
+DTSTAMP:20260914T230000Z
+LAST-MODIFIED:20260914T230000Z
+SEQUENCE:3
 DTSTART;TZID=America/Los_Angeles:20261206T180000
 DTEND;TZID=America/Los_Angeles:20261206T203000
-SUMMARY:Solano Summit - Dec 6
+SUMMARY:Solano Summit - Year 2
 LOCATION:Youth Room - San Francisco Solano Catholic Church\, 22082 Antoni
  o Pkwy\, Rancho Santa Margarita\, CA 92688
 DESCRIPTION:Summit Youth Group. 6:00-8:30 PM. Dinner is provided. Bring a
-  meal to Summit or participate in Garden + Garage for service hours. Stud
- ents preparing\, serving\, cleaning up\, and staying for the entire Summi
- t receive 5 service hours per meal.\n\nDOCUMENTS\nComplete Year 2 Packet:
- \nhttps://raw.githubusercontent.com/makermecrazy/calendar_files/main/Sola
- no_Youth_Confirmation_Year_2_Packet_2026-2027.pdf\n\nYear 2 Calendar:\nht
- tps://raw.githubusercontent.com/makermecrazy/calendar_files/main/Solano_Y
- ear_2_Calendar_2026-2027.pdf\n\nSOLANO LINKS\nSolano Youth:\nhttps://www.
- solanocatholic.org/solanoyouth\n\nConfirmation:\nhttps://www.solanocathol
- ic.org/confirmation\n\nSummit Meal and Service Signup:\nhttps://m.signupg
- enius.com/#!/showSignUp/10C0A45A9A92BA2F85-63825727-meals?useFullSite=fal
- se\n\nCONTACT\nMatt Franklin - Youth Ministry Coordinator\n949-589-1709 x
- 2138\nmfranklin@solanocatholic.org\nsolanoyouth@solanocatholic.org
+  meal to Summit or Garden+Garage for Service Hours. Students must prepar
+ e\, serve and clean up and stay for the entire Summit youth group = 5 hr
+ s/meal.\n\nDOCUMENTS\nComplete Year 2 Packet:\nhttps://raw.githubusercon
+ tent.com/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Year
+ _2_Packet_2026-2027.pdf\n\nYear 2 Calendar:\nhttps://raw.githubuserconte
+ nt.com/makermecrazy/calendar_files/main/Solano_Year_2_Calendar_2026-2027
+ .pdf\n\nSOLANO LINKS\nSolano Youth:\nhttps://www.solanocatholic.org/sola
+ noyouth\n\nConfirmation:\nhttps://www.solanocatholic.org/confirmation\n\
+ nSummit Meal and Service Signup:\nhttps://m.signupgenius.com/#!/showSign
+ Up/10C0A45A9A92BA2F85-63825727-meals?useFullSite=false\n\nCONTACT\nMatt 
+ Franklin - Youth Ministry Coordinator\n949-589-1709 x2138\nmfranklin@sol
+ anocatholic.org\nsolanoyouth@solanocatholic.org
 URL:https://www.solanocatholic.org/confirmation
 ATTACH;VALUE=URI;FMTTYPE=application/pdf:https://raw.githubusercontent.co
- m/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Year_2_Packe
- t_2026-2027.pdf
+ m/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Year_2_Pack
+ et_2026-2027.pdf
 ATTACH;VALUE=URI;FMTTYPE=application/pdf:https://raw.githubusercontent.co
  m/makermecrazy/calendar_files/main/Solano_Year_2_Calendar_2026-2027.pdf
 BEGIN:VALARM
@@ -1310,31 +1310,31 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:solano-y2-summit-20261213@makermecrazy
-DTSTAMP:20260914T000000Z
-LAST-MODIFIED:20260914T000000Z
-SEQUENCE:2
+DTSTAMP:20260914T230000Z
+LAST-MODIFIED:20260914T230000Z
+SEQUENCE:3
 DTSTART;TZID=America/Los_Angeles:20261213T180000
 DTEND;TZID=America/Los_Angeles:20261213T203000
-SUMMARY:Solano Summit - Dec 13
+SUMMARY:Solano Summit - Year 2
 LOCATION:Youth Room - San Francisco Solano Catholic Church\, 22082 Antoni
  o Pkwy\, Rancho Santa Margarita\, CA 92688
 DESCRIPTION:Summit Youth Group. 6:00-8:30 PM. Dinner is provided. Bring a
-  meal to Summit or participate in Garden + Garage for service hours. Stud
- ents preparing\, serving\, cleaning up\, and staying for the entire Summi
- t receive 5 service hours per meal.\n\nDOCUMENTS\nComplete Year 2 Packet:
- \nhttps://raw.githubusercontent.com/makermecrazy/calendar_files/main/Sola
- no_Youth_Confirmation_Year_2_Packet_2026-2027.pdf\n\nYear 2 Calendar:\nht
- tps://raw.githubusercontent.com/makermecrazy/calendar_files/main/Solano_Y
- ear_2_Calendar_2026-2027.pdf\n\nSOLANO LINKS\nSolano Youth:\nhttps://www.
- solanocatholic.org/solanoyouth\n\nConfirmation:\nhttps://www.solanocathol
- ic.org/confirmation\n\nSummit Meal and Service Signup:\nhttps://m.signupg
- enius.com/#!/showSignUp/10C0A45A9A92BA2F85-63825727-meals?useFullSite=fal
- se\n\nCONTACT\nMatt Franklin - Youth Ministry Coordinator\n949-589-1709 x
- 2138\nmfranklin@solanocatholic.org\nsolanoyouth@solanocatholic.org
+  meal to Summit or Garden+Garage for Service Hours. Students must prepar
+ e\, serve and clean up and stay for the entire Summit youth group = 5 hr
+ s/meal.\n\nDOCUMENTS\nComplete Year 2 Packet:\nhttps://raw.githubusercon
+ tent.com/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Year
+ _2_Packet_2026-2027.pdf\n\nYear 2 Calendar:\nhttps://raw.githubuserconte
+ nt.com/makermecrazy/calendar_files/main/Solano_Year_2_Calendar_2026-2027
+ .pdf\n\nSOLANO LINKS\nSolano Youth:\nhttps://www.solanocatholic.org/sola
+ noyouth\n\nConfirmation:\nhttps://www.solanocatholic.org/confirmation\n\
+ nSummit Meal and Service Signup:\nhttps://m.signupgenius.com/#!/showSign
+ Up/10C0A45A9A92BA2F85-63825727-meals?useFullSite=false\n\nCONTACT\nMatt 
+ Franklin - Youth Ministry Coordinator\n949-589-1709 x2138\nmfranklin@sol
+ anocatholic.org\nsolanoyouth@solanocatholic.org
 URL:https://www.solanocatholic.org/confirmation
 ATTACH;VALUE=URI;FMTTYPE=application/pdf:https://raw.githubusercontent.co
- m/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Year_2_Packe
- t_2026-2027.pdf
+ m/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Year_2_Pack
+ et_2026-2027.pdf
 ATTACH;VALUE=URI;FMTTYPE=application/pdf:https://raw.githubusercontent.co
  m/makermecrazy/calendar_files/main/Solano_Year_2_Calendar_2026-2027.pdf
 BEGIN:VALARM
@@ -1350,31 +1350,31 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:solano-y2-summit-20261220@makermecrazy
-DTSTAMP:20260914T000000Z
-LAST-MODIFIED:20260914T000000Z
-SEQUENCE:2
+DTSTAMP:20260914T230000Z
+LAST-MODIFIED:20260914T230000Z
+SEQUENCE:3
 DTSTART;TZID=America/Los_Angeles:20261220T180000
 DTEND;TZID=America/Los_Angeles:20261220T203000
-SUMMARY:Solano Summit - Dec 20
+SUMMARY:Solano Summit - Year 2
 LOCATION:Youth Room - San Francisco Solano Catholic Church\, 22082 Antoni
  o Pkwy\, Rancho Santa Margarita\, CA 92688
 DESCRIPTION:Summit Youth Group. 6:00-8:30 PM. Dinner is provided. Bring a
-  meal to Summit or participate in Garden + Garage for service hours. Stud
- ents preparing\, serving\, cleaning up\, and staying for the entire Summi
- t receive 5 service hours per meal.\n\nDOCUMENTS\nComplete Year 2 Packet:
- \nhttps://raw.githubusercontent.com/makermecrazy/calendar_files/main/Sola
- no_Youth_Confirmation_Year_2_Packet_2026-2027.pdf\n\nYear 2 Calendar:\nht
- tps://raw.githubusercontent.com/makermecrazy/calendar_files/main/Solano_Y
- ear_2_Calendar_2026-2027.pdf\n\nSOLANO LINKS\nSolano Youth:\nhttps://www.
- solanocatholic.org/solanoyouth\n\nConfirmation:\nhttps://www.solanocathol
- ic.org/confirmation\n\nSummit Meal and Service Signup:\nhttps://m.signupg
- enius.com/#!/showSignUp/10C0A45A9A92BA2F85-63825727-meals?useFullSite=fal
- se\n\nCONTACT\nMatt Franklin - Youth Ministry Coordinator\n949-589-1709 x
- 2138\nmfranklin@solanocatholic.org\nsolanoyouth@solanocatholic.org
+  meal to Summit or Garden+Garage for Service Hours. Students must prepar
+ e\, serve and clean up and stay for the entire Summit youth group = 5 hr
+ s/meal.\n\nDOCUMENTS\nComplete Year 2 Packet:\nhttps://raw.githubusercon
+ tent.com/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Year
+ _2_Packet_2026-2027.pdf\n\nYear 2 Calendar:\nhttps://raw.githubuserconte
+ nt.com/makermecrazy/calendar_files/main/Solano_Year_2_Calendar_2026-2027
+ .pdf\n\nSOLANO LINKS\nSolano Youth:\nhttps://www.solanocatholic.org/sola
+ noyouth\n\nConfirmation:\nhttps://www.solanocatholic.org/confirmation\n\
+ nSummit Meal and Service Signup:\nhttps://m.signupgenius.com/#!/showSign
+ Up/10C0A45A9A92BA2F85-63825727-meals?useFullSite=false\n\nCONTACT\nMatt 
+ Franklin - Youth Ministry Coordinator\n949-589-1709 x2138\nmfranklin@sol
+ anocatholic.org\nsolanoyouth@solanocatholic.org
 URL:https://www.solanocatholic.org/confirmation
 ATTACH;VALUE=URI;FMTTYPE=application/pdf:https://raw.githubusercontent.co
- m/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Year_2_Packe
- t_2026-2027.pdf
+ m/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Year_2_Pack
+ et_2026-2027.pdf
 ATTACH;VALUE=URI;FMTTYPE=application/pdf:https://raw.githubusercontent.co
  m/makermecrazy/calendar_files/main/Solano_Year_2_Calendar_2026-2027.pdf
 BEGIN:VALARM
@@ -1390,31 +1390,31 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:solano-y2-summit-20270110@makermecrazy
-DTSTAMP:20260914T000000Z
-LAST-MODIFIED:20260914T000000Z
-SEQUENCE:2
+DTSTAMP:20260914T230000Z
+LAST-MODIFIED:20260914T230000Z
+SEQUENCE:3
 DTSTART;TZID=America/Los_Angeles:20270110T180000
 DTEND;TZID=America/Los_Angeles:20270110T203000
-SUMMARY:Solano Summit - Jan 10
+SUMMARY:Solano Summit - Year 2
 LOCATION:Youth Room - San Francisco Solano Catholic Church\, 22082 Antoni
  o Pkwy\, Rancho Santa Margarita\, CA 92688
 DESCRIPTION:Summit Youth Group. 6:00-8:30 PM. Dinner is provided. Bring a
-  meal to Summit or participate in Garden + Garage for service hours. Stud
- ents preparing\, serving\, cleaning up\, and staying for the entire Summi
- t receive 5 service hours per meal.\n\nDOCUMENTS\nComplete Year 2 Packet:
- \nhttps://raw.githubusercontent.com/makermecrazy/calendar_files/main/Sola
- no_Youth_Confirmation_Year_2_Packet_2026-2027.pdf\n\nYear 2 Calendar:\nht
- tps://raw.githubusercontent.com/makermecrazy/calendar_files/main/Solano_Y
- ear_2_Calendar_2026-2027.pdf\n\nSOLANO LINKS\nSolano Youth:\nhttps://www.
- solanocatholic.org/solanoyouth\n\nConfirmation:\nhttps://www.solanocathol
- ic.org/confirmation\n\nSummit Meal and Service Signup:\nhttps://m.signupg
- enius.com/#!/showSignUp/10C0A45A9A92BA2F85-63825727-meals?useFullSite=fal
- se\n\nCONTACT\nMatt Franklin - Youth Ministry Coordinator\n949-589-1709 x
- 2138\nmfranklin@solanocatholic.org\nsolanoyouth@solanocatholic.org
+  meal to Summit or Garden+Garage for Service Hours. Students must prepar
+ e\, serve and clean up and stay for the entire Summit youth group = 5 hr
+ s/meal.\n\nDOCUMENTS\nComplete Year 2 Packet:\nhttps://raw.githubusercon
+ tent.com/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Year
+ _2_Packet_2026-2027.pdf\n\nYear 2 Calendar:\nhttps://raw.githubuserconte
+ nt.com/makermecrazy/calendar_files/main/Solano_Year_2_Calendar_2026-2027
+ .pdf\n\nSOLANO LINKS\nSolano Youth:\nhttps://www.solanocatholic.org/sola
+ noyouth\n\nConfirmation:\nhttps://www.solanocatholic.org/confirmation\n\
+ nSummit Meal and Service Signup:\nhttps://m.signupgenius.com/#!/showSign
+ Up/10C0A45A9A92BA2F85-63825727-meals?useFullSite=false\n\nCONTACT\nMatt 
+ Franklin - Youth Ministry Coordinator\n949-589-1709 x2138\nmfranklin@sol
+ anocatholic.org\nsolanoyouth@solanocatholic.org
 URL:https://www.solanocatholic.org/confirmation
 ATTACH;VALUE=URI;FMTTYPE=application/pdf:https://raw.githubusercontent.co
- m/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Year_2_Packe
- t_2026-2027.pdf
+ m/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Year_2_Pack
+ et_2026-2027.pdf
 ATTACH;VALUE=URI;FMTTYPE=application/pdf:https://raw.githubusercontent.co
  m/makermecrazy/calendar_files/main/Solano_Year_2_Calendar_2026-2027.pdf
 BEGIN:VALARM
@@ -1430,31 +1430,31 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:solano-y2-summit-20270117@makermecrazy
-DTSTAMP:20260914T000000Z
-LAST-MODIFIED:20260914T000000Z
-SEQUENCE:2
+DTSTAMP:20260914T230000Z
+LAST-MODIFIED:20260914T230000Z
+SEQUENCE:3
 DTSTART;TZID=America/Los_Angeles:20270117T180000
 DTEND;TZID=America/Los_Angeles:20270117T203000
-SUMMARY:Solano Summit - Jan 17
+SUMMARY:Solano Summit - Year 2
 LOCATION:Youth Room - San Francisco Solano Catholic Church\, 22082 Antoni
  o Pkwy\, Rancho Santa Margarita\, CA 92688
 DESCRIPTION:Summit Youth Group. 6:00-8:30 PM. Dinner is provided. Bring a
-  meal to Summit or participate in Garden + Garage for service hours. Stud
- ents preparing\, serving\, cleaning up\, and staying for the entire Summi
- t receive 5 service hours per meal.\n\nDOCUMENTS\nComplete Year 2 Packet:
- \nhttps://raw.githubusercontent.com/makermecrazy/calendar_files/main/Sola
- no_Youth_Confirmation_Year_2_Packet_2026-2027.pdf\n\nYear 2 Calendar:\nht
- tps://raw.githubusercontent.com/makermecrazy/calendar_files/main/Solano_Y
- ear_2_Calendar_2026-2027.pdf\n\nSOLANO LINKS\nSolano Youth:\nhttps://www.
- solanocatholic.org/solanoyouth\n\nConfirmation:\nhttps://www.solanocathol
- ic.org/confirmation\n\nSummit Meal and Service Signup:\nhttps://m.signupg
- enius.com/#!/showSignUp/10C0A45A9A92BA2F85-63825727-meals?useFullSite=fal
- se\n\nCONTACT\nMatt Franklin - Youth Ministry Coordinator\n949-589-1709 x
- 2138\nmfranklin@solanocatholic.org\nsolanoyouth@solanocatholic.org
+  meal to Summit or Garden+Garage for Service Hours. Students must prepar
+ e\, serve and clean up and stay for the entire Summit youth group = 5 hr
+ s/meal.\n\nDOCUMENTS\nComplete Year 2 Packet:\nhttps://raw.githubusercon
+ tent.com/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Year
+ _2_Packet_2026-2027.pdf\n\nYear 2 Calendar:\nhttps://raw.githubuserconte
+ nt.com/makermecrazy/calendar_files/main/Solano_Year_2_Calendar_2026-2027
+ .pdf\n\nSOLANO LINKS\nSolano Youth:\nhttps://www.solanocatholic.org/sola
+ noyouth\n\nConfirmation:\nhttps://www.solanocatholic.org/confirmation\n\
+ nSummit Meal and Service Signup:\nhttps://m.signupgenius.com/#!/showSign
+ Up/10C0A45A9A92BA2F85-63825727-meals?useFullSite=false\n\nCONTACT\nMatt 
+ Franklin - Youth Ministry Coordinator\n949-589-1709 x2138\nmfranklin@sol
+ anocatholic.org\nsolanoyouth@solanocatholic.org
 URL:https://www.solanocatholic.org/confirmation
 ATTACH;VALUE=URI;FMTTYPE=application/pdf:https://raw.githubusercontent.co
- m/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Year_2_Packe
- t_2026-2027.pdf
+ m/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Year_2_Pack
+ et_2026-2027.pdf
 ATTACH;VALUE=URI;FMTTYPE=application/pdf:https://raw.githubusercontent.co
  m/makermecrazy/calendar_files/main/Solano_Year_2_Calendar_2026-2027.pdf
 BEGIN:VALARM
@@ -1470,31 +1470,31 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:solano-y2-summit-20270124@makermecrazy
-DTSTAMP:20260914T000000Z
-LAST-MODIFIED:20260914T000000Z
-SEQUENCE:2
+DTSTAMP:20260914T230000Z
+LAST-MODIFIED:20260914T230000Z
+SEQUENCE:3
 DTSTART;TZID=America/Los_Angeles:20270124T180000
 DTEND;TZID=America/Los_Angeles:20270124T203000
-SUMMARY:Solano Summit - Jan 24
+SUMMARY:Solano Summit - Year 2
 LOCATION:Youth Room - San Francisco Solano Catholic Church\, 22082 Antoni
  o Pkwy\, Rancho Santa Margarita\, CA 92688
 DESCRIPTION:Summit Youth Group. 6:00-8:30 PM. Dinner is provided. Bring a
-  meal to Summit or participate in Garden + Garage for service hours. Stud
- ents preparing\, serving\, cleaning up\, and staying for the entire Summi
- t receive 5 service hours per meal.\n\nDOCUMENTS\nComplete Year 2 Packet:
- \nhttps://raw.githubusercontent.com/makermecrazy/calendar_files/main/Sola
- no_Youth_Confirmation_Year_2_Packet_2026-2027.pdf\n\nYear 2 Calendar:\nht
- tps://raw.githubusercontent.com/makermecrazy/calendar_files/main/Solano_Y
- ear_2_Calendar_2026-2027.pdf\n\nSOLANO LINKS\nSolano Youth:\nhttps://www.
- solanocatholic.org/solanoyouth\n\nConfirmation:\nhttps://www.solanocathol
- ic.org/confirmation\n\nSummit Meal and Service Signup:\nhttps://m.signupg
- enius.com/#!/showSignUp/10C0A45A9A92BA2F85-63825727-meals?useFullSite=fal
- se\n\nCONTACT\nMatt Franklin - Youth Ministry Coordinator\n949-589-1709 x
- 2138\nmfranklin@solanocatholic.org\nsolanoyouth@solanocatholic.org
+  meal to Summit or Garden+Garage for Service Hours. Students must prepar
+ e\, serve and clean up and stay for the entire Summit youth group = 5 hr
+ s/meal.\n\nDOCUMENTS\nComplete Year 2 Packet:\nhttps://raw.githubusercon
+ tent.com/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Year
+ _2_Packet_2026-2027.pdf\n\nYear 2 Calendar:\nhttps://raw.githubuserconte
+ nt.com/makermecrazy/calendar_files/main/Solano_Year_2_Calendar_2026-2027
+ .pdf\n\nSOLANO LINKS\nSolano Youth:\nhttps://www.solanocatholic.org/sola
+ noyouth\n\nConfirmation:\nhttps://www.solanocatholic.org/confirmation\n\
+ nSummit Meal and Service Signup:\nhttps://m.signupgenius.com/#!/showSign
+ Up/10C0A45A9A92BA2F85-63825727-meals?useFullSite=false\n\nCONTACT\nMatt 
+ Franklin - Youth Ministry Coordinator\n949-589-1709 x2138\nmfranklin@sol
+ anocatholic.org\nsolanoyouth@solanocatholic.org
 URL:https://www.solanocatholic.org/confirmation
 ATTACH;VALUE=URI;FMTTYPE=application/pdf:https://raw.githubusercontent.co
- m/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Year_2_Packe
- t_2026-2027.pdf
+ m/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Year_2_Pack
+ et_2026-2027.pdf
 ATTACH;VALUE=URI;FMTTYPE=application/pdf:https://raw.githubusercontent.co
  m/makermecrazy/calendar_files/main/Solano_Year_2_Calendar_2026-2027.pdf
 BEGIN:VALARM
@@ -1510,31 +1510,31 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:solano-y2-summit-20270131@makermecrazy
-DTSTAMP:20260914T000000Z
-LAST-MODIFIED:20260914T000000Z
-SEQUENCE:2
+DTSTAMP:20260914T230000Z
+LAST-MODIFIED:20260914T230000Z
+SEQUENCE:3
 DTSTART;TZID=America/Los_Angeles:20270131T180000
 DTEND;TZID=America/Los_Angeles:20270131T203000
-SUMMARY:Solano Summit - Jan 31
+SUMMARY:Solano Summit - Year 2
 LOCATION:Youth Room - San Francisco Solano Catholic Church\, 22082 Antoni
  o Pkwy\, Rancho Santa Margarita\, CA 92688
 DESCRIPTION:Summit Youth Group. 6:00-8:30 PM. Dinner is provided. Bring a
-  meal to Summit or participate in Garden + Garage for service hours. Stud
- ents preparing\, serving\, cleaning up\, and staying for the entire Summi
- t receive 5 service hours per meal.\n\nDOCUMENTS\nComplete Year 2 Packet:
- \nhttps://raw.githubusercontent.com/makermecrazy/calendar_files/main/Sola
- no_Youth_Confirmation_Year_2_Packet_2026-2027.pdf\n\nYear 2 Calendar:\nht
- tps://raw.githubusercontent.com/makermecrazy/calendar_files/main/Solano_Y
- ear_2_Calendar_2026-2027.pdf\n\nSOLANO LINKS\nSolano Youth:\nhttps://www.
- solanocatholic.org/solanoyouth\n\nConfirmation:\nhttps://www.solanocathol
- ic.org/confirmation\n\nSummit Meal and Service Signup:\nhttps://m.signupg
- enius.com/#!/showSignUp/10C0A45A9A92BA2F85-63825727-meals?useFullSite=fal
- se\n\nCONTACT\nMatt Franklin - Youth Ministry Coordinator\n949-589-1709 x
- 2138\nmfranklin@solanocatholic.org\nsolanoyouth@solanocatholic.org
+  meal to Summit or Garden+Garage for Service Hours. Students must prepar
+ e\, serve and clean up and stay for the entire Summit youth group = 5 hr
+ s/meal.\n\nDOCUMENTS\nComplete Year 2 Packet:\nhttps://raw.githubusercon
+ tent.com/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Year
+ _2_Packet_2026-2027.pdf\n\nYear 2 Calendar:\nhttps://raw.githubuserconte
+ nt.com/makermecrazy/calendar_files/main/Solano_Year_2_Calendar_2026-2027
+ .pdf\n\nSOLANO LINKS\nSolano Youth:\nhttps://www.solanocatholic.org/sola
+ noyouth\n\nConfirmation:\nhttps://www.solanocatholic.org/confirmation\n\
+ nSummit Meal and Service Signup:\nhttps://m.signupgenius.com/#!/showSign
+ Up/10C0A45A9A92BA2F85-63825727-meals?useFullSite=false\n\nCONTACT\nMatt 
+ Franklin - Youth Ministry Coordinator\n949-589-1709 x2138\nmfranklin@sol
+ anocatholic.org\nsolanoyouth@solanocatholic.org
 URL:https://www.solanocatholic.org/confirmation
 ATTACH;VALUE=URI;FMTTYPE=application/pdf:https://raw.githubusercontent.co
- m/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Year_2_Packe
- t_2026-2027.pdf
+ m/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Year_2_Pack
+ et_2026-2027.pdf
 ATTACH;VALUE=URI;FMTTYPE=application/pdf:https://raw.githubusercontent.co
  m/makermecrazy/calendar_files/main/Solano_Year_2_Calendar_2026-2027.pdf
 BEGIN:VALARM
@@ -1550,31 +1550,31 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:solano-y2-summit-20270221@makermecrazy
-DTSTAMP:20260914T000000Z
-LAST-MODIFIED:20260914T000000Z
-SEQUENCE:2
+DTSTAMP:20260914T230000Z
+LAST-MODIFIED:20260914T230000Z
+SEQUENCE:3
 DTSTART;TZID=America/Los_Angeles:20270221T180000
 DTEND;TZID=America/Los_Angeles:20270221T203000
-SUMMARY:Solano Summit - Feb 21
+SUMMARY:Solano Summit - Year 2
 LOCATION:Youth Room - San Francisco Solano Catholic Church\, 22082 Antoni
  o Pkwy\, Rancho Santa Margarita\, CA 92688
 DESCRIPTION:Summit Youth Group. 6:00-8:30 PM. Dinner is provided. Bring a
-  meal to Summit or participate in Garden + Garage for service hours. Stud
- ents preparing\, serving\, cleaning up\, and staying for the entire Summi
- t receive 5 service hours per meal.\n\nDOCUMENTS\nComplete Year 2 Packet:
- \nhttps://raw.githubusercontent.com/makermecrazy/calendar_files/main/Sola
- no_Youth_Confirmation_Year_2_Packet_2026-2027.pdf\n\nYear 2 Calendar:\nht
- tps://raw.githubusercontent.com/makermecrazy/calendar_files/main/Solano_Y
- ear_2_Calendar_2026-2027.pdf\n\nSOLANO LINKS\nSolano Youth:\nhttps://www.
- solanocatholic.org/solanoyouth\n\nConfirmation:\nhttps://www.solanocathol
- ic.org/confirmation\n\nSummit Meal and Service Signup:\nhttps://m.signupg
- enius.com/#!/showSignUp/10C0A45A9A92BA2F85-63825727-meals?useFullSite=fal
- se\n\nCONTACT\nMatt Franklin - Youth Ministry Coordinator\n949-589-1709 x
- 2138\nmfranklin@solanocatholic.org\nsolanoyouth@solanocatholic.org
+  meal to Summit or Garden+Garage for Service Hours. Students must prepar
+ e\, serve and clean up and stay for the entire Summit youth group = 5 hr
+ s/meal.\n\nDOCUMENTS\nComplete Year 2 Packet:\nhttps://raw.githubusercon
+ tent.com/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Year
+ _2_Packet_2026-2027.pdf\n\nYear 2 Calendar:\nhttps://raw.githubuserconte
+ nt.com/makermecrazy/calendar_files/main/Solano_Year_2_Calendar_2026-2027
+ .pdf\n\nSOLANO LINKS\nSolano Youth:\nhttps://www.solanocatholic.org/sola
+ noyouth\n\nConfirmation:\nhttps://www.solanocatholic.org/confirmation\n\
+ nSummit Meal and Service Signup:\nhttps://m.signupgenius.com/#!/showSign
+ Up/10C0A45A9A92BA2F85-63825727-meals?useFullSite=false\n\nCONTACT\nMatt 
+ Franklin - Youth Ministry Coordinator\n949-589-1709 x2138\nmfranklin@sol
+ anocatholic.org\nsolanoyouth@solanocatholic.org
 URL:https://www.solanocatholic.org/confirmation
 ATTACH;VALUE=URI;FMTTYPE=application/pdf:https://raw.githubusercontent.co
- m/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Year_2_Packe
- t_2026-2027.pdf
+ m/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Year_2_Pack
+ et_2026-2027.pdf
 ATTACH;VALUE=URI;FMTTYPE=application/pdf:https://raw.githubusercontent.co
  m/makermecrazy/calendar_files/main/Solano_Year_2_Calendar_2026-2027.pdf
 BEGIN:VALARM
@@ -1590,31 +1590,31 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:solano-y2-summit-20270228@makermecrazy
-DTSTAMP:20260914T000000Z
-LAST-MODIFIED:20260914T000000Z
-SEQUENCE:2
+DTSTAMP:20260914T230000Z
+LAST-MODIFIED:20260914T230000Z
+SEQUENCE:3
 DTSTART;TZID=America/Los_Angeles:20270228T180000
 DTEND;TZID=America/Los_Angeles:20270228T203000
-SUMMARY:Solano Summit - Feb 28
+SUMMARY:Solano Summit - Year 2
 LOCATION:Youth Room - San Francisco Solano Catholic Church\, 22082 Antoni
  o Pkwy\, Rancho Santa Margarita\, CA 92688
 DESCRIPTION:Summit Youth Group. 6:00-8:30 PM. Dinner is provided. Bring a
-  meal to Summit or participate in Garden + Garage for service hours. Stud
- ents preparing\, serving\, cleaning up\, and staying for the entire Summi
- t receive 5 service hours per meal.\n\nDOCUMENTS\nComplete Year 2 Packet:
- \nhttps://raw.githubusercontent.com/makermecrazy/calendar_files/main/Sola
- no_Youth_Confirmation_Year_2_Packet_2026-2027.pdf\n\nYear 2 Calendar:\nht
- tps://raw.githubusercontent.com/makermecrazy/calendar_files/main/Solano_Y
- ear_2_Calendar_2026-2027.pdf\n\nSOLANO LINKS\nSolano Youth:\nhttps://www.
- solanocatholic.org/solanoyouth\n\nConfirmation:\nhttps://www.solanocathol
- ic.org/confirmation\n\nSummit Meal and Service Signup:\nhttps://m.signupg
- enius.com/#!/showSignUp/10C0A45A9A92BA2F85-63825727-meals?useFullSite=fal
- se\n\nCONTACT\nMatt Franklin - Youth Ministry Coordinator\n949-589-1709 x
- 2138\nmfranklin@solanocatholic.org\nsolanoyouth@solanocatholic.org
+  meal to Summit or Garden+Garage for Service Hours. Students must prepar
+ e\, serve and clean up and stay for the entire Summit youth group = 5 hr
+ s/meal.\n\nDOCUMENTS\nComplete Year 2 Packet:\nhttps://raw.githubusercon
+ tent.com/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Year
+ _2_Packet_2026-2027.pdf\n\nYear 2 Calendar:\nhttps://raw.githubuserconte
+ nt.com/makermecrazy/calendar_files/main/Solano_Year_2_Calendar_2026-2027
+ .pdf\n\nSOLANO LINKS\nSolano Youth:\nhttps://www.solanocatholic.org/sola
+ noyouth\n\nConfirmation:\nhttps://www.solanocatholic.org/confirmation\n\
+ nSummit Meal and Service Signup:\nhttps://m.signupgenius.com/#!/showSign
+ Up/10C0A45A9A92BA2F85-63825727-meals?useFullSite=false\n\nCONTACT\nMatt 
+ Franklin - Youth Ministry Coordinator\n949-589-1709 x2138\nmfranklin@sol
+ anocatholic.org\nsolanoyouth@solanocatholic.org
 URL:https://www.solanocatholic.org/confirmation
 ATTACH;VALUE=URI;FMTTYPE=application/pdf:https://raw.githubusercontent.co
- m/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Year_2_Packe
- t_2026-2027.pdf
+ m/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Year_2_Pack
+ et_2026-2027.pdf
 ATTACH;VALUE=URI;FMTTYPE=application/pdf:https://raw.githubusercontent.co
  m/makermecrazy/calendar_files/main/Solano_Year_2_Calendar_2026-2027.pdf
 BEGIN:VALARM
@@ -1630,31 +1630,31 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:solano-y2-summit-20270307@makermecrazy
-DTSTAMP:20260914T000000Z
-LAST-MODIFIED:20260914T000000Z
-SEQUENCE:2
+DTSTAMP:20260914T230000Z
+LAST-MODIFIED:20260914T230000Z
+SEQUENCE:3
 DTSTART;TZID=America/Los_Angeles:20270307T180000
 DTEND;TZID=America/Los_Angeles:20270307T203000
-SUMMARY:Solano Summit - Mar 7
+SUMMARY:Solano Summit - Year 2
 LOCATION:Youth Room - San Francisco Solano Catholic Church\, 22082 Antoni
  o Pkwy\, Rancho Santa Margarita\, CA 92688
 DESCRIPTION:Summit Youth Group. 6:00-8:30 PM. Dinner is provided. Bring a
-  meal to Summit or participate in Garden + Garage for service hours. Stud
- ents preparing\, serving\, cleaning up\, and staying for the entire Summi
- t receive 5 service hours per meal.\n\nDOCUMENTS\nComplete Year 2 Packet:
- \nhttps://raw.githubusercontent.com/makermecrazy/calendar_files/main/Sola
- no_Youth_Confirmation_Year_2_Packet_2026-2027.pdf\n\nYear 2 Calendar:\nht
- tps://raw.githubusercontent.com/makermecrazy/calendar_files/main/Solano_Y
- ear_2_Calendar_2026-2027.pdf\n\nSOLANO LINKS\nSolano Youth:\nhttps://www.
- solanocatholic.org/solanoyouth\n\nConfirmation:\nhttps://www.solanocathol
- ic.org/confirmation\n\nSummit Meal and Service Signup:\nhttps://m.signupg
- enius.com/#!/showSignUp/10C0A45A9A92BA2F85-63825727-meals?useFullSite=fal
- se\n\nCONTACT\nMatt Franklin - Youth Ministry Coordinator\n949-589-1709 x
- 2138\nmfranklin@solanocatholic.org\nsolanoyouth@solanocatholic.org
+  meal to Summit or Garden+Garage for Service Hours. Students must prepar
+ e\, serve and clean up and stay for the entire Summit youth group = 5 hr
+ s/meal.\n\nDOCUMENTS\nComplete Year 2 Packet:\nhttps://raw.githubusercon
+ tent.com/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Year
+ _2_Packet_2026-2027.pdf\n\nYear 2 Calendar:\nhttps://raw.githubuserconte
+ nt.com/makermecrazy/calendar_files/main/Solano_Year_2_Calendar_2026-2027
+ .pdf\n\nSOLANO LINKS\nSolano Youth:\nhttps://www.solanocatholic.org/sola
+ noyouth\n\nConfirmation:\nhttps://www.solanocatholic.org/confirmation\n\
+ nSummit Meal and Service Signup:\nhttps://m.signupgenius.com/#!/showSign
+ Up/10C0A45A9A92BA2F85-63825727-meals?useFullSite=false\n\nCONTACT\nMatt 
+ Franklin - Youth Ministry Coordinator\n949-589-1709 x2138\nmfranklin@sol
+ anocatholic.org\nsolanoyouth@solanocatholic.org
 URL:https://www.solanocatholic.org/confirmation
 ATTACH;VALUE=URI;FMTTYPE=application/pdf:https://raw.githubusercontent.co
- m/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Year_2_Packe
- t_2026-2027.pdf
+ m/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Year_2_Pack
+ et_2026-2027.pdf
 ATTACH;VALUE=URI;FMTTYPE=application/pdf:https://raw.githubusercontent.co
  m/makermecrazy/calendar_files/main/Solano_Year_2_Calendar_2026-2027.pdf
 BEGIN:VALARM
@@ -1670,31 +1670,31 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:solano-y2-summit-20270321@makermecrazy
-DTSTAMP:20260914T000000Z
-LAST-MODIFIED:20260914T000000Z
-SEQUENCE:2
+DTSTAMP:20260914T230000Z
+LAST-MODIFIED:20260914T230000Z
+SEQUENCE:3
 DTSTART;TZID=America/Los_Angeles:20270321T180000
 DTEND;TZID=America/Los_Angeles:20270321T203000
-SUMMARY:Solano Summit - Mar 21
+SUMMARY:Solano Summit - Year 2
 LOCATION:Youth Room - San Francisco Solano Catholic Church\, 22082 Antoni
  o Pkwy\, Rancho Santa Margarita\, CA 92688
 DESCRIPTION:Summit Youth Group. 6:00-8:30 PM. Dinner is provided. Bring a
-  meal to Summit or participate in Garden + Garage for service hours. Stud
- ents preparing\, serving\, cleaning up\, and staying for the entire Summi
- t receive 5 service hours per meal.\n\nDOCUMENTS\nComplete Year 2 Packet:
- \nhttps://raw.githubusercontent.com/makermecrazy/calendar_files/main/Sola
- no_Youth_Confirmation_Year_2_Packet_2026-2027.pdf\n\nYear 2 Calendar:\nht
- tps://raw.githubusercontent.com/makermecrazy/calendar_files/main/Solano_Y
- ear_2_Calendar_2026-2027.pdf\n\nSOLANO LINKS\nSolano Youth:\nhttps://www.
- solanocatholic.org/solanoyouth\n\nConfirmation:\nhttps://www.solanocathol
- ic.org/confirmation\n\nSummit Meal and Service Signup:\nhttps://m.signupg
- enius.com/#!/showSignUp/10C0A45A9A92BA2F85-63825727-meals?useFullSite=fal
- se\n\nCONTACT\nMatt Franklin - Youth Ministry Coordinator\n949-589-1709 x
- 2138\nmfranklin@solanocatholic.org\nsolanoyouth@solanocatholic.org
+  meal to Summit or Garden+Garage for Service Hours. Students must prepar
+ e\, serve and clean up and stay for the entire Summit youth group = 5 hr
+ s/meal.\n\nDOCUMENTS\nComplete Year 2 Packet:\nhttps://raw.githubusercon
+ tent.com/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Year
+ _2_Packet_2026-2027.pdf\n\nYear 2 Calendar:\nhttps://raw.githubuserconte
+ nt.com/makermecrazy/calendar_files/main/Solano_Year_2_Calendar_2026-2027
+ .pdf\n\nSOLANO LINKS\nSolano Youth:\nhttps://www.solanocatholic.org/sola
+ noyouth\n\nConfirmation:\nhttps://www.solanocatholic.org/confirmation\n\
+ nSummit Meal and Service Signup:\nhttps://m.signupgenius.com/#!/showSign
+ Up/10C0A45A9A92BA2F85-63825727-meals?useFullSite=false\n\nCONTACT\nMatt 
+ Franklin - Youth Ministry Coordinator\n949-589-1709 x2138\nmfranklin@sol
+ anocatholic.org\nsolanoyouth@solanocatholic.org
 URL:https://www.solanocatholic.org/confirmation
 ATTACH;VALUE=URI;FMTTYPE=application/pdf:https://raw.githubusercontent.co
- m/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Year_2_Packe
- t_2026-2027.pdf
+ m/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Year_2_Pack
+ et_2026-2027.pdf
 ATTACH;VALUE=URI;FMTTYPE=application/pdf:https://raw.githubusercontent.co
  m/makermecrazy/calendar_files/main/Solano_Year_2_Calendar_2026-2027.pdf
 BEGIN:VALARM
@@ -1710,31 +1710,31 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:solano-y2-summit-20270404@makermecrazy
-DTSTAMP:20260914T000000Z
-LAST-MODIFIED:20260914T000000Z
-SEQUENCE:2
+DTSTAMP:20260914T230000Z
+LAST-MODIFIED:20260914T230000Z
+SEQUENCE:3
 DTSTART;TZID=America/Los_Angeles:20270404T180000
 DTEND;TZID=America/Los_Angeles:20270404T203000
-SUMMARY:Solano Summit - Apr 4
+SUMMARY:Solano Summit - Year 2
 LOCATION:Youth Room - San Francisco Solano Catholic Church\, 22082 Antoni
  o Pkwy\, Rancho Santa Margarita\, CA 92688
 DESCRIPTION:Summit Youth Group. 6:00-8:30 PM. Dinner is provided. Bring a
-  meal to Summit or participate in Garden + Garage for service hours. Stud
- ents preparing\, serving\, cleaning up\, and staying for the entire Summi
- t receive 5 service hours per meal.\n\nDOCUMENTS\nComplete Year 2 Packet:
- \nhttps://raw.githubusercontent.com/makermecrazy/calendar_files/main/Sola
- no_Youth_Confirmation_Year_2_Packet_2026-2027.pdf\n\nYear 2 Calendar:\nht
- tps://raw.githubusercontent.com/makermecrazy/calendar_files/main/Solano_Y
- ear_2_Calendar_2026-2027.pdf\n\nSOLANO LINKS\nSolano Youth:\nhttps://www.
- solanocatholic.org/solanoyouth\n\nConfirmation:\nhttps://www.solanocathol
- ic.org/confirmation\n\nSummit Meal and Service Signup:\nhttps://m.signupg
- enius.com/#!/showSignUp/10C0A45A9A92BA2F85-63825727-meals?useFullSite=fal
- se\n\nCONTACT\nMatt Franklin - Youth Ministry Coordinator\n949-589-1709 x
- 2138\nmfranklin@solanocatholic.org\nsolanoyouth@solanocatholic.org
+  meal to Summit or Garden+Garage for Service Hours. Students must prepar
+ e\, serve and clean up and stay for the entire Summit youth group = 5 hr
+ s/meal.\n\nDOCUMENTS\nComplete Year 2 Packet:\nhttps://raw.githubusercon
+ tent.com/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Year
+ _2_Packet_2026-2027.pdf\n\nYear 2 Calendar:\nhttps://raw.githubuserconte
+ nt.com/makermecrazy/calendar_files/main/Solano_Year_2_Calendar_2026-2027
+ .pdf\n\nSOLANO LINKS\nSolano Youth:\nhttps://www.solanocatholic.org/sola
+ noyouth\n\nConfirmation:\nhttps://www.solanocatholic.org/confirmation\n\
+ nSummit Meal and Service Signup:\nhttps://m.signupgenius.com/#!/showSign
+ Up/10C0A45A9A92BA2F85-63825727-meals?useFullSite=false\n\nCONTACT\nMatt 
+ Franklin - Youth Ministry Coordinator\n949-589-1709 x2138\nmfranklin@sol
+ anocatholic.org\nsolanoyouth@solanocatholic.org
 URL:https://www.solanocatholic.org/confirmation
 ATTACH;VALUE=URI;FMTTYPE=application/pdf:https://raw.githubusercontent.co
- m/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Year_2_Packe
- t_2026-2027.pdf
+ m/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Year_2_Pack
+ et_2026-2027.pdf
 ATTACH;VALUE=URI;FMTTYPE=application/pdf:https://raw.githubusercontent.co
  m/makermecrazy/calendar_files/main/Solano_Year_2_Calendar_2026-2027.pdf
 BEGIN:VALARM
@@ -1750,31 +1750,31 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:solano-y2-summit-20270411@makermecrazy
-DTSTAMP:20260914T000000Z
-LAST-MODIFIED:20260914T000000Z
-SEQUENCE:2
+DTSTAMP:20260914T230000Z
+LAST-MODIFIED:20260914T230000Z
+SEQUENCE:3
 DTSTART;TZID=America/Los_Angeles:20270411T180000
 DTEND;TZID=America/Los_Angeles:20270411T203000
-SUMMARY:Solano Summit - Apr 11
+SUMMARY:Solano Summit - Year 2
 LOCATION:Youth Room - San Francisco Solano Catholic Church\, 22082 Antoni
  o Pkwy\, Rancho Santa Margarita\, CA 92688
 DESCRIPTION:Summit Youth Group. 6:00-8:30 PM. Dinner is provided. Bring a
-  meal to Summit or participate in Garden + Garage for service hours. Stud
- ents preparing\, serving\, cleaning up\, and staying for the entire Summi
- t receive 5 service hours per meal.\n\nDOCUMENTS\nComplete Year 2 Packet:
- \nhttps://raw.githubusercontent.com/makermecrazy/calendar_files/main/Sola
- no_Youth_Confirmation_Year_2_Packet_2026-2027.pdf\n\nYear 2 Calendar:\nht
- tps://raw.githubusercontent.com/makermecrazy/calendar_files/main/Solano_Y
- ear_2_Calendar_2026-2027.pdf\n\nSOLANO LINKS\nSolano Youth:\nhttps://www.
- solanocatholic.org/solanoyouth\n\nConfirmation:\nhttps://www.solanocathol
- ic.org/confirmation\n\nSummit Meal and Service Signup:\nhttps://m.signupg
- enius.com/#!/showSignUp/10C0A45A9A92BA2F85-63825727-meals?useFullSite=fal
- se\n\nCONTACT\nMatt Franklin - Youth Ministry Coordinator\n949-589-1709 x
- 2138\nmfranklin@solanocatholic.org\nsolanoyouth@solanocatholic.org
+  meal to Summit or Garden+Garage for Service Hours. Students must prepar
+ e\, serve and clean up and stay for the entire Summit youth group = 5 hr
+ s/meal.\n\nDOCUMENTS\nComplete Year 2 Packet:\nhttps://raw.githubusercon
+ tent.com/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Year
+ _2_Packet_2026-2027.pdf\n\nYear 2 Calendar:\nhttps://raw.githubuserconte
+ nt.com/makermecrazy/calendar_files/main/Solano_Year_2_Calendar_2026-2027
+ .pdf\n\nSOLANO LINKS\nSolano Youth:\nhttps://www.solanocatholic.org/sola
+ noyouth\n\nConfirmation:\nhttps://www.solanocatholic.org/confirmation\n\
+ nSummit Meal and Service Signup:\nhttps://m.signupgenius.com/#!/showSign
+ Up/10C0A45A9A92BA2F85-63825727-meals?useFullSite=false\n\nCONTACT\nMatt 
+ Franklin - Youth Ministry Coordinator\n949-589-1709 x2138\nmfranklin@sol
+ anocatholic.org\nsolanoyouth@solanocatholic.org
 URL:https://www.solanocatholic.org/confirmation
 ATTACH;VALUE=URI;FMTTYPE=application/pdf:https://raw.githubusercontent.co
- m/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Year_2_Packe
- t_2026-2027.pdf
+ m/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Year_2_Pack
+ et_2026-2027.pdf
 ATTACH;VALUE=URI;FMTTYPE=application/pdf:https://raw.githubusercontent.co
  m/makermecrazy/calendar_files/main/Solano_Year_2_Calendar_2026-2027.pdf
 BEGIN:VALARM
@@ -1790,31 +1790,31 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:solano-y2-summit-20270418@makermecrazy
-DTSTAMP:20260914T000000Z
-LAST-MODIFIED:20260914T000000Z
-SEQUENCE:2
+DTSTAMP:20260914T230000Z
+LAST-MODIFIED:20260914T230000Z
+SEQUENCE:3
 DTSTART;TZID=America/Los_Angeles:20270418T180000
 DTEND;TZID=America/Los_Angeles:20270418T203000
-SUMMARY:Solano Summit - Apr 18
+SUMMARY:Solano Summit - Year 2
 LOCATION:Youth Room - San Francisco Solano Catholic Church\, 22082 Antoni
  o Pkwy\, Rancho Santa Margarita\, CA 92688
 DESCRIPTION:Summit Youth Group. 6:00-8:30 PM. Dinner is provided. Bring a
-  meal to Summit or participate in Garden + Garage for service hours. Stud
- ents preparing\, serving\, cleaning up\, and staying for the entire Summi
- t receive 5 service hours per meal.\n\nDOCUMENTS\nComplete Year 2 Packet:
- \nhttps://raw.githubusercontent.com/makermecrazy/calendar_files/main/Sola
- no_Youth_Confirmation_Year_2_Packet_2026-2027.pdf\n\nYear 2 Calendar:\nht
- tps://raw.githubusercontent.com/makermecrazy/calendar_files/main/Solano_Y
- ear_2_Calendar_2026-2027.pdf\n\nSOLANO LINKS\nSolano Youth:\nhttps://www.
- solanocatholic.org/solanoyouth\n\nConfirmation:\nhttps://www.solanocathol
- ic.org/confirmation\n\nSummit Meal and Service Signup:\nhttps://m.signupg
- enius.com/#!/showSignUp/10C0A45A9A92BA2F85-63825727-meals?useFullSite=fal
- se\n\nCONTACT\nMatt Franklin - Youth Ministry Coordinator\n949-589-1709 x
- 2138\nmfranklin@solanocatholic.org\nsolanoyouth@solanocatholic.org
+  meal to Summit or Garden+Garage for Service Hours. Students must prepar
+ e\, serve and clean up and stay for the entire Summit youth group = 5 hr
+ s/meal.\n\nDOCUMENTS\nComplete Year 2 Packet:\nhttps://raw.githubusercon
+ tent.com/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Year
+ _2_Packet_2026-2027.pdf\n\nYear 2 Calendar:\nhttps://raw.githubuserconte
+ nt.com/makermecrazy/calendar_files/main/Solano_Year_2_Calendar_2026-2027
+ .pdf\n\nSOLANO LINKS\nSolano Youth:\nhttps://www.solanocatholic.org/sola
+ noyouth\n\nConfirmation:\nhttps://www.solanocatholic.org/confirmation\n\
+ nSummit Meal and Service Signup:\nhttps://m.signupgenius.com/#!/showSign
+ Up/10C0A45A9A92BA2F85-63825727-meals?useFullSite=false\n\nCONTACT\nMatt 
+ Franklin - Youth Ministry Coordinator\n949-589-1709 x2138\nmfranklin@sol
+ anocatholic.org\nsolanoyouth@solanocatholic.org
 URL:https://www.solanocatholic.org/confirmation
 ATTACH;VALUE=URI;FMTTYPE=application/pdf:https://raw.githubusercontent.co
- m/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Year_2_Packe
- t_2026-2027.pdf
+ m/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Year_2_Pack
+ et_2026-2027.pdf
 ATTACH;VALUE=URI;FMTTYPE=application/pdf:https://raw.githubusercontent.co
  m/makermecrazy/calendar_files/main/Solano_Year_2_Calendar_2026-2027.pdf
 BEGIN:VALARM
@@ -1830,31 +1830,31 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:solano-y2-summit-20270425@makermecrazy
-DTSTAMP:20260914T000000Z
-LAST-MODIFIED:20260914T000000Z
-SEQUENCE:2
+DTSTAMP:20260914T230000Z
+LAST-MODIFIED:20260914T230000Z
+SEQUENCE:3
 DTSTART;TZID=America/Los_Angeles:20270425T180000
 DTEND;TZID=America/Los_Angeles:20270425T203000
-SUMMARY:Solano Summit - Apr 25
+SUMMARY:Solano Summit - Year 2
 LOCATION:Youth Room - San Francisco Solano Catholic Church\, 22082 Antoni
  o Pkwy\, Rancho Santa Margarita\, CA 92688
 DESCRIPTION:Summit Youth Group. 6:00-8:30 PM. Dinner is provided. Bring a
-  meal to Summit or participate in Garden + Garage for service hours. Stud
- ents preparing\, serving\, cleaning up\, and staying for the entire Summi
- t receive 5 service hours per meal.\n\nDOCUMENTS\nComplete Year 2 Packet:
- \nhttps://raw.githubusercontent.com/makermecrazy/calendar_files/main/Sola
- no_Youth_Confirmation_Year_2_Packet_2026-2027.pdf\n\nYear 2 Calendar:\nht
- tps://raw.githubusercontent.com/makermecrazy/calendar_files/main/Solano_Y
- ear_2_Calendar_2026-2027.pdf\n\nSOLANO LINKS\nSolano Youth:\nhttps://www.
- solanocatholic.org/solanoyouth\n\nConfirmation:\nhttps://www.solanocathol
- ic.org/confirmation\n\nSummit Meal and Service Signup:\nhttps://m.signupg
- enius.com/#!/showSignUp/10C0A45A9A92BA2F85-63825727-meals?useFullSite=fal
- se\n\nCONTACT\nMatt Franklin - Youth Ministry Coordinator\n949-589-1709 x
- 2138\nmfranklin@solanocatholic.org\nsolanoyouth@solanocatholic.org
+  meal to Summit or Garden+Garage for Service Hours. Students must prepar
+ e\, serve and clean up and stay for the entire Summit youth group = 5 hr
+ s/meal.\n\nDOCUMENTS\nComplete Year 2 Packet:\nhttps://raw.githubusercon
+ tent.com/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Year
+ _2_Packet_2026-2027.pdf\n\nYear 2 Calendar:\nhttps://raw.githubuserconte
+ nt.com/makermecrazy/calendar_files/main/Solano_Year_2_Calendar_2026-2027
+ .pdf\n\nSOLANO LINKS\nSolano Youth:\nhttps://www.solanocatholic.org/sola
+ noyouth\n\nConfirmation:\nhttps://www.solanocatholic.org/confirmation\n\
+ nSummit Meal and Service Signup:\nhttps://m.signupgenius.com/#!/showSign
+ Up/10C0A45A9A92BA2F85-63825727-meals?useFullSite=false\n\nCONTACT\nMatt 
+ Franklin - Youth Ministry Coordinator\n949-589-1709 x2138\nmfranklin@sol
+ anocatholic.org\nsolanoyouth@solanocatholic.org
 URL:https://www.solanocatholic.org/confirmation
 ATTACH;VALUE=URI;FMTTYPE=application/pdf:https://raw.githubusercontent.co
- m/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Year_2_Packe
- t_2026-2027.pdf
+ m/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Year_2_Pack
+ et_2026-2027.pdf
 ATTACH;VALUE=URI;FMTTYPE=application/pdf:https://raw.githubusercontent.co
  m/makermecrazy/calendar_files/main/Solano_Year_2_Calendar_2026-2027.pdf
 BEGIN:VALARM
@@ -1870,31 +1870,31 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:solano-y2-summit-20270502@makermecrazy
-DTSTAMP:20260914T000000Z
-LAST-MODIFIED:20260914T000000Z
-SEQUENCE:2
+DTSTAMP:20260914T230000Z
+LAST-MODIFIED:20260914T230000Z
+SEQUENCE:3
 DTSTART;TZID=America/Los_Angeles:20270502T180000
 DTEND;TZID=America/Los_Angeles:20270502T203000
-SUMMARY:Solano Summit - May 2
+SUMMARY:Solano Summit - Year 2
 LOCATION:Youth Room - San Francisco Solano Catholic Church\, 22082 Antoni
  o Pkwy\, Rancho Santa Margarita\, CA 92688
 DESCRIPTION:Summit Youth Group. 6:00-8:30 PM. Dinner is provided. Bring a
-  meal to Summit or participate in Garden + Garage for service hours. Stud
- ents preparing\, serving\, cleaning up\, and staying for the entire Summi
- t receive 5 service hours per meal.\n\nDOCUMENTS\nComplete Year 2 Packet:
- \nhttps://raw.githubusercontent.com/makermecrazy/calendar_files/main/Sola
- no_Youth_Confirmation_Year_2_Packet_2026-2027.pdf\n\nYear 2 Calendar:\nht
- tps://raw.githubusercontent.com/makermecrazy/calendar_files/main/Solano_Y
- ear_2_Calendar_2026-2027.pdf\n\nSOLANO LINKS\nSolano Youth:\nhttps://www.
- solanocatholic.org/solanoyouth\n\nConfirmation:\nhttps://www.solanocathol
- ic.org/confirmation\n\nSummit Meal and Service Signup:\nhttps://m.signupg
- enius.com/#!/showSignUp/10C0A45A9A92BA2F85-63825727-meals?useFullSite=fal
- se\n\nCONTACT\nMatt Franklin - Youth Ministry Coordinator\n949-589-1709 x
- 2138\nmfranklin@solanocatholic.org\nsolanoyouth@solanocatholic.org
+  meal to Summit or Garden+Garage for Service Hours. Students must prepar
+ e\, serve and clean up and stay for the entire Summit youth group = 5 hr
+ s/meal.\n\nDOCUMENTS\nComplete Year 2 Packet:\nhttps://raw.githubusercon
+ tent.com/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Year
+ _2_Packet_2026-2027.pdf\n\nYear 2 Calendar:\nhttps://raw.githubuserconte
+ nt.com/makermecrazy/calendar_files/main/Solano_Year_2_Calendar_2026-2027
+ .pdf\n\nSOLANO LINKS\nSolano Youth:\nhttps://www.solanocatholic.org/sola
+ noyouth\n\nConfirmation:\nhttps://www.solanocatholic.org/confirmation\n\
+ nSummit Meal and Service Signup:\nhttps://m.signupgenius.com/#!/showSign
+ Up/10C0A45A9A92BA2F85-63825727-meals?useFullSite=false\n\nCONTACT\nMatt 
+ Franklin - Youth Ministry Coordinator\n949-589-1709 x2138\nmfranklin@sol
+ anocatholic.org\nsolanoyouth@solanocatholic.org
 URL:https://www.solanocatholic.org/confirmation
 ATTACH;VALUE=URI;FMTTYPE=application/pdf:https://raw.githubusercontent.co
- m/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Year_2_Packe
- t_2026-2027.pdf
+ m/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Year_2_Pack
+ et_2026-2027.pdf
 ATTACH;VALUE=URI;FMTTYPE=application/pdf:https://raw.githubusercontent.co
  m/makermecrazy/calendar_files/main/Solano_Year_2_Calendar_2026-2027.pdf
 BEGIN:VALARM
@@ -1910,31 +1910,31 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:solano-y2-summit-20270516@makermecrazy
-DTSTAMP:20260914T000000Z
-LAST-MODIFIED:20260914T000000Z
-SEQUENCE:2
+DTSTAMP:20260914T230000Z
+LAST-MODIFIED:20260914T230000Z
+SEQUENCE:3
 DTSTART;TZID=America/Los_Angeles:20270516T180000
 DTEND;TZID=America/Los_Angeles:20270516T203000
-SUMMARY:Solano Summit - May 16
+SUMMARY:Solano Summit - Year 2
 LOCATION:Youth Room - San Francisco Solano Catholic Church\, 22082 Antoni
  o Pkwy\, Rancho Santa Margarita\, CA 92688
 DESCRIPTION:Summit Youth Group. 6:00-8:30 PM. Dinner is provided. Bring a
-  meal to Summit or participate in Garden + Garage for service hours. Stud
- ents preparing\, serving\, cleaning up\, and staying for the entire Summi
- t receive 5 service hours per meal.\n\nDOCUMENTS\nComplete Year 2 Packet:
- \nhttps://raw.githubusercontent.com/makermecrazy/calendar_files/main/Sola
- no_Youth_Confirmation_Year_2_Packet_2026-2027.pdf\n\nYear 2 Calendar:\nht
- tps://raw.githubusercontent.com/makermecrazy/calendar_files/main/Solano_Y
- ear_2_Calendar_2026-2027.pdf\n\nSOLANO LINKS\nSolano Youth:\nhttps://www.
- solanocatholic.org/solanoyouth\n\nConfirmation:\nhttps://www.solanocathol
- ic.org/confirmation\n\nSummit Meal and Service Signup:\nhttps://m.signupg
- enius.com/#!/showSignUp/10C0A45A9A92BA2F85-63825727-meals?useFullSite=fal
- se\n\nCONTACT\nMatt Franklin - Youth Ministry Coordinator\n949-589-1709 x
- 2138\nmfranklin@solanocatholic.org\nsolanoyouth@solanocatholic.org
+  meal to Summit or Garden+Garage for Service Hours. Students must prepar
+ e\, serve and clean up and stay for the entire Summit youth group = 5 hr
+ s/meal.\n\nDOCUMENTS\nComplete Year 2 Packet:\nhttps://raw.githubusercon
+ tent.com/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Year
+ _2_Packet_2026-2027.pdf\n\nYear 2 Calendar:\nhttps://raw.githubuserconte
+ nt.com/makermecrazy/calendar_files/main/Solano_Year_2_Calendar_2026-2027
+ .pdf\n\nSOLANO LINKS\nSolano Youth:\nhttps://www.solanocatholic.org/sola
+ noyouth\n\nConfirmation:\nhttps://www.solanocatholic.org/confirmation\n\
+ nSummit Meal and Service Signup:\nhttps://m.signupgenius.com/#!/showSign
+ Up/10C0A45A9A92BA2F85-63825727-meals?useFullSite=false\n\nCONTACT\nMatt 
+ Franklin - Youth Ministry Coordinator\n949-589-1709 x2138\nmfranklin@sol
+ anocatholic.org\nsolanoyouth@solanocatholic.org
 URL:https://www.solanocatholic.org/confirmation
 ATTACH;VALUE=URI;FMTTYPE=application/pdf:https://raw.githubusercontent.co
- m/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Year_2_Packe
- t_2026-2027.pdf
+ m/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Year_2_Pack
+ et_2026-2027.pdf
 ATTACH;VALUE=URI;FMTTYPE=application/pdf:https://raw.githubusercontent.co
  m/makermecrazy/calendar_files/main/Solano_Year_2_Calendar_2026-2027.pdf
 BEGIN:VALARM
@@ -1950,31 +1950,31 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:solano-y2-summit-20270523@makermecrazy
-DTSTAMP:20260914T000000Z
-LAST-MODIFIED:20260914T000000Z
-SEQUENCE:2
+DTSTAMP:20260914T230000Z
+LAST-MODIFIED:20260914T230000Z
+SEQUENCE:3
 DTSTART;TZID=America/Los_Angeles:20270523T180000
 DTEND;TZID=America/Los_Angeles:20270523T203000
-SUMMARY:Solano Summit - May 23
+SUMMARY:Solano Summit - Year 2
 LOCATION:Youth Room - San Francisco Solano Catholic Church\, 22082 Antoni
  o Pkwy\, Rancho Santa Margarita\, CA 92688
 DESCRIPTION:Summit Youth Group. 6:00-8:30 PM. Dinner is provided. Bring a
-  meal to Summit or participate in Garden + Garage for service hours. Stud
- ents preparing\, serving\, cleaning up\, and staying for the entire Summi
- t receive 5 service hours per meal.\n\nDOCUMENTS\nComplete Year 2 Packet:
- \nhttps://raw.githubusercontent.com/makermecrazy/calendar_files/main/Sola
- no_Youth_Confirmation_Year_2_Packet_2026-2027.pdf\n\nYear 2 Calendar:\nht
- tps://raw.githubusercontent.com/makermecrazy/calendar_files/main/Solano_Y
- ear_2_Calendar_2026-2027.pdf\n\nSOLANO LINKS\nSolano Youth:\nhttps://www.
- solanocatholic.org/solanoyouth\n\nConfirmation:\nhttps://www.solanocathol
- ic.org/confirmation\n\nSummit Meal and Service Signup:\nhttps://m.signupg
- enius.com/#!/showSignUp/10C0A45A9A92BA2F85-63825727-meals?useFullSite=fal
- se\n\nCONTACT\nMatt Franklin - Youth Ministry Coordinator\n949-589-1709 x
- 2138\nmfranklin@solanocatholic.org\nsolanoyouth@solanocatholic.org
+  meal to Summit or Garden+Garage for Service Hours. Students must prepar
+ e\, serve and clean up and stay for the entire Summit youth group = 5 hr
+ s/meal.\n\nDOCUMENTS\nComplete Year 2 Packet:\nhttps://raw.githubusercon
+ tent.com/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Year
+ _2_Packet_2026-2027.pdf\n\nYear 2 Calendar:\nhttps://raw.githubuserconte
+ nt.com/makermecrazy/calendar_files/main/Solano_Year_2_Calendar_2026-2027
+ .pdf\n\nSOLANO LINKS\nSolano Youth:\nhttps://www.solanocatholic.org/sola
+ noyouth\n\nConfirmation:\nhttps://www.solanocatholic.org/confirmation\n\
+ nSummit Meal and Service Signup:\nhttps://m.signupgenius.com/#!/showSign
+ Up/10C0A45A9A92BA2F85-63825727-meals?useFullSite=false\n\nCONTACT\nMatt 
+ Franklin - Youth Ministry Coordinator\n949-589-1709 x2138\nmfranklin@sol
+ anocatholic.org\nsolanoyouth@solanocatholic.org
 URL:https://www.solanocatholic.org/confirmation
 ATTACH;VALUE=URI;FMTTYPE=application/pdf:https://raw.githubusercontent.co
- m/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Year_2_Packe
- t_2026-2027.pdf
+ m/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Year_2_Pack
+ et_2026-2027.pdf
 ATTACH;VALUE=URI;FMTTYPE=application/pdf:https://raw.githubusercontent.co
  m/makermecrazy/calendar_files/main/Solano_Year_2_Calendar_2026-2027.pdf
 BEGIN:VALARM
@@ -1990,31 +1990,31 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:solano-y2-summit-20270530@makermecrazy
-DTSTAMP:20260914T000000Z
-LAST-MODIFIED:20260914T000000Z
-SEQUENCE:2
+DTSTAMP:20260914T230000Z
+LAST-MODIFIED:20260914T230000Z
+SEQUENCE:3
 DTSTART;TZID=America/Los_Angeles:20270530T180000
 DTEND;TZID=America/Los_Angeles:20270530T203000
-SUMMARY:Solano Summit - May 30
+SUMMARY:Solano Summit - Year 2
 LOCATION:Youth Room - San Francisco Solano Catholic Church\, 22082 Antoni
  o Pkwy\, Rancho Santa Margarita\, CA 92688
 DESCRIPTION:Summit Youth Group. 6:00-8:30 PM. Dinner is provided. Bring a
-  meal to Summit or participate in Garden + Garage for service hours. Stud
- ents preparing\, serving\, cleaning up\, and staying for the entire Summi
- t receive 5 service hours per meal.\n\nDOCUMENTS\nComplete Year 2 Packet:
- \nhttps://raw.githubusercontent.com/makermecrazy/calendar_files/main/Sola
- no_Youth_Confirmation_Year_2_Packet_2026-2027.pdf\n\nYear 2 Calendar:\nht
- tps://raw.githubusercontent.com/makermecrazy/calendar_files/main/Solano_Y
- ear_2_Calendar_2026-2027.pdf\n\nSOLANO LINKS\nSolano Youth:\nhttps://www.
- solanocatholic.org/solanoyouth\n\nConfirmation:\nhttps://www.solanocathol
- ic.org/confirmation\n\nSummit Meal and Service Signup:\nhttps://m.signupg
- enius.com/#!/showSignUp/10C0A45A9A92BA2F85-63825727-meals?useFullSite=fal
- se\n\nCONTACT\nMatt Franklin - Youth Ministry Coordinator\n949-589-1709 x
- 2138\nmfranklin@solanocatholic.org\nsolanoyouth@solanocatholic.org
+  meal to Summit or Garden+Garage for Service Hours. Students must prepar
+ e\, serve and clean up and stay for the entire Summit youth group = 5 hr
+ s/meal.\n\nDOCUMENTS\nComplete Year 2 Packet:\nhttps://raw.githubusercon
+ tent.com/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Year
+ _2_Packet_2026-2027.pdf\n\nYear 2 Calendar:\nhttps://raw.githubuserconte
+ nt.com/makermecrazy/calendar_files/main/Solano_Year_2_Calendar_2026-2027
+ .pdf\n\nSOLANO LINKS\nSolano Youth:\nhttps://www.solanocatholic.org/sola
+ noyouth\n\nConfirmation:\nhttps://www.solanocatholic.org/confirmation\n\
+ nSummit Meal and Service Signup:\nhttps://m.signupgenius.com/#!/showSign
+ Up/10C0A45A9A92BA2F85-63825727-meals?useFullSite=false\n\nCONTACT\nMatt 
+ Franklin - Youth Ministry Coordinator\n949-589-1709 x2138\nmfranklin@sol
+ anocatholic.org\nsolanoyouth@solanocatholic.org
 URL:https://www.solanocatholic.org/confirmation
 ATTACH;VALUE=URI;FMTTYPE=application/pdf:https://raw.githubusercontent.co
- m/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Year_2_Packe
- t_2026-2027.pdf
+ m/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Year_2_Pack
+ et_2026-2027.pdf
 ATTACH;VALUE=URI;FMTTYPE=application/pdf:https://raw.githubusercontent.co
  m/makermecrazy/calendar_files/main/Solano_Year_2_Calendar_2026-2027.pdf
 BEGIN:VALARM
@@ -2030,31 +2030,30 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:solano-y2-parent-student-meeting-20260913@makermecrazy
-DTSTAMP:20260914T000000Z
-LAST-MODIFIED:20260914T000000Z
-SEQUENCE:2
+DTSTAMP:20260914T230000Z
+LAST-MODIFIED:20260914T230000Z
+SEQUENCE:3
 DTSTART;TZID=America/Los_Angeles:20260913T113000
 DTEND;TZID=America/Los_Angeles:20260913T130000
 SUMMARY:Solano Year 2 Parent + Student Meeting - CHOOSE ONE - Sunday Opti
  on
 LOCATION:San Francisco Solano Catholic Church\, 22082 Antonio Pkwy\, Ranc
  ho Santa Margarita\, CA 92688
-DESCRIPTION:Choose ONE Parent + Student Meeting option. Both student and 
- parent attend together. Sunday option: September 13\, 11:30 AM-1:00 PM.\n
- \nDOCUMENTS\nComplete Year 2 Packet:\nhttps://raw.githubusercontent.com/m
- akermecrazy/calendar_files/main/Solano_Youth_Confirmation_Year_2_Packet_2
- 026-2027.pdf\n\nYear 2 Calendar:\nhttps://raw.githubusercontent.com/maker
- mecrazy/calendar_files/main/Solano_Year_2_Calendar_2026-2027.pdf\n\nSOLAN
- O LINKS\nSolano Youth:\nhttps://www.solanocatholic.org/solanoyouth\n\nCon
- firmation:\nhttps://www.solanocatholic.org/confirmation\n\nSummit Meal an
- d Service Signup:\nhttps://m.signupgenius.com/#!/showSignUp/10C0A45A9A92B
- A2F85-63825727-meals?useFullSite=false\n\nCONTACT\nMatt Franklin - Youth 
- Ministry Coordinator\n949-589-1709 x2138\nmfranklin@solanocatholic.org\ns
- olanoyouth@solanocatholic.org
+DESCRIPTION:CHOOSE ONE meeting option. Both students and parents attend t
+ ogether.\n\nDOCUMENTS\nComplete Year 2 Packet:\nhttps://raw.githubuserco
+ ntent.com/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Yea
+ r_2_Packet_2026-2027.pdf\n\nYear 2 Calendar:\nhttps://raw.githubusercont
+ ent.com/makermecrazy/calendar_files/main/Solano_Year_2_Calendar_2026-202
+ 7.pdf\n\nSOLANO LINKS\nSolano Youth:\nhttps://www.solanocatholic.org/sol
+ anoyouth\n\nConfirmation:\nhttps://www.solanocatholic.org/confirmation\n
+ \nSummit Meal and Service Signup:\nhttps://m.signupgenius.com/#!/showSig
+ nUp/10C0A45A9A92BA2F85-63825727-meals?useFullSite=false\n\nCONTACT\nMatt
+  Franklin - Youth Ministry Coordinator\n949-589-1709 x2138\nmfranklin@so
+ lanocatholic.org\nsolanoyouth@solanocatholic.org
 URL:https://www.solanocatholic.org/confirmation
 ATTACH;VALUE=URI;FMTTYPE=application/pdf:https://raw.githubusercontent.co
- m/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Year_2_Packe
- t_2026-2027.pdf
+ m/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Year_2_Pack
+ et_2026-2027.pdf
 ATTACH;VALUE=URI;FMTTYPE=application/pdf:https://raw.githubusercontent.co
  m/makermecrazy/calendar_files/main/Solano_Year_2_Calendar_2026-2027.pdf
 BEGIN:VALARM
@@ -2070,31 +2069,30 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:solano-y2-parent-student-meeting-20260914@makermecrazy
-DTSTAMP:20260914T000000Z
-LAST-MODIFIED:20260914T000000Z
-SEQUENCE:2
+DTSTAMP:20260914T230000Z
+LAST-MODIFIED:20260914T230000Z
+SEQUENCE:3
 DTSTART;TZID=America/Los_Angeles:20260914T190000
 DTEND;TZID=America/Los_Angeles:20260914T203000
 SUMMARY:Solano Year 2 Parent + Student Meeting - CHOOSE ONE - Monday Opti
  on
 LOCATION:San Francisco Solano Catholic Church\, 22082 Antonio Pkwy\, Ranc
  ho Santa Margarita\, CA 92688
-DESCRIPTION:Choose ONE Parent + Student Meeting option. Both student and 
- parent attend together. Monday option: September 14\, 7:00-8:30 PM.\n\nDO
- CUMENTS\nComplete Year 2 Packet:\nhttps://raw.githubusercontent.com/maker
- mecrazy/calendar_files/main/Solano_Youth_Confirmation_Year_2_Packet_2026-
- 2027.pdf\n\nYear 2 Calendar:\nhttps://raw.githubusercontent.com/makermecr
- azy/calendar_files/main/Solano_Year_2_Calendar_2026-2027.pdf\n\nSOLANO LI
- NKS\nSolano Youth:\nhttps://www.solanocatholic.org/solanoyouth\n\nConfirm
- ation:\nhttps://www.solanocatholic.org/confirmation\n\nSummit Meal and Se
- rvice Signup:\nhttps://m.signupgenius.com/#!/showSignUp/10C0A45A9A92BA2F8
- 5-63825727-meals?useFullSite=false\n\nCONTACT\nMatt Franklin - Youth Mini
- stry Coordinator\n949-589-1709 x2138\nmfranklin@solanocatholic.org\nsolan
- oyouth@solanocatholic.org
+DESCRIPTION:CHOOSE ONE meeting option. Both students and parents attend t
+ ogether.\n\nDOCUMENTS\nComplete Year 2 Packet:\nhttps://raw.githubuserco
+ ntent.com/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Yea
+ r_2_Packet_2026-2027.pdf\n\nYear 2 Calendar:\nhttps://raw.githubusercont
+ ent.com/makermecrazy/calendar_files/main/Solano_Year_2_Calendar_2026-202
+ 7.pdf\n\nSOLANO LINKS\nSolano Youth:\nhttps://www.solanocatholic.org/sol
+ anoyouth\n\nConfirmation:\nhttps://www.solanocatholic.org/confirmation\n
+ \nSummit Meal and Service Signup:\nhttps://m.signupgenius.com/#!/showSig
+ nUp/10C0A45A9A92BA2F85-63825727-meals?useFullSite=false\n\nCONTACT\nMatt
+  Franklin - Youth Ministry Coordinator\n949-589-1709 x2138\nmfranklin@so
+ lanocatholic.org\nsolanoyouth@solanocatholic.org
 URL:https://www.solanocatholic.org/confirmation
 ATTACH;VALUE=URI;FMTTYPE=application/pdf:https://raw.githubusercontent.co
- m/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Year_2_Packe
- t_2026-2027.pdf
+ m/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Year_2_Pack
+ et_2026-2027.pdf
 ATTACH;VALUE=URI;FMTTYPE=application/pdf:https://raw.githubusercontent.co
  m/makermecrazy/calendar_files/main/Solano_Year_2_Calendar_2026-2027.pdf
 BEGIN:VALARM
@@ -2110,29 +2108,29 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:solano-y2-parent-student-day-20261101@makermecrazy
-DTSTAMP:20260914T000000Z
-LAST-MODIFIED:20260914T000000Z
-SEQUENCE:2
+DTSTAMP:20260914T230000Z
+LAST-MODIFIED:20260914T230000Z
+SEQUENCE:3
 DTSTART;TZID=America/Los_Angeles:20261101T140000
 DTEND;TZID=America/Los_Angeles:20261101T170000
 SUMMARY:Solano Year 2 Parent + Student Day Retreat
 LOCATION:San Francisco Solano Catholic Church\, 22082 Antonio Pkwy\, Ranc
  ho Santa Margarita\, CA 92688
 DESCRIPTION:Parent + Student Day Retreat. 2:00-5:00 PM.\n\nDOCUMENTS\nCom
- plete Year 2 Packet:\nhttps://raw.githubusercontent.com/makermecrazy/cale
- ndar_files/main/Solano_Youth_Confirmation_Year_2_Packet_2026-2027.pdf\n\n
- Year 2 Calendar:\nhttps://raw.githubusercontent.com/makermecrazy/calendar
- _files/main/Solano_Year_2_Calendar_2026-2027.pdf\n\nSOLANO LINKS\nSolano 
- Youth:\nhttps://www.solanocatholic.org/solanoyouth\n\nConfirmation:\nhttp
- s://www.solanocatholic.org/confirmation\n\nSummit Meal and Service Signup
- :\nhttps://m.signupgenius.com/#!/showSignUp/10C0A45A9A92BA2F85-63825727-m
- eals?useFullSite=false\n\nCONTACT\nMatt Franklin - Youth Ministry Coordin
- ator\n949-589-1709 x2138\nmfranklin@solanocatholic.org\nsolanoyouth@solan
- ocatholic.org
+ plete Year 2 Packet:\nhttps://raw.githubusercontent.com/makermecrazy/cal
+ endar_files/main/Solano_Youth_Confirmation_Year_2_Packet_2026-2027.pdf\n
+ \nYear 2 Calendar:\nhttps://raw.githubusercontent.com/makermecrazy/calen
+ dar_files/main/Solano_Year_2_Calendar_2026-2027.pdf\n\nSOLANO LINKS\nSol
+ ano Youth:\nhttps://www.solanocatholic.org/solanoyouth\n\nConfirmation:\
+ nhttps://www.solanocatholic.org/confirmation\n\nSummit Meal and Service 
+ Signup:\nhttps://m.signupgenius.com/#!/showSignUp/10C0A45A9A92BA2F85-638
+ 25727-meals?useFullSite=false\n\nCONTACT\nMatt Franklin - Youth Ministry
+  Coordinator\n949-589-1709 x2138\nmfranklin@solanocatholic.org\nsolanoyo
+ uth@solanocatholic.org
 URL:https://www.solanocatholic.org/confirmation
 ATTACH;VALUE=URI;FMTTYPE=application/pdf:https://raw.githubusercontent.co
- m/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Year_2_Packe
- t_2026-2027.pdf
+ m/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Year_2_Pack
+ et_2026-2027.pdf
 ATTACH;VALUE=URI;FMTTYPE=application/pdf:https://raw.githubusercontent.co
  m/makermecrazy/calendar_files/main/Solano_Year_2_Calendar_2026-2027.pdf
 BEGIN:VALARM
@@ -2148,29 +2146,29 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:solano-y2-parent-student-day-20270228@makermecrazy
-DTSTAMP:20260914T000000Z
-LAST-MODIFIED:20260914T000000Z
-SEQUENCE:2
+DTSTAMP:20260914T230000Z
+LAST-MODIFIED:20260914T230000Z
+SEQUENCE:3
 DTSTART;TZID=America/Los_Angeles:20270228T140000
 DTEND;TZID=America/Los_Angeles:20270228T170000
 SUMMARY:Solano Year 2 Parent + Student Day Retreat
 LOCATION:San Francisco Solano Catholic Church\, 22082 Antonio Pkwy\, Ranc
  ho Santa Margarita\, CA 92688
 DESCRIPTION:Parent + Student Day Retreat. 2:00-5:00 PM.\n\nDOCUMENTS\nCom
- plete Year 2 Packet:\nhttps://raw.githubusercontent.com/makermecrazy/cale
- ndar_files/main/Solano_Youth_Confirmation_Year_2_Packet_2026-2027.pdf\n\n
- Year 2 Calendar:\nhttps://raw.githubusercontent.com/makermecrazy/calendar
- _files/main/Solano_Year_2_Calendar_2026-2027.pdf\n\nSOLANO LINKS\nSolano 
- Youth:\nhttps://www.solanocatholic.org/solanoyouth\n\nConfirmation:\nhttp
- s://www.solanocatholic.org/confirmation\n\nSummit Meal and Service Signup
- :\nhttps://m.signupgenius.com/#!/showSignUp/10C0A45A9A92BA2F85-63825727-m
- eals?useFullSite=false\n\nCONTACT\nMatt Franklin - Youth Ministry Coordin
- ator\n949-589-1709 x2138\nmfranklin@solanocatholic.org\nsolanoyouth@solan
- ocatholic.org
+ plete Year 2 Packet:\nhttps://raw.githubusercontent.com/makermecrazy/cal
+ endar_files/main/Solano_Youth_Confirmation_Year_2_Packet_2026-2027.pdf\n
+ \nYear 2 Calendar:\nhttps://raw.githubusercontent.com/makermecrazy/calen
+ dar_files/main/Solano_Year_2_Calendar_2026-2027.pdf\n\nSOLANO LINKS\nSol
+ ano Youth:\nhttps://www.solanocatholic.org/solanoyouth\n\nConfirmation:\
+ nhttps://www.solanocatholic.org/confirmation\n\nSummit Meal and Service 
+ Signup:\nhttps://m.signupgenius.com/#!/showSignUp/10C0A45A9A92BA2F85-638
+ 25727-meals?useFullSite=false\n\nCONTACT\nMatt Franklin - Youth Ministry
+  Coordinator\n949-589-1709 x2138\nmfranklin@solanocatholic.org\nsolanoyo
+ uth@solanocatholic.org
 URL:https://www.solanocatholic.org/confirmation
 ATTACH;VALUE=URI;FMTTYPE=application/pdf:https://raw.githubusercontent.co
- m/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Year_2_Packe
- t_2026-2027.pdf
+ m/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Year_2_Pack
+ et_2026-2027.pdf
 ATTACH;VALUE=URI;FMTTYPE=application/pdf:https://raw.githubusercontent.co
  m/makermecrazy/calendar_files/main/Solano_Year_2_Calendar_2026-2027.pdf
 BEGIN:VALARM
@@ -2186,31 +2184,31 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:solano-y2-retreat-20270312@makermecrazy
-DTSTAMP:20260914T000000Z
-LAST-MODIFIED:20260914T000000Z
-SEQUENCE:2
+DTSTAMP:20260914T230000Z
+LAST-MODIFIED:20260914T230000Z
+SEQUENCE:3
 DTSTART;TZID=America/Los_Angeles:20270312T173000
 DTEND;TZID=America/Los_Angeles:20270314T113000
-SUMMARY:Solano Year 2 Retreat
+SUMMARY:Solano Confirmation Year 2 - Year 2 Retreat
 LOCATION:Santiago Retreat Center\, 27912 Baker Canyon Rd\, Silverado\, CA
   92676
 DESCRIPTION:Year 2 Retreat. Friday March 12 at 5:30 PM through Sunday Mar
- ch 14 at 11:30 AM. Santiago Retreat Center. 714-649-9800. info@santiagore
- treatcenter.org. https://www.santiagoretreatcenter.org/\n\nDOCUMENTS\nCom
- plete Year 2 Packet:\nhttps://raw.githubusercontent.com/makermecrazy/cale
- ndar_files/main/Solano_Youth_Confirmation_Year_2_Packet_2026-2027.pdf\n\n
- Year 2 Calendar:\nhttps://raw.githubusercontent.com/makermecrazy/calendar
- _files/main/Solano_Year_2_Calendar_2026-2027.pdf\n\nSOLANO LINKS\nSolano 
- Youth:\nhttps://www.solanocatholic.org/solanoyouth\n\nConfirmation:\nhttp
- s://www.solanocatholic.org/confirmation\n\nSummit Meal and Service Signup
- :\nhttps://m.signupgenius.com/#!/showSignUp/10C0A45A9A92BA2F85-63825727-m
- eals?useFullSite=false\n\nCONTACT\nMatt Franklin - Youth Ministry Coordin
- ator\n949-589-1709 x2138\nmfranklin@solanocatholic.org\nsolanoyouth@solan
- ocatholic.org
+ ch 14 at 11:30 AM. Santiago Retreat Center\, 27912 Baker Canyon Rd\, Sil
+ verado\, CA 92676. 714-649-9800. info@santiagoretreatcenter.org. https:/
+ /www.santiagoretreatcenter.org/\n\nDOCUMENTS\nComplete Year 2 Packet:\nh
+ ttps://raw.githubusercontent.com/makermecrazy/calendar_files/main/Solano
+ _Youth_Confirmation_Year_2_Packet_2026-2027.pdf\n\nYear 2 Calendar:\nhtt
+ ps://raw.githubusercontent.com/makermecrazy/calendar_files/main/Solano_Y
+ ear_2_Calendar_2026-2027.pdf\n\nSOLANO LINKS\nSolano Youth:\nhttps://www
+ .solanocatholic.org/solanoyouth\n\nConfirmation:\nhttps://www.solanocath
+ olic.org/confirmation\n\nSummit Meal and Service Signup:\nhttps://m.sign
+ upgenius.com/#!/showSignUp/10C0A45A9A92BA2F85-63825727-meals?useFullSite
+ =false\n\nCONTACT\nMatt Franklin - Youth Ministry Coordinator\n949-589-1
+ 709 x2138\nmfranklin@solanocatholic.org\nsolanoyouth@solanocatholic.org
 URL:https://www.solanocatholic.org/confirmation
 ATTACH;VALUE=URI;FMTTYPE=application/pdf:https://raw.githubusercontent.co
- m/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Year_2_Packe
- t_2026-2027.pdf
+ m/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Year_2_Pack
+ et_2026-2027.pdf
 ATTACH;VALUE=URI;FMTTYPE=application/pdf:https://raw.githubusercontent.co
  m/makermecrazy/calendar_files/main/Solano_Year_2_Calendar_2026-2027.pdf
 BEGIN:VALARM
@@ -2226,40 +2224,48 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:solano-y2-requirements-due-20270404@makermecrazy
-DTSTAMP:20260914T000000Z
-LAST-MODIFIED:20260914T000000Z
-SEQUENCE:2
-DTSTART;TZID=America/Los_Angeles:20270404T090000
-DTEND;TZID=America/Los_Angeles:20270404T091500
-SUMMARY:Solano Year 2 Requirements Due
-LOCATION:San Francisco Solano Catholic Church\, 22082 Antonio Pkwy\, Ranc
- ho Santa Margarita\, CA 92688
-DESCRIPTION:REQUIREMENTS DUE APRIL 4\, 2027\n\nService Project Form - 10 
- Hrs\nEnrichment Sessions - 15\nParent + Student Day - 1\nYear 2 Retreat\n
- Letter to the Bishop\n\nDOCUMENTS\nComplete Year 2 Packet:\nhttps://raw.g
- ithubusercontent.com/makermecrazy/calendar_files/main/Solano_Youth_Confir
- mation_Year_2_Packet_2026-2027.pdf\n\nYear 2 Calendar:\nhttps://raw.githu
- busercontent.com/makermecrazy/calendar_files/main/Solano_Year_2_Calendar_
- 2026-2027.pdf\n\nService Project Form:\nhttps://raw.githubusercontent.com
- /makermecrazy/calendar_files/main/Solano_Service_Project_Form.pdf\n\nSpon
- sorship Instructions + Form:\nhttps://raw.githubusercontent.com/makermecr
- azy/calendar_files/main/Solano_Confirmation_Sponsorship_Instructions_and_
- Form.pdf\n\nSOLANO LINKS\nSolano Youth:\nhttps://www.solanocatholic.org/s
- olanoyouth\n\nConfirmation:\nhttps://www.solanocatholic.org/confirmation\
- n\nSummit Meal and Service Signup:\nhttps://m.signupgenius.com/#!/showSig
- nUp/10C0A45A9A92BA2F85-63825727-meals?useFullSite=false\n\nCONTACT\nMatt 
- Franklin - Youth Ministry Coordinator\n949-589-1709 x2138\nmfranklin@sola
- nocatholic.org\nsolanoyouth@solanocatholic.org
+DTSTAMP:20260914T230000Z
+LAST-MODIFIED:20260914T230000Z
+SEQUENCE:3
+DTSTART;VALUE=DATE:20270404
+DTEND;VALUE=DATE:20270405
+SUMMARY:Solano Confirmation Year 2 - Requirements Due
+DESCRIPTION:Due April 4\, 2027: Service Project Form (10 Hrs)\, Enrichmen
+ t Sessions (15)\, Parent + Student Day (1)\, Year 2 Retreat\, Letter to 
+ the Bishop.\n\nDOCUMENTS\nComplete Year 2 Packet:\nhttps://raw.githubuse
+ rcontent.com/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_
+ Year_2_Packet_2026-2027.pdf\n\nYear 2 Calendar:\nhttps://raw.githubuserc
+ ontent.com/makermecrazy/calendar_files/main/Solano_Year_2_Calendar_2026-
+ 2027.pdf\n\nService Project Form:\nhttps://raw.githubusercontent.com/mak
+ ermecrazy/calendar_files/main/Solano_Service_Project_Form.pdf\n\nSponsor
+ ship Instructions + Form:\nhttps://raw.githubusercontent.com/makermecraz
+ y/calendar_files/main/Solano_Confirmation_Sponsorship_Instructions_and_F
+ orm.pdf\n\nSOLANO LINKS\nSolano Youth:\nhttps://www.solanocatholic.org/s
+ olanoyouth\n\nConfirmation:\nhttps://www.solanocatholic.org/confirmation
+ \n\nSummit Meal and Service Signup:\nhttps://m.signupgenius.com/#!/showS
+ ignUp/10C0A45A9A92BA2F85-63825727-meals?useFullSite=false\n\nCONTACT\nMa
+ tt Franklin - Youth Ministry Coordinator\n949-589-1709 x2138\nmfranklin@
+ solanocatholic.org\nsolanoyouth@solanocatholic.org
 URL:https://www.solanocatholic.org/confirmation
 ATTACH;VALUE=URI;FMTTYPE=application/pdf:https://raw.githubusercontent.co
- m/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Year_2_Packe
- t_2026-2027.pdf
+ m/makermecrazy/calendar_files/main/Solano_Youth_Confirmation_Year_2_Pack
+ et_2026-2027.pdf
 ATTACH;VALUE=URI;FMTTYPE=application/pdf:https://raw.githubusercontent.co
  m/makermecrazy/calendar_files/main/Solano_Year_2_Calendar_2026-2027.pdf
 ATTACH;VALUE=URI;FMTTYPE=application/pdf:https://raw.githubusercontent.co
  m/makermecrazy/calendar_files/main/Solano_Service_Project_Form.pdf
 ATTACH;VALUE=URI;FMTTYPE=application/pdf:https://raw.githubusercontent.co
- m/makermecrazy/calendar_files/main/Solano_Confirmation_Sponsorship_Instru
- ctions_and_Form.pdf
+ m/makermecrazy/calendar_files/main/Solano_Confirmation_Sponsorship_Instr
+ uctions_and_Form.pdf
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER;VALUE=DATE-TIME:20270328T160000Z
+DESCRIPTION:Solano requirements due in 1 week
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER;VALUE=DATE-TIME:20270402T160000Z
+DESCRIPTION:Solano requirements due in 2 days
+END:VALARM
 END:VEVENT
 END:VCALENDAR
