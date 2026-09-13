@@ -1,0 +1,168 @@
+name: Rebuild Year 2 subscription
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/rebuild-year2.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  rebuild:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Rebuild and audit Year 2 calendar
+        shell: python
+        run: |
+          from pathlib import Path
+          from collections import Counter
+          import re
+
+          path = Path('Solano_Year_2_SUBSCRIPTION_2026-2027.ics')
+          raw = path.read_text(encoding='utf-8').replace('\r\n','\n').replace('\r','\n')
+
+          # Unfold RFC 5545 continuation lines.
+          lines = []
+          for line in raw.split('\n'):
+              if line.startswith((' ', '\t')) and lines:
+                  lines[-1] += line[1:]
+              else:
+                  lines.append(line)
+
+          rebuilt = []
+          in_event = False
+          for line in lines:
+              if line.startswith('PRODID:'):
+                  line = 'PRODID:-//MakerMeCrazy//Solano Year 2 Subscription v2//EN'
+
+              if line == 'BEGIN:VEVENT':
+                  in_event = True
+                  rebuilt.append(line)
+                  continue
+
+              if in_event and line.startswith('DTSTAMP:'):
+                  rebuilt.append('DTSTAMP:20260913T223000Z')
+                  rebuilt.append('LAST-MODIFIED:20260913T223000Z')
+                  rebuilt.append('SEQUENCE:1')
+                  continue
+
+              if in_event and line.startswith('ATTACH'):
+                  url = line.split(':', 1)[1]
+                  filename = url.rsplit('/', 1)[-1]
+                  rebuilt.append(f'ATTACH;VALUE=URI;FMTTYPE=application/pdf;FILENAME="{filename}":{url}')
+                  continue
+
+              rebuilt.append(line)
+              if line == 'END:VEVENT':
+                  in_event = False
+
+          # Fold lines to RFC 5545 limits.
+          def fold(s, limit=74):
+              if len(s.encode('utf-8')) <= limit:
+                  return [s]
+              parts, current, current_limit = [], '', limit
+              for ch in s:
+                  if len((current + ch).encode('utf-8')) > current_limit:
+                      parts.append(current)
+                      current = ch
+                      current_limit = limit - 1
+                  else:
+                      current += ch
+              if current:
+                  parts.append(current)
+              return [parts[0]] + [' ' + p for p in parts[1:]]
+
+          folded = []
+          for line in rebuilt:
+              folded.extend(fold(line))
+          text = '\r\n'.join(folded).rstrip('\r\n') + '\r\n'
+
+          # Audit the finished file before writing it.
+          check_lines = []
+          for line in text.replace('\r\n','\n').split('\n'):
+              if line.startswith((' ', '\t')) and check_lines:
+                  check_lines[-1] += line[1:]
+              else:
+                  check_lines.append(line)
+
+          events, current = [], None
+          for line in check_lines:
+              if line == 'BEGIN:VEVENT':
+                  current = []
+              elif line == 'END:VEVENT' and current is not None:
+                  events.append(current)
+                  current = None
+              elif current is not None:
+                  current.append(line)
+
+          assert len(events) == 57, f'Expected 57 events, found {len(events)}'
+
+          kinds = Counter()
+          for event in events:
+              summary = next((x[8:] for x in event if x.startswith('SUMMARY:')), '')
+              if 'Enrichment' in summary:
+                  kind = 'enrichment'
+              elif 'Summit' in summary:
+                  kind = 'summit'
+              elif 'Parent + Student Meeting' in summary:
+                  kind = 'parent_meeting'
+              elif 'Parent + Student Day Retreat' in summary:
+                  kind = 'parent_day'
+              elif 'Year 2 Retreat' in summary:
+                  kind = 'retreat'
+              elif 'Requirements Due' in summary:
+                  kind = 'due'
+              else:
+                  raise AssertionError(f'Unknown event: {summary}')
+              kinds[kind] += 1
+              attachments = [x for x in event if x.startswith('ATTACH;')]
+              expected = 4 if kind == 'due' else 2
+              assert len(attachments) == expected, f'{summary}: expected {expected} attachments, found {len(attachments)}'
+              for a in attachments:
+                  assert 'VALUE=URI' in a and 'FMTTYPE=application/pdf' in a and 'FILENAME=' in a
+
+          assert kinds == Counter({'summit':33,'enrichment':18,'parent_meeting':2,'parent_day':2,'retreat':1,'due':1}), kinds
+
+          expected_enrichment = {'20260927','20261004','20261018','20261025','20261108','20261122','20261206','20261213','20261220','20270110','20270124','20270131','20270221','20270307','20270321','20270404','20270411','20270418'}
+          expected_summit = {'20260823','20260830','20260906','20260913','20260920','20260927','20261004','20261011','20261018','20261025','20261101','20261108','20261122','20261129','20261206','20261213','20261220','20270110','20270117','20270124','20270131','20270221','20270228','20270307','20270321','20270404','20270411','20270418','20270425','20270502','20270516','20270523','20270530'}
+
+          def event_dates(term):
+              result = set()
+              for event in events:
+                  summary = next((x[8:] for x in event if x.startswith('SUMMARY:')), '')
+                  if term in summary:
+                      dt = next(x for x in event if x.startswith('DTSTART'))
+                      result.add(dt.split(':',1)[1][:8])
+              return result
+
+          assert event_dates('Enrichment') == expected_enrichment
+          assert event_dates('Summit') == expected_summit
+
+          due = next(e for e in events if any('Requirements Due' in x for x in e if x.startswith('SUMMARY:')))
+          due_attachments = '\n'.join(x for x in due if x.startswith('ATTACH;'))
+          for required in [
+              'Solano_Youth_Confirmation_Year_2_Packet_2026-2027.pdf',
+              'Solano_Year_2_Calendar_2026-2027.pdf',
+              'Solano_Service_Project_Form.pdf',
+              'Solano_Confirmation_Sponsorship_Instructions_and_Form.pdf'
+          ]:
+              assert required in due_attachments, f'Missing due-date attachment: {required}'
+
+          path.write_text(text, encoding='utf-8', newline='')
+          print('Audit passed: 57 events, all dates present, all attachment metadata present.')
+
+      - name: Commit rebuilt calendar
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add Solano_Year_2_SUBSCRIPTION_2026-2027.ics
+          if git diff --cached --quiet; then
+            echo "No changes needed"
+          else
+            git commit -m "Rebuild Year 2 subscription attachments"
+            git push
+          fi
