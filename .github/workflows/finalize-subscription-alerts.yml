@@ -1,0 +1,43 @@
+name: Finalize Solano subscription alerts
+on:
+  push:
+    paths:
+      - '.github/workflows/finalize-subscription-alerts.yml'
+permissions:
+  contents: write
+jobs:
+  finalize:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Restore due-date alerts and validate
+        shell: python
+        run: |
+          from pathlib import Path
+          for year, uid, t1, t2 in [
+            (1,'solano-y1-requirements-due-20270510@makermecrazy','20270503T160000Z','20270508T160000Z'),
+            (2,'solano-y2-requirements-due-20270404@makermecrazy','20270328T160000Z','20270402T160000Z')]:
+              p=Path(f'Solano_Year_{year}_SUBSCRIPTION_2026-2027.ics')
+              s=p.read_text()
+              s=s.replace('SEQUENCE:2','SEQUENCE:3')
+              marker='UID:'+uid
+              a=s.index(marker); b=s.index('END:VEVENT',a)
+              block=s[a:b]
+              if 'Requirements due in 1 week' not in block:
+                  alarms=(f'BEGIN:VALARM\nACTION:DISPLAY\nTRIGGER;VALUE=DATE-TIME:{t1}\nDESCRIPTION:Requirements due in 1 week\nEND:VALARM\n'
+                          f'BEGIN:VALARM\nACTION:DISPLAY\nTRIGGER;VALUE=DATE-TIME:{t2}\nDESCRIPTION:Requirements due in 2 days\nEND:VALARM\n')
+                  s=s[:b]+alarms+s[b:]
+              assert s.count('BEGIN:VEVENT')==57
+              assert s.count('END:VEVENT')==57
+              assert s.count('BEGIN:VALARM')==114
+              assert 'DOCUMENTS\\n' in s
+              assert 'Service Project Form:' in s
+              assert 'Sponsorship Instructions + Form:' in s
+              p.write_text(s,newline='')
+      - name: Commit final calendars
+        run: |
+          git config user.name "MakerMeCrazy Calendar Builder"
+          git config user.email "actions@users.noreply.github.com"
+          git add Solano_Year_1_SUBSCRIPTION_2026-2027.ics Solano_Year_2_SUBSCRIPTION_2026-2027.ics
+          git commit -m "Restore requirements due date alerts" || exit 0
+          git push
