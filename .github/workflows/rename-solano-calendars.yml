@@ -1,0 +1,34 @@
+name: Rename Solano subscription calendars
+on:
+  push:
+    paths:
+      - '.github/workflows/rename-solano-calendars.yml'
+permissions:
+  contents: write
+jobs:
+  rename:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Rename calendar feeds
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          changes = {
+              'Solano_Year_1_SUBSCRIPTION_2026-2027.ics': ('X-WR-CALNAME:Solano Confirmation Year 1 + Summit 2026-2027', 'X-WR-CALNAME:Solano Year 1'),
+              'Solano_Year_2_SUBSCRIPTION_2026-2027.ics': ('X-WR-CALNAME:Solano Confirmation Year 2 + Summit 2026-2027', 'X-WR-CALNAME:Solano Year 2'),
+          }
+          for filename, (old, new) in changes.items():
+              p = Path(filename)
+              text = p.read_text()
+              if old not in text:
+                  raise SystemExit(f'Expected calendar name not found in {filename}')
+              p.write_text(text.replace(old, new, 1))
+          PY
+      - name: Commit calendar names
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add Solano_Year_1_SUBSCRIPTION_2026-2027.ics Solano_Year_2_SUBSCRIPTION_2026-2027.ics
+          git commit -m 'Rename subscription calendars to Solano Year 1 and Year 2'
+          git push
